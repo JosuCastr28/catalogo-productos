@@ -2,10 +2,135 @@
 {
   "producto": "ABRAZADERA OMEGA 1",
   "codigo": "ARI00002",
-  "categoria": "Abrazaderas",
+  "categoria": "ABRAZADERA",
   "unidad": "PCE",
-  "imagen": "imagenes/ARI00002.jpg"
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00002.jpg"
 },
-  
+  {
+  "producto": "ABRAZADERA OMEGA 1/2",
+  "codigo": "ARI00003",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00003.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN  HS-28",
+  "codigo": "ARI00004",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00004.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-10",
+  "codigo": "ARI00006",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00005.jpg"
+},
+   {
+  "producto": "ABRAZADERA SIN FIN HS-104",
+  "codigo": "ARI00007",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00007.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-12",
+  "codigo": "ARI00008",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00008.jpg"
+},
+   {
+  "producto": "ABRAZADERA SIN FIN HS-16",
+  "codigo": "ARI00009",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00009.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-20",
+  "codigo": "ARI00010",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00010.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-24",
+  "codigo": "ARI00011",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00011.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-36",
+  "codigo": "ARI00012",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00012.jpg"
+},
+   {
+  "producto": "ABRAZADERA SIN FIN HS-4",
+  "codigo": "ARI00013",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00013.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-52",
+  "codigo": "ARI00014",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00014.jpg"
+},
+   {
+  "producto": "ABRAZADERA SIN FIN HS-6",
+  "codigo": "ARI00015",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00015.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-72",
+  "codigo": "ARI00016",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00016.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-8",
+  "codigo": "ARI00017",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00017.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-88",
+  "codigo": "ARI00018",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00018.jpg"
+},
+  {
+  "producto": "ABRAZADERA SIN FIN HS-89",
+  "codigo": "ARI00019",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00019.jpg"
+},
+  {
+  "producto": "ABRAZADERA TIPO U SIN TUERCA 1/2 X 1/4",
+  "codigo": "ARI00020",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00020.jpg"
+},
+  {
+  "producto": "ABRAZADERA TIPO U SIN TUERCA 2 X 1/4",
+  "codigo": "ARI00021",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00021.jpg"
+}
   ]
   
