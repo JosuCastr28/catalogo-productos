@@ -747,8 +747,280 @@
   "categoria": "BALERO",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00170.jpg"
+},
+{
+  "producto": "BANDA 2126V365",
+  "codigo": "ARI00171",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00171.jpg"
+},
+{
+  "producto": "BANDA 225L",
+  "codigo": "ARI00172",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00172.jpg"
+},
+{
+  "producto": "BANDA 3L230",
+  "codigo": "ARI00173",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00173.jpg"
+},
+{
+  "producto": "BANDA 3V630",
+  "codigo": "ARI00174",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00174.jpg"
+},
+{
+  "producto": "BANDA 3V630",
+  "codigo": "ARI00175",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00175.jpg"
+},
+{
+  "producto": "BANDA 3VX710",
+  "codigo": "ARI00176",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00176.jpg"
+},
+{
+  "producto": "BANDA 5V-1400",
+  "codigo": "ARI00177",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00177.jpg"
+},
+{
+  "producto": "BANDA A-28 (EQUIVALENTE M-28)",
+  "codigo": "ARI00178",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00178.jpg"
+},
+{
+  "producto": "BANDA A-35",
+  "codigo": "ARI00179",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00179.jpg"
+},
+{
+  "producto": "BANDA A-44",
+  "codigo": "ARI00180",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00180.jpg"
+},
+{
+  "producto": "BANDA A-50",
+  "codigo": "ARI00181",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00181.jpg"
+},
+{
+  "producto": "BANDA A-63",
+  "codigo": "ARI00182",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00182.jpg"
+},
+{
+  "producto": "BANDA B-120",
+  "codigo": "ARI00183",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00183.jpg"
+},
+{
+  "producto": "BANDA B-31",
+  "codigo": "ARI00184",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00184.jpg"
+},
+{
+  "producto": "BANDA B-33",
+  "codigo": "ARI00185",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00185.jpg"
+},
+{
+  "producto": "BANDA B-34",
+  "codigo": "ARI00186",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00186.jpg"
+},
+{
+  "producto": "BANDA B-35",
+  "codigo": "ARI00187",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00187.jpg"
+},
+{
+  "producto": "BANDA B-36",
+  "codigo": "ARI00188",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00188.jpg"
+},
+{
+  "producto": "BANDA B-37",
+  "codigo": "ARI00189",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00189.jpg"
+},
+{
+  "producto": "BANDA B-38",
+  "codigo": "ARI00190",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00190.jpg"
+},
+{
+  "producto": "BANDA B-39",
+  "codigo": "ARI00191",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00191.jpg"
+},
+{
+  "producto": "BANDA B-40",
+  "codigo": "ARI00192",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00192.jpg"
+},
+{
+  "producto": "BANDA B-41",
+  "codigo": "ARI00193",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00193.jpg"
+},
+{
+  "producto": "BANDA B-42",
+  "codigo": "ARI00194",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00194.jpg"
+},
+{
+  "producto": "BANDA B-43",
+  "codigo": "ARI00195",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00195.jpg"
+},
+{
+  "producto": "BANDA B-46",
+  "codigo": "ARI00196",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00196.jpg"
+},
+{
+  "producto": "BANDA B-47",
+  "codigo": "ARI00197",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00197.jpg"
+},
+{
+  "producto": "BANDA B-49",
+  "codigo": "ARI00198",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00198.jpg"
+},
+{
+  "producto": "BANDA B-50",
+  "codigo": "ARI00199",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00199.jpg"
+},
+{
+  "producto": "BANDA B-51",
+  "codigo": "ARI00200",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00200.jpg"
+},
+{
+  "producto": "BANDA B-52",
+  "codigo": "ARI00201",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00201.jpg"
+},
+{
+  "producto": "BANDA B-53",
+  "codigo": "ARI00202",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00202.jpg"
+},
+{
+  "producto": "BANDA B-57",
+  "codigo": "ARI00203",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00203.jpg"
+},
+{
+  "producto": "BANDA B-82",
+  "codigo": "ARI00204",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00204.jpg"
+},
+{
+  "producto": "BANDA B-86",
+  "codigo": "ARI00205",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00205.jpg"
+},
+{
+  "producto": "BANDA B-88",
+  "codigo": "ARI00206",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00206.jpg"
+},
+{
+  "producto": "BANDA B-90",
+  "codigo": "ARI00207",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00207.jpg"
+},
+{
+  "producto": "BANDA B-97",
+  "codigo": "ARI00208",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00208.jpg"
+},
+{
+  "producto": "BANDA B-97",
+  "codigo": "ARI00209",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00209.jpg"
 }
-
 
 
   ]
