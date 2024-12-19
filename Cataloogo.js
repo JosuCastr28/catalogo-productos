@@ -27,3 +27,17 @@ function displayProducts(products) {
    });
 }
 
+// Función para filtrar los productos
+function filterProducts() {
+   const searchName = document.getElementById('search-name').value.toLowerCase();
+   const searchFamilia = document.getElementById('search-familia').value.toLowerCase();
+
+   const filteredProducts = products.filter(product => {
+      const matchName = product.producto.toLowerCase().includes(searchName);
+      const matchFamilia = product.categoria.toLowerCase().includes(searchFamilia);
+      
+      return matchName && matchFamilia;
+   });
+
+   displayProducts(filteredProducts); // Mostrar los productos filtrados
+}
