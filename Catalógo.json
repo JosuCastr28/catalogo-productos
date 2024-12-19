@@ -131,6 +131,34 @@
   "categoria": "ABRAZADERA",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00021.jpg"
-}
+},
+  {
+  "producto": "ABRAZADERA TIPO U SIN TUERCA 3 X 3/8",
+  "codigo": "ARI00022",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00022.jpg"
+},
+   {
+  "producto": "ABRAZADERA TIPO U SIN TUERCA 3/4 X 1/4",
+  "codigo": "ARI00023",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00023.jpg"
+},
+  {
+  "producto": "ABRAZADERA TIPO U SIN TUERCA 4 X 3/8",
+  "codigo": "ARI00024",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00024.jpg"
+},
+  {
+  "producto": "ABRAZADERA TIPO U SIN TUERCAS 1 1/2 X 1/4",
+  "codigo": "ARI00025",
+  "categoria": "ABRAZADERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00025.jpg"
+},
   ]
   
