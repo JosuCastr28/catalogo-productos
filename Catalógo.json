@@ -439,7 +439,317 @@
   "categoria": "TORNILLERIA",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00098.jpg"
+},
+{
+  "producto": "ANCLA TIPO ARPON 5/8 X 7",
+  "codigo": "ARI00099",
+  "categoria": "TORNILLERIA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00099.jpg"
+},
+{
+  "producto": "ANGULO  1/8 X 2",
+  "codigo": "ARI00103",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00103.jpg"
+},
+{
+  "producto": "ANGULO  3/16 X2",
+  "codigo": "ARI00104",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00104.jpg"
+},
+{
+  "producto": "ANGULO 1/4 X 3",
+  "codigo": "ARI00105",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00105.jpg"
+},
+{
+  "producto": "ANGULO 1/4 X 1",
+  "codigo": "ARI00106",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00106.jpg"
+},
+{
+  "producto": "ANGULO 1/4 X 1 1/2",
+  "codigo": "ARI00107",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00107.jpg"
+},
+{
+  "producto": "ANGULO 1/4 X 2",
+  "codigo": "ARI00108",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00108.jpg"
+},
+{
+  "producto": "ANGULO 1/4 X 2 1/2",
+  "codigo": "ARI00109",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00109.jpg"
+},
+{
+  "producto": "ANGULO 1/4 X 4",
+  "codigo": "ARI00110",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00110.jpg"
+},
+{
+  "producto": "ANGULO 1/8 X 1 1/4",
+  "codigo": "ARI00111",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00111.jpg"
+},
+{
+  "producto": "ANGULO 1/8 X 3/4",
+  "codigo": "ARI00112",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00112.jpg"
+},
+{
+  "producto": "ANGULO 3/16 X 1 1/2",
+  "codigo": "ARI00113",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00113.jpg"
+},
+{
+  "producto": "ANGULO 3/16 X 3",
+  "codigo": "ARI00114",
+  "categoria": "PERFILES",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00114.jpg"
+},
+{
+  "producto": "ANGULO INOX 1/4 X 1 1/4",
+  "codigo": "ARI00116",
+  "categoria": "INOXIDABLE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00116.jpg"
+},
+{
+  "producto": "ANILLO DE RETENCION EXTERIOR OMEGA SH-59",
+  "codigo": "ARI00119",
+  "categoria": "TORNILLERIA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00119.jpg"
+},
+{
+  "producto": "ANILLO DE RETENCION S/M OMEGA",
+  "codigo": "ARI00120",
+  "categoria": "TORNILLERIA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00120.jpg"
+},
+{
+  "producto": "ANTICONGELANTE BARDAL",
+  "codigo": "ARI00121",
+  "categoria": "QUIMICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00121.jpg"
+},
+{
+  "producto": "APAGADOR COMPLETO TAPA Y PLACA BASE",
+  "codigo": "ARI00123",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00123.jpg"
+},
+{
+  "producto": "APAGADOR SENCILLO 110 V QUINCIÑO",
+  "codigo": "ARI00124",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00124.jpg"
+},
+{
+  "producto": "ARANDELA W05",
+  "codigo": "ARI00127",
+  "categoria": "TORNILLERIA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00127.jpg"
+},
+{
+  "producto": "ARCO SEGUETA ALTA TENCION 12\" URREA",
+  "codigo": "ARI00128",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00128.jpg"
+},
+{
+  "producto": "MOOP DE 60 CM COMPLETO",
+  "codigo": "ARI00129",
+  "categoria": "LIMPIEZA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00129.jpg"
+},
+{
+  "producto": "ARMELLA ABIERTA 19 X 60  ",
+  "codigo": "ARI00131",
+  "categoria": "TORNILLERIA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00131.jpg"
+},
+{
+  "producto": "ARWICK APARATO DIFUSOR SEMI AUTOMATICO MANUAL",
+  "codigo": "ARI00132",
+  "categoria": "LIMPIEZA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00132.jpg"
+},
+{
+  "producto": "ASPIRADORA",
+  "codigo": "ARI00133",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00133.jpg"
+},
+{
+  "producto": "ATOMIZADOR REFORZADO",
+  "codigo": "ARI00134",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00134.jpg"
+},
+{
+  "producto": "AUTOCLER DADO LARGOS E-1/2\" 14 PZA",
+  "codigo": "ARI00135",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00135.jpg"
+},
+{
+  "producto": "AUTOCLER DADO LARGOS E-1/2\" 14 PZA",
+  "codigo": "ARI00135",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00135.jpg"
+},
+{
+  "producto": "AZUCAR MORENA  1 KILO",
+  "codigo": "ARI00137",
+  "categoria": "CAFETERIA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00137.jpg"
+},
+{
+  "producto": "BALERO 6001 2RS",
+  "codigo": "ARI00150",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00150.jpg"
+},
+{
+  "producto": "BALERO 6002 ZZ",
+  "codigo": "ARI00151",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00151.jpg"
+},
+{
+  "producto": "BALERO 6008 2RS",
+  "codigo": "ARI00152",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00152.jpg"
+},
+{
+  "producto": "BALERO 6018",
+  "codigo": "ARI00153",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00153.jpg"
+},
+{
+  "producto": "BALERO 6202ZZ",
+  "codigo": "ARI00154",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00154.jpg"
+},
+{
+  "producto": "BALERO 6203.2z.c9",
+  "codigo": "ARI00155",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00155.jpg"
+},
+{
+  "producto": "BALERO 6205ZZ",
+  "codigo": "ARI00157",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00157.jpg"
+},
+{
+  "producto": "BALERO 6206",
+  "codigo": "ARI00158",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00158.jpg"
+},
+{
+  "producto": "BALERO 6206-RD",
+  "codigo": "ARI00159",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00159.jpg"
+},
+{
+  "producto": "BALERO 6207-2Z",
+  "codigo": "ARI00160",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00160.jpg"
+},
+{
+  "producto": "BALERO 6208-2Z",
+  "codigo": "ARI00161",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00161.jpg"
+},
+{
+  "producto": "BALERO 6210 2RS",
+  "codigo": "ARI00162",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00162.jpg"
+},
+{
+  "producto": "BALERO 6214",
+  "codigo": "ARI00163",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00163.jpg"
+},
+{
+  "producto": "BALERO 6305-2Z",
+  "codigo": "ARI00165",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00165.jpg"
+},
+{
+  "producto": "BALERO DPI L44643/13",
+  "codigo": "ARI00170",
+  "categoria": "BALERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00170.jpg"
 }
+
+
 
   ]
   
