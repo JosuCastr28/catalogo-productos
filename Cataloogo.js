@@ -1,6 +1,7 @@
-// Cargar los productos desde el archivo JSON
 let products = [];
-fetch('https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/Catalógo.json')
+
+// Cargar los productos desde el archivo JSON
+fetch('Catalógo.json')
    .then(response => response.json())
    .then(data => {
       products = data;
@@ -27,16 +28,14 @@ function displayProducts(products) {
    });
 }
 
-// Función para filtrar los productos
+// Función para filtrar productos según el nombre o la familia
 function filterProducts() {
-   const searchName = document.getElementById('search-name').value.toLowerCase();
-   const searchFamilia = document.getElementById('search-familia').value.toLowerCase();
+   const nameFilter = document.getElementById('search-name').value.toLowerCase();
+   const familiaFilter = document.getElementById('search-familia').value.toLowerCase();
 
    const filteredProducts = products.filter(product => {
-      const matchName = product.producto.toLowerCase().includes(searchName);
-      const matchFamilia = product.categoria.toLowerCase().includes(searchFamilia);
-      
-      return matchName && matchFamilia;
+      return (product.producto.toLowerCase().includes(nameFilter) || nameFilter === '') &&
+             (product.categoria.toLowerCase().includes(familiaFilter) || familiaFilter === '');
    });
 
    displayProducts(filteredProducts); // Mostrar los productos filtrados
