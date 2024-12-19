@@ -1015,13 +1015,508 @@
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00208.jpg"
 },
 {
-  "producto": "BANDA B-97",
+  "producto": "BANDA C-118",
   "codigo": "ARI00209",
   "categoria": "BANDA",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00209.jpg"
+},
+{
+  "producto": "BANDA C-126",
+  "codigo": "ARI00210",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00210.jpg"
+},
+{
+  "producto": "BANDA C-128",
+  "codigo": "ARI00211",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00211.jpg"
+},
+{
+  "producto": "BANDA C-128",
+  "codigo": "ARI00211",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00211.jpg"
+},
+{
+  "producto": "BANDA C-132",
+  "codigo": "ARI00212",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00212.jpg"
+},
+{
+  "producto": "BANDA C-136",
+  "codigo": "ARI00213",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00213.jpg"
+},
+{
+  "producto": "BANDA C-140",
+  "codigo": "ARI00214",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00214.jpg"
+},
+{
+  "producto": "BANDA C-148",
+  "codigo": "ARI00215",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00215.jpg"
+},
+{
+  "producto": "BANDA C-53",
+  "codigo": "ARI00216",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00216.jpg"
+},
+{
+  "producto": "BANDA C-55",
+  "codigo": "ARI00217",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00217.jpg"
+},
+{
+  "producto": "BANDA C-78",
+  "codigo": "ARI00218",
+  "categoria": "BANDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00218.jpg"
+},
+{
+  "producto": "BISAGRA DE BARRIL 3/8",
+  "codigo": "ARI00245",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00245.jpg"
+},
+{
+  "producto": "BISAGRA DE BARRIL 5/8",
+  "codigo": "ARI00246",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00246.jpg"
+},
+{
+  "producto": "BISAGRA DE BARRIL 1/2",
+  "codigo": "ARI00247",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00247.jpg"
+},
+{
+  "producto": "BISAGRA DE BARRIL 3/4",
+  "codigo": "ARI00248",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00248.jpg"
+},
+{
+  "producto": "BISAGRA DE LIBRO 1 1/2",
+  "codigo": "ARI00249",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00249.jpg"
+},
+{
+  "producto": "BISAGRA DE LIBRO 1",
+  "codigo": "ARI00250",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00250.jpg"
+},
+{
+  "producto": "BISAGRA DE LIBRO 3 x 3",
+  "codigo": "ARI00251",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00251.jpg"
+},
+{
+  "producto": "BISAGRA DE LIBRO 2",
+  "codigo": "ARI00252",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00252.jpg"
+},
+{
+  "producto": "BISAGRA DE LIBRO 3 1/2",
+  "codigo": "ARI00253",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00253.jpg"
+},
+{
+  "producto": "BOLSA DE 20*30 ",
+  "codigo": "ARI00256",
+  "categoria": "BOLSA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00256.jpg"
+},
+{
+  "producto": "BOLSA DE 30*40",
+  "codigo": "ARI00257",
+  "categoria": "BOLSA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00257.jpg"
+},
+{
+  "producto": "BOLSA DE BASURA NEGRA JUMBO",
+  "codigo": "ARI00258",
+  "categoria": "BOLSA",
+  "unidad": "KGM",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00258.jpg"
+},
+{
+  "producto": "BOLSA TRANSPARENTE 50X90",
+  "codigo": "ARI00261",
+  "categoria": "BOLSA",
+  "unidad": "KGM",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00261.jpg"
+},
+{
+  "producto": "BOLSA TRANSPARENTE 70X90",
+  "codigo": "ARI00262",
+  "categoria": "BOLSA",
+  "unidad": "KGM",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00262.jpg"
+},
+{
+  "producto": "BOLSA TRANSPARENTE 90X120",
+  "codigo": "ARI00263",
+  "categoria": "BOLSA",
+  "unidad": "KGM",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00263.jpg"
+},
+{
+  "producto": "BOMBA PARA SOLVENTES",
+  "codigo": "ARI00266",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00266.jpg"
+},
+{
+  "producto": "BOQUILLA PARA KARCHER",
+  "codigo": "ARI00269",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00269.jpg"
+},
+{
+  "producto": "BOQUILLAS DE ASPIRADO",
+  "codigo": "ARI00271",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00271.jpg"
+},
+{
+  "producto": "BRIDA AC CIEGA  3",
+  "codigo": "ARI00279",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00279.jpg"
+},
+{
+  "producto": "BRIDA INOX SOLD 3",
+  "codigo": "ARI00280",
+  "categoria": "INOXIDABLE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00280.jpg"
+},
+{
+  "producto": "BRIDA AC ROSC. 3",
+  "codigo": "ARI00281",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00281.jpg"
+},
+{
+  "producto": "BRIDA AC SOLD. 1",
+  "codigo": "ARI00282",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00282.jpg"
+},
+{
+  "producto": "BRIDA AC SOLD. 2",
+  "codigo": "ARI00283",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00283.jpg"
+},
+{
+  "producto": "BRIDA AC SOLD. 4",
+  "codigo": "ARI00284",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00284.jpg"
+},
+{
+  "producto": "BRIDA DE CUELLO SOLD. DE 3",
+  "codigo": "ARI00285",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00285.jpg"
+},
+{
+  "producto": "BRIDA INOX ROSC. 3",
+  "codigo": "ARI00287",
+  "categoria": "INOXIDABLE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00287.jpg"
+},
+{
+  "producto": "BRIDA INOX SOLD. 2",
+  "codigo": "ARI00288",
+  "categoria": "INOXIDABLE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00288.jpg"
+},
+{
+  "producto": "BRIDA PVC CEM 2",
+  "codigo": "ARI00290",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00290.jpg"
+},
+{
+  "producto": "BRIDA PVC CEM 3",
+  "codigo": "ARI00291",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00291.jpg"
+},
+{
+  "producto": "BRIDA PVC CEM 6",
+  "codigo": "ARI00292",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00292.jpg"
+},
+{
+  "producto": "BRIDA PVC CIEGA 3",
+  "codigo": "ARI00293",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00293.jpg"
+},
+{
+  "producto": "BRIDA PVC CIEGA 2",
+  "codigo": "ARI00294",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00294.jpg"
+},
+{
+  "producto": "BRIDA PVC CIEGA 4",
+  "codigo": "ARI00295",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00295.jpg"
+},
+{
+  "producto": "BRIDA PVC CIEGA 6",
+  "codigo": "ARI00296",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00296.jpg"
+},
+{
+  "producto": "BRIDA PVC ROSC. 2",
+  "codigo": "ARI00297",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00297.jpg"
+},
+{
+  "producto": "BRIDA PVC ROSC. 3",
+  "codigo": "ARI00298",
+  "categoria": "PVC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00298.jpg"
+},
+{
+  "producto": "BROCA  13/16 X 6",
+  "codigo": "ARI00299",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00299.jpg"
+},
+{
+  "producto": "BROCA  1/16",
+  "codigo": "ARI00300",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00300.jpg"
+},
+{
+  "producto": "BROCA  1/2",
+  "codigo": "ARI00301",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00301.jpg"
+},
+{
+  "producto": "BROCA  1/8",
+  "codigo": "ARI00303",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00303.jpg"
+},
+{
+  "producto": "BROCA 11/16 X 8",
+  "codigo": "ARI00304",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00304.jpg"
+},
+{
+  "producto": "BROCA 11/64",
+  "codigo": "ARI00305",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00305.jpg"
+},
+{
+  "producto": "BROCA 13/64",
+  "codigo": "ARI00306",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00306.jpg"
+},
+{
+  "producto": "BROCA 17/64 x 8",
+  "codigo": "ARI00307",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00307.jpg"
+},
+{
+  "producto": "BROCA 3/16",
+  "codigo": "ARI00311",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00311.jpg"
+},
+{
+  "producto": "BROCA 3/4 x 6",
+  "codigo": "ARI00312",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00312.jpg"
+},
+{
+  "producto": "BROCA 3/8",
+  "codigo": "ARI00313",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00313.jpg"
+},
+{
+  "producto": "BROCA 3/8 x 12",
+  "codigo": "ARI00314",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00314.jpg"
+},
+{
+  "producto": "BROCA 5/16",
+  "codigo": "ARI00316",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00316.jpg"
+},
+{
+  "producto": "BROCA 5/32",
+  "codigo": "ARI00317",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00317.jpg"
+},
+{
+  "producto": "BROCA 5/8",
+  "codigo": "ARI00318",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00318.jpg"
+},
+{
+  "producto": "BROCA 7/16",
+  "codigo": "ARI00319",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00319.jpg"
+},
+{
+  "producto": "BROCA 7/8 x 6",
+  "codigo": "ARI00320",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00320.jpg"
+},
+{
+  "producto": "BROCA 9/64",
+  "codigo": "ARI00323",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00323.jpg"
+},
+{
+  "producto": "BROCA CON REC. COBALTO 1/2",
+  "codigo": "ARI00328",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00328.jpg"
+},
+{
+  "producto": "BROCA CON REC. COBALTO 1/4",
+  "codigo": "ARI00329",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00329.jpg"
+},
+{
+  "producto": "BROCA CON REC. COBALTO 1/8",
+  "codigo": "ARI00330",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00330.jpg"
+},
+{
+  "producto": "BROCA CON REC. COBALTO 3/16",
+  "codigo": "ARI00331",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00331.jpg"
+},
+{
+  "producto": "BROCA CON REC. COBALTO 5/32",
+  "codigo": "ARI00332",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00332.jpg"
+},
+{
+  "producto": "BROCA CON REC. COBALTO 5/32",
+  "codigo": "ARI00332",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00332.jpg"
 }
 
 
+  
+
+
+
+  
   ]
   
