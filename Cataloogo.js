@@ -1,7 +1,7 @@
 let products = [];
 
 // Cargar los productos desde el archivo JSON
-fetch('https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/Catal%C3%B3go.json')
+fetch('https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/Catalógo.json')
    .then(response => response.json())
    .then(data => {
       products = data;
