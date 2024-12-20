@@ -1505,12 +1505,20 @@
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00332.jpg"
 },
 {
-  "producto": "BROCA CON REC. COBALTO 5/32",
-  "codigo": "ARI00332",
+  "producto": "BROCA JGO. 1/16-1/2  BOTE 29 PZAS  RECUB HSS",
+  "codigo": "ARI00333",
   "categoria": "BROCA",
   "unidad": "PCE",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00332.jpg"
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00333.jpg"
+},
+{
+  "producto": "BROCA JGO. 1/16-1/2 29 PZAS G5129",
+  "codigo": "ARI00334",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00334.jpg"
 }
+
 
 
   
