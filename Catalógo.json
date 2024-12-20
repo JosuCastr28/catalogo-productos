@@ -1839,77 +1839,7 @@
   "categoria": "CABLE",
   "unidad": "MTR",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00384.jpg"
-},
-{
-    "producto": "CABLE THW CAL 12 VERDE",
-    "codigo": "ARI00385",
-    "categoria": "CABLE",
-    "unidad": "MTR",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00385.jpg"
-  },
-  {
-    "producto": "CABLE THW CAL 14 BLANCO",
-    "codigo": "ARI00386",
-    "categoria": "CABLE",
-    "unidad": "MTR",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00386.jpg"
-  },
-  {
-    "producto": "CABLE THW CAL 14 NEGRO",
-    "codigo": "ARI00387",
-    "categoria": "CABLE",
-    "unidad": "MTR",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00387.jpg"
-  },
-  {
-    "producto": "CABLE THW CAL 14 ROJO",
-    "codigo": "ARI00388",
-    "categoria": "CABLE",
-    "unidad": "MTR",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00388.jpg"
-  },
-  {
-    "producto": "CABLE THW CAL 14 VERDE",
-    "codigo": "ARI00389",
-    "categoria": "CABLE",
-    "unidad": "MTR",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00389.jpg"
-  },
-  {
-    "producto": "CABLE THW CAL 16 AZUL",
-    "codigo": "ARI00390",
-    "categoria": "CABLE",
-    "unidad": "MTR",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00390.jpg"
-  },
-  {
-    "producto": "CAIMANES NEGROS -106N STEREN",
-    "codigo": "ARI00419",
-    "categoria": "ELECTRICO",
-    "unidad": "PCE",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00419.jpg"
-  },
-  {
-    "producto": "CAJA PARA HERRAMIENTA METALICA 36 X 16 X 17.5CM",
-    "codigo": "ARI00430",
-    "categoria": "ELECTRICO",
-    "unidad": "PCE",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00430.jpg"
-  }
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-  
+}
+ 
   ]
   
