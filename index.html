@@ -24,6 +24,7 @@
       padding: 20px;
       width: 80%;
       max-width: 900px;
+      text-align: center;
     }
 
     .close {
@@ -51,12 +52,14 @@
     /* Estilo de los productos */
     .product-grid {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
       gap: 20px;
+      padding: 20px;
     }
 
     .product img {
       width: 100%;
+      height: auto;
       cursor: pointer;
     }
 
@@ -70,30 +73,20 @@
   <div class="product-grid">
     <div class="product" onclick="openModal('producto1')">
       <img src="producto1.jpg" alt="Producto 1">
-      <p>Nombre del Producto 1</p>
+      <p>Producto 1</p>
     </div>
     <div class="product" onclick="openModal('producto2')">
       <img src="producto2.jpg" alt="Producto 2">
-      <p>Nombre del Producto 2</p>
+      <p>Producto 2</p>
     </div>
-    <div class="product" onclick="openModal('producto3')">
-      <img src="producto3.jpg" alt="Producto 3">
-      <p>Nombre del Producto 3</p>
-    </div>
-    <!-- Agrega más productos aquí -->
   </div>
 
   <!-- Modal -->
   <div id="modal" class="modal">
     <div class="modal-content">
       <span class="close" onclick="closeModal()">&times;</span>
-      <img id="modal-image" src="" alt="Producto Zoom">
-      <div id="product-details">
-        <h2 id="modal-name"></h2>
-        <p id="modal-code"></p>
-        <p id="modal-description"></p>
-        <!-- Agrega más detalles aquí si es necesario -->
-      </div>
+      <img id="modal-image" src="" alt="Zoom Producto">
+      <p id="modal-text"></p>
     </div>
   </div>
 
@@ -102,26 +95,14 @@
     function openModal(productId) {
       const modal = document.getElementById('modal');
       const image = document.getElementById('modal-image');
-      const name = document.getElementById('modal-name');
-      const code = document.getElementById('modal-code');
-      const description = document.getElementById('modal-description');
+      const text = document.getElementById('modal-text');
 
-      // Aquí podrías obtener los detalles del producto desde tu catálogo o JSON
       if (productId === 'producto1') {
-        image.src = 'producto1.jpg'; // Imagen ampliada
-        name.innerText = 'Nombre del Producto 1';
-        code.innerText = 'Código: 12345';
-        description.innerText = 'Descripción detallada del producto 1.';
+        image.src = 'producto1.jpg';
+        text.innerText = 'Detalles del Producto 1';
       } else if (productId === 'producto2') {
         image.src = 'producto2.jpg';
-        name.innerText = 'Nombre del Producto 2';
-        code.innerText = 'Código: 67890';
-        description.innerText = 'Descripción detallada del producto 2.';
-      } else if (productId === 'producto3') {
-        image.src = 'producto3.jpg';
-        name.innerText = 'Nombre del Producto 3';
-        code.innerText = 'Código: 11223';
-        description.innerText = 'Descripción detallada del producto 3.';
+        text.innerText = 'Detalles del Producto 2';
       }
 
       modal.style.display = "block";
@@ -133,14 +114,13 @@
       modal.style.display = "none";
     }
 
-    // Cerrar modal si se hace clic fuera de la ventana del modal
+    // Cerrar modal si se hace clic fuera del modal
     window.onclick = function(event) {
       const modal = document.getElementById('modal');
       if (event.target === modal) {
         modal.style.display = "none";
       }
-    }
+    };
   </script>
 </body>
 </html>
-
