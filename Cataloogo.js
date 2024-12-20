@@ -28,15 +28,16 @@ function displayProducts(products) {
    });
 }
 
-// Función para filtrar productos según el nombre o la familia
+// Función para filtrar productos según el nombre o la categoría
 function filterProducts() {
    const nameFilter = document.getElementById('search-name').value.toLowerCase();
-   const familiaFilter = document.getElementById('search-familia').value.toLowerCase();
+   const categoryFilter = document.getElementById('search-categoria').value.toLowerCase();
 
    const filteredProducts = products.filter(product => {
       return (product.producto.toLowerCase().includes(nameFilter) || nameFilter === '') &&
-             (product.categoria.toLowerCase().includes(familiaFilter) || familiaFilter === '');
+             (product.categoria.toLowerCase().includes(categoryFilter) || categoryFilter === '');
    });
 
    displayProducts(filteredProducts); // Mostrar los productos filtrados
 }
+
