@@ -5,6 +5,48 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Catálogo de Productos</title>
   <style>
+    /* CSS incluido dentro del archivo HTML */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .product {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      text-align: center;
+      padding: 15px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .product:hover {
+      transform: scale(1.05);
+    }
+
+    .product img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+
+    .product p {
+      margin: 10px 0 5px;
+      font-size: 16px;
+    }
+
+    /* Modal styles */
     .modal {
       display: none;
       position: fixed;
@@ -15,25 +57,25 @@
       height: 100%;
       overflow: auto;
       background-color: rgba(0, 0, 0, 0.8);
+      padding-top: 60px;
     }
 
     .modal-content {
-      background-color: #fefefe;
-      margin: 15% auto;
+      background-color: #fff;
+      margin: auto;
       padding: 20px;
+      border: 1px solid #888;
       width: 80%;
-      max-width: 900px;
+      max-width: 600px;
+      border-radius: 10px;
       text-align: center;
     }
 
     .close {
       color: #aaa;
+      float: right;
       font-size: 28px;
       font-weight: bold;
-      position: absolute;
-      top: 10px;
-      right: 25px;
-      text-decoration: none;
     }
 
     .close:hover,
@@ -43,38 +85,31 @@
       cursor: pointer;
     }
 
-    #modal-image {
+    .modal img {
       width: 100%;
       height: auto;
+      border-radius: 10px;
     }
 
-    .product-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 20px;
-      padding: 20px;
+    .modal h2 {
+      margin: 10px 0;
     }
 
-    .product img {
-      width: 100%;
-      height: auto;
-      cursor: pointer;
-    }
-
-    .product p {
-      text-align: center;
-      margin-top: 10px;
+    .modal p {
+      font-size: 16px;
+      margin: 5px 0;
     }
   </style>
 </head>
 <body>
+
   <div class="product-grid" id="product-grid"></div>
 
   <!-- Modal -->
   <div id="modal" class="modal">
     <div class="modal-content">
       <span class="close" onclick="closeModal()">&times;</span>
-      <img id="modal-image" src="" alt="Zoom Producto">
+      <img id="modal-image" src="" alt="Producto">
       <h2 id="modal-name"></h2>
       <p id="modal-code"></p>
       <p id="modal-category"></p>
@@ -82,60 +117,7 @@
     </div>
   </div>
 
-  <script>
-    // Carga el archivo JSON y genera los productos
-    fetch('productos.json')
-      .then(response => response.json())
-      .then(data => {
-        const productGrid = document.getElementById('product-grid');
-        data.forEach(product => {
-          const productDiv = document.createElement('div');
-          productDiv.classList.add('product');
-          productDiv.innerHTML = `
-            <img src="${product.imagen}" alt="${product.producto}" onclick="openModal('${product.codigo}')">
-            <p>${product.producto}</p>
-          `;
-          productGrid.appendChild(productDiv);
-        });
+  <script src="app.js"></script>
 
-        // Guarda los productos en memoria para el modal
-        window.productData = data;
-      });
-
-    // Abre el modal con los detalles del producto
-    function openModal(codigo) {
-      const modal = document.getElementById('modal');
-      const image = document.getElementById('modal-image');
-      const name = document.getElementById('modal-name');
-      const code = document.getElementById('modal-code');
-      const category = document.getElementById('modal-category');
-      const unit = document.getElementById('modal-unit');
-
-      const product = window.productData.find(p => p.codigo === codigo);
-
-      if (product) {
-        image.src = product.imagen;
-        name.innerText = `Nombre: ${product.producto}`;
-        code.innerText = `Código: ${product.codigo}`;
-        category.innerText = `Categoría: ${product.categoria}`;
-        unit.innerText = `Unidad: ${product.unidad}`;
-      }
-
-      modal.style.display = "block";
-    }
-
-    // Cierra el modal
-    function closeModal() {
-      document.getElementById('modal').style.display = "none";
-    }
-
-    // Cierra el modal si se hace clic fuera de él
-    window.onclick = function(event) {
-      const modal = document.getElementById('modal');
-      if (event.target === modal) {
-        modal.style.display = "none";
-      }
-    };
-  </script>
 </body>
 </html>
