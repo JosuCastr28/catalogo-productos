@@ -1,8 +1,24 @@
-// Carga el archivo JSON y genera los productos
-fetch('productos.json')
-  .then(response => response.json())
+// Ruta al archivo JSON
+const jsonFilePath = 'productos.json';
+
+// Elementos del DOM
+const productGrid = document.getElementById('product-grid');
+const modal = document.getElementById('modal');
+const modalImage = document.getElementById('modal-image');
+const modalName = document.getElementById('modal-name');
+const modalCode = document.getElementById('modal-code');
+const modalCategory = document.getElementById('modal-category');
+const modalUnit = document.getElementById('modal-unit');
+
+// Función para cargar productos desde el archivo JSON
+fetch(jsonFilePath)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('No se pudo cargar el archivo JSON.');
+    }
+    return response.json();
+  })
   .then(data => {
-    const productGrid = document.getElementById('product-grid');
     data.forEach(product => {
       const productDiv = document.createElement('div');
       productDiv.classList.add('product');
@@ -13,43 +29,33 @@ fetch('productos.json')
       productGrid.appendChild(productDiv);
     });
 
-    // Guarda los productos en memoria para el modal
+    // Guarda los productos para acceso posterior
     window.productData = data;
-  });
+  })
+  .catch(error => console.error('Error al cargar el JSON:', error));
 
 // Abre el modal con los detalles del producto
 function openModal(codigo) {
-  const modal = document.getElementById('modal');
-  const image = document.getElementById('modal-image');
-  const name = document.getElementById('modal-name');
-  const code = document.getElementById('modal-code');
-  const category = document.getElementById('modal-category');
-  const unit = document.getElementById('modal-unit');
-
   const product = window.productData.find(p => p.codigo === codigo);
 
   if (product) {
-    image.src = product.imagen;
-    name.innerText = `Nombre: ${product.producto}`;
-    code.innerText = `Código: ${product.codigo}`;
-    category.innerText = `Categoría: ${product.categoria}`;
-    unit.innerText = `Unidad: ${product.unidad}`;
+    modalImage.src = product.imagen;
+    modalName.innerText = `Nombre: ${product.producto}`;
+    modalCode.innerText = `Código: ${product.codigo}`;
+    modalCategory.innerText = `Categoría: ${product.categoria}`;
+    modalUnit.innerText = `Unidad: ${product.unidad}`;
+    modal.style.display = 'block';
   }
-
-  modal.style.display = "block";
 }
 
 // Cierra el modal
 function closeModal() {
-  document.getElementById('modal').style.display = "none";
+  modal.style.display = 'none';
 }
 
 // Cierra el modal si se hace clic fuera de él
 window.onclick = function(event) {
-  const modal = document.getElementById('modal');
   if (event.target === modal) {
-    modal.style.display = "none";
+    closeModal();
   }
 };
-
-
