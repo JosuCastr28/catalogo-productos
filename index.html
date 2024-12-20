@@ -5,12 +5,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Catálogo de Productos</title>
   <style>
-    /* CSS incluido dentro del archivo HTML */
+    /* Colores y estilo personalizados */
+    :root {
+      --color-primario: #4CAF50;
+      --color-secundario: #fff;
+      --color-acentos: #333;
+      --color-fondo: #f4f4f4;
+    }
+
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f4;
+      background-color: var(--color-fondo);
+    }
+
+    header {
+      background-color: var(--color-primario);
+      color: var(--color-secundario);
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    header .search-container {
+      margin-top: 10px;
+    }
+
+    header input[type="text"] {
+      padding: 8px;
+      font-size: 16px;
+      width: 300px;
+      margin-right: 10px;
+    }
+
+    header select {
+      padding: 8px;
+      font-size: 16px;
     }
 
     .product-grid {
@@ -21,7 +55,7 @@
     }
 
     .product {
-      background: #fff;
+      background: var(--color-secundario);
       border: 1px solid #ddd;
       border-radius: 5px;
       text-align: center;
@@ -61,7 +95,7 @@
     }
 
     .modal-content {
-      background-color: #fff;
+      background-color: var(--color-secundario);
       margin: auto;
       padding: 20px;
       border: 1px solid #888;
@@ -102,6 +136,20 @@
   </style>
 </head>
 <body>
+
+  <header>
+    <h1>Catálogo de Productos</h1>
+
+    <div class="search-container">
+      <input type="text" id="search" placeholder="Buscar producto..." onkeyup="filterProducts()">
+      <select id="category-filter" onchange="filterProducts()">
+        <option value="">Filtrar por categoría</option>
+        <option value="ABRAZADERA">ABRAZADERA</option>
+        <option value="HERRAMIENTAS">HERRAMIENTAS</option>
+        <option value="OTROS">OTROS</option>
+      </select>
+    </div>
+  </header>
 
   <div class="product-grid" id="product-grid"></div>
 
