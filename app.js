@@ -9,8 +9,10 @@ const modalName = document.getElementById('modal-name');
 const modalCode = document.getElementById('modal-code');
 const modalCategory = document.getElementById('modal-category');
 const modalUnit = document.getElementById('modal-unit');
+const searchInput = document.getElementById('search');
+const categoryFilter = document.getElementById('category-filter');
 
-// Función para cargar productos desde el archivo JSON
+// Cargar productos desde el archivo JSON
 fetch(jsonFilePath)
   .then(response => {
     if (!response.ok) {
@@ -19,20 +21,24 @@ fetch(jsonFilePath)
     return response.json();
   })
   .then(data => {
-    data.forEach(product => {
-      const productDiv = document.createElement('div');
-      productDiv.classList.add('product');
-      productDiv.innerHTML = `
-        <img src="${product.imagen}" alt="${product.producto}" onclick="openModal('${product.codigo}')">
-        <p>${product.producto}</p>
-      `;
-      productGrid.appendChild(productDiv);
-    });
-
-    // Guarda los productos para acceso posterior
     window.productData = data;
+    renderProducts(data);  // Muestra todos los productos
   })
   .catch(error => console.error('Error al cargar el JSON:', error));
+
+// Función para renderizar los productos en el grid
+function renderProducts(products) {
+  productGrid.innerHTML = '';
+  products.forEach(product => {
+    const productDiv = document.createElement('div');
+    productDiv.classList.add('product');
+    productDiv.innerHTML = `
+      <img src="${product.imagen}" alt="${product.producto}" onclick="openModal('${product.codigo}')">
+      <p>${product.producto}</p>
+    `;
+    productGrid.appendChild(productDiv);
+  });
+}
 
 // Abre el modal con los detalles del producto
 function openModal(codigo) {
@@ -59,3 +65,17 @@ window.onclick = function(event) {
     closeModal();
   }
 };
+
+// Función para filtrar productos por búsqueda y categoría
+function filterProducts() {
+  const searchTerm = searchInput.value.toLowerCase();
+  const selectedCategory = categoryFilter.value;
+
+  const filteredProducts = window.productData.filter(product => {
+    const matchesSearch = product.producto.toLowerCase().includes(searchTerm);
+    const matchesCategory = selectedCategory ? product.categoria === selectedCategory : true;
+    return matchesSearch && matchesCategory;
+  });
+
+  renderProducts(filteredProducts);
+}
