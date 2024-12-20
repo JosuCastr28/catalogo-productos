@@ -5,34 +5,32 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Catálogo de Productos</title>
    <style>
-      /* Estilos básicos para la página */
+      /* Estilos básicos */
       body {
-         font-family: Arial, sans-serif;
          margin: 0;
-         padding: 0;
+         font-family: Arial, sans-serif;
          background-color: #f4f4f4;
-         color: #333;
-      }
-      h1 {
          text-align: center;
-         margin-top: 20px;
-         color: #333;
       }
-      .container {
-         width: 90%;
-         max-width: 1200px;
-         margin: 0 auto;
-         padding: 20px;
-         background-color: #fff;
-         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-         border-radius: 8px;
+
+      /* Encabezado con estilo Oxford */
+      header {
+         background-color: #002147; /* Color Oxford */
+         color: white;
+         padding: 20px 0;
       }
+      header h1 {
+         margin: 0;
+         font-size: 2.5em;
+      }
+
+      /* Barra de búsqueda */
       .search-bar {
+         margin: 20px 0;
          display: flex;
-         flex-wrap: wrap;
          justify-content: center;
          gap: 10px;
-         margin-bottom: 20px;
+         flex-wrap: wrap;
       }
       .search-bar input,
       .search-bar select,
@@ -40,33 +38,36 @@
          padding: 10px;
          font-size: 16px;
          border: 1px solid #ccc;
-         border-radius: 4px;
+         border-radius: 5px;
          outline: none;
       }
       .search-bar button {
-         background-color: #007BFF;
+         background-color: #002147;
          color: white;
-         cursor: pointer;
          border: none;
+         cursor: pointer;
          transition: background-color 0.3s;
       }
       .search-bar button:hover {
-         background-color: #0056b3;
+         background-color: #003366;
       }
+
+      /* Lista de productos */
       .product-list {
          display: flex;
          flex-wrap: wrap;
          gap: 20px;
          justify-content: center;
+         padding: 20px;
       }
       .product {
+         background: white;
+         border: 1px solid #ddd;
+         border-radius: 8px;
+         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+         text-align: center;
          width: 200px;
          padding: 15px;
-         border: 1px solid #ddd;
-         border-radius: 5px;
-         background-color: #fff;
-         text-align: center;
-         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
          transition: transform 0.2s, box-shadow 0.2s;
       }
       .product:hover {
@@ -76,12 +77,11 @@
       .product img {
          max-width: 100%;
          height: auto;
-         border-radius: 5px;
          margin-bottom: 10px;
       }
       .product h3 {
-         font-size: 18px;
-         color: #007BFF;
+         font-size: 16px;
+         color: #002147;
          margin: 10px 0;
       }
       .product p {
@@ -89,30 +89,41 @@
          font-size: 14px;
          color: #555;
       }
+
+      /* Pie de página */
       footer {
-         text-align: center;
-         padding: 10px;
-         background-color: #007BFF;
+         background-color: #002147;
          color: white;
-         margin-top: 20px;
+         padding: 10px 0;
+         position: relative;
+         bottom: 0;
+         width: 100%;
       }
    </style>
 </head>
 <body>
-   <h1>Catálogo de Productos</h1>
-   <div class="container">
-      <div class="search-bar">
-         <input type="text" id="search-name" placeholder="Buscar por nombre">
-         <select id="search-categoria">
-            <option value="">Seleccionar Categoría</option>
-         </select>
-         <button onclick="filterProducts()">Buscar</button>
-      </div>
-      <div id="product-list" class="product-list"></div>
+   <!-- Encabezado -->
+   <header>
+      <h1>Catálogo de Productos</h1>
+   </header>
+
+   <!-- Barra de búsqueda -->
+   <div class="search-bar">
+      <input type="text" id="search-name" placeholder="Buscar por nombre">
+      <select id="search-categoria">
+         <option value="">Seleccionar Categoría</option>
+      </select>
+      <button onclick="filterProducts()">Buscar</button>
    </div>
+
+   <!-- Lista de productos -->
+   <div id="product-list" class="product-list"></div>
+
+   <!-- Pie de página -->
    <footer>
-      &copy; 2024 - Catálogo de Productos | Empresa
+      &copy; 2024 Catálogo de Productos
    </footer>
+
    <script>
       // Variables globales
       let products = [];
@@ -172,5 +183,6 @@
    </script>
 </body>
 </html>
+
 
 
