@@ -1841,257 +1841,62 @@
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00384.jpg"
 },
 {
-  "producto": "CABLE THW CAL 12 VERDE",
-  "codigo": "ARI00385",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00385.jpg"
-},
-{
-  "producto": "CABLE THW CAL 12 VERDE",
-  "codigo": "ARI00385",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00385.jpg"
-},
-{
-  "producto": "CABLE THW CAL 14 BLANCO",
-  "codigo": "ARI00386",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00386.jpg"
-},
-{
-  "producto": "CABLE THW CAL 14 NEGRO",
-  "codigo": "ARI00387",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00387.jpg"
-},
-{
-  "producto": "CABLE THW CAL 14 ROJO",
-  "codigo": "ARI00388",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00388.jpg"
-},
-{
-  "producto": "CABLE THW CAL 14 VERDE",
-  "codigo": "ARI00389",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00389.jpg"
-},
-{
-  "producto": "CABLE THW CAL 16 AZUL",
-  "codigo": "ARI00390",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00390.jpg"
-},
-{
-  "producto": "CABLE THW CAL 16 BLANCO",
-  "codigo": "ARI00391",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00391.jpg"
-},
-{
-  "producto": "CABLE THW CAL 16 NEGRO",
-  "codigo": "ARI00392",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00392.jpg"
-},
-{
-  "producto": "CABLE THW CAL 18 ROJO",
-  "codigo": "ARI00393",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00393.jpg"
-},
-{
-  "producto": "CABLE THW CAL 2 NEGRO",
-  "codigo": "ARI00394",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00394.jpg"
-},
-{
-  "producto": "CABLE THW CAL 2 VERDE",
-  "codigo": "ARI00395",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00395.jpg"
-},
-{
-  "producto": "CABLE THW CAL 6 NEGRO",
-  "codigo": "ARI00396",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00396.jpg"
-},
-{
-  "producto": "CABLE THW CAL 8 BLANCO",
-  "codigo": "ARI00397",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00397.jpg"
-},
-{
-  "producto": "CABLE THW CAL 8 NEGRO",
-  "codigo": "ARI00398",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00398.jpg"
-},
-{
-  "producto": "CABLE THW CAL 8 VERDE",
-  "codigo": "ARI00399",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00399.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 2 X 10",
-  "codigo": "ARI00400",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00400.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 2 X 12",
-  "codigo": "ARI00401",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00401.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 2 X 14",
-  "codigo": "ARI00402",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00402.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 2 X 16",
-  "codigo": "ARI00403",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00403.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 3 X 10",
-  "codigo": "ARI00404",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00404.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 3 X 12",
-  "codigo": "ARI00405",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00405.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 3 X 14",
-  "codigo": "ARI00406",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00406.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 3 X 16",
-  "codigo": "ARI00407",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00407.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 3 X 18",
-  "codigo": "ARI00408",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00408.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 4 X 10",
-  "codigo": "ARI00409",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00409.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 4 X 14",
-  "codigo": "ARI00410",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00410.jpg"
-},
-{
-  "producto": "CABLE USO RUDO 4 X 18",
-  "codigo": "ARI00411",
-  "categoria": "CABLE",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00411.jpg"
-},
-{
-  "producto": "CADENA PASO 50 ASA 50-2R DE 3.05 MTO",
-  "codigo": "ARI00413",
-  "categoria": "CADENA",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00412.jpg"
-},
-{
-  "producto": "CADENA PLASTICO 6MM AMARILLA",
-  "codigo": "ARI00415",
-  "categoria": "CADENA",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00415.jpg"
-},
-{
-  "producto": "CADENA PLASTICO 6MM NARANJA",
-  "codigo": "ARI00416",
-  "categoria": "CADENA",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00416.jpg"
-},
-{
-  "producto": "CAFÉ GOURMET  1 KILO",
-  "codigo": "ARI00418",
-  "categoria": "CAFETERIA",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00418.jpg"
-},
-{
-  "producto": "CAIMANES NEGROS  -106N STEREN",
-  "codigo": "ARI00419",
-  "categoria": "ELECTRICO",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00419.jpg"
-},
-{
-  "producto": "CAIMANES ROJOS  -106N STEREN",
-  "codigo": "ARI00420",
-  "categoria": "ELECTRICO",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00420.jpg"
-},
-{
-  "producto": "CAIMANES ROJOS  -106N STEREN",
-  "codigo": "ARI00421",
-  "categoria": "ELECTRICO",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00421.jpg"
-},
-{
-  "producto": "CAJA PARA HERRAMIENTA METALICA 36 X 16 X 17.5CM",
-  "codigo": "ARI00430",
-  "categoria": "ELECTRICO",
-  "unidad": "MTR",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00421.jpg"
-}
+    "producto": "CABLE THW CAL 12 VERDE",
+    "codigo": "ARI00385",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00385.jpg"
+  },
+  {
+    "producto": "CABLE THW CAL 14 BLANCO",
+    "codigo": "ARI00386",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00386.jpg"
+  },
+  {
+    "producto": "CABLE THW CAL 14 NEGRO",
+    "codigo": "ARI00387",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00387.jpg"
+  },
+  {
+    "producto": "CABLE THW CAL 14 ROJO",
+    "codigo": "ARI00388",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00388.jpg"
+  },
+  {
+    "producto": "CABLE THW CAL 14 VERDE",
+    "codigo": "ARI00389",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00389.jpg"
+  },
+  {
+    "producto": "CABLE THW CAL 16 AZUL",
+    "codigo": "ARI00390",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00390.jpg"
+  },
+  {
+    "producto": "CAIMANES NEGROS -106N STEREN",
+    "codigo": "ARI00419",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00419.jpg"
+  },
+  {
+    "producto": "CAJA PARA HERRAMIENTA METALICA 36 X 16 X 17.5CM",
+    "codigo": "ARI00430",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00430.jpg"
+  }
+
 
 
 
