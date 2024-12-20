@@ -1,43 +1,35 @@
-let products = [];
+// Función para abrir el modal
+function openModal(productId) {
+  const modal = document.getElementById('modal');
+  const image = document.getElementById('modal-image');
+  const name = document.getElementById('modal-name');
+  const code = document.getElementById('modal-code');
+  const description = document.getElementById('modal-description');
 
-// Cargar los productos desde el archivo JSON
-fetch('https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/Catalógo.json')
-   .then(response => response.json())
-   .then(data => {
-      products = data;
-      displayProducts(products); // Mostrar todos los productos al cargar
-   })
-   .catch(error => console.error('Error al cargar los productos:', error));
+  // Aquí podrías obtener los detalles del producto desde tu catálogo o JSON
+  if (productId === 'producto1') {
+    image.src = 'producto1.jpg'; // Imagen ampliada
+    name.innerText = 'Nombre del Producto 1';
+    code.innerText = 'Código: 12345';
+    description.innerText = 'Descripción detallada del producto 1.';
+  } else if (productId === 'producto2') {
+    image.src = 'producto2.jpg';
+    name.innerText = 'Nombre del Producto 2';
+    code.innerText = 'Código: 67890';
+    description.innerText = 'Descripción detallada del producto 2.';
+  } else if (productId === 'producto3') {
+    image.src = 'producto3.jpg';
+    name.innerText = 'Nombre del Producto 3';
+    code.innerText = 'Código: 11223';
+    description.innerText = 'Descripción detallada del producto 3.';
+  }
 
-// Función para mostrar los productos en el HTML
-function displayProducts(products) {
-   const productList = document.getElementById('product-list');
-   productList.innerHTML = ''; // Limpiar el contenedor antes de mostrar los productos
-
-   products.forEach(product => {
-      const productDiv = document.createElement('div');
-      productDiv.classList.add('product');
-      productDiv.innerHTML = `
-         <h3>${product.producto}</h3>
-         <p>Código: ${product.codigo}</p>
-         <p>Categoría: ${product.categoria}</p>
-         <p>Unidad: ${product.unidad}</p>
-         <img src="${product.imagen}" alt="${product.producto}" class="product-image">
-      `;
-      productList.appendChild(productDiv);
-   });
+  modal.style.display = "block";
 }
 
-// Función para filtrar productos según el nombre o la categoría
-function filterProducts() {
-   const nameFilter = document.getElementById('search-name').value.toLowerCase();
-   const categoryFilter = document.getElementById('search-categoria').value.toLowerCase();
-
-   const filteredProducts = products.filter(product => {
-      return (product.producto.toLowerCase().includes(nameFilter) || nameFilter === '') &&
-             (product.categoria.toLowerCase().includes(categoryFilter) || categoryFilter === '');
-   });
-
-   displayProducts(filteredProducts); // Mostrar los productos filtrados
+// Función para cerrar el modal
+function closeModal() {
+  const modal = document.getElementById('modal');
+  modal.style.display = "none";
 }
 
