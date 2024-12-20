@@ -6,9 +6,9 @@ const productGrid = document.getElementById('product-grid');
 const modal = document.getElementById('modal');
 const modalImage = document.getElementById('modal-image');
 const modalName = document.getElementById('modal-name');
-const modalCode = document.getElementById('modal-code');
-const modalCategory = document.getElementById('modal-category');
-const modalUnit = document.getElementById('modal-unit');
+const modalCode = document.getElementById('modal-code-text');
+const modalCategory = document.getElementById('modal-category-text');
+const modalUnit = document.getElementById('modal-unit-text');
 const searchInput = document.getElementById('search');
 const categoryFilter = document.getElementById('category-filter');
 
@@ -46,10 +46,10 @@ function openModal(codigo) {
 
   if (product) {
     modalImage.src = product.imagen;
-    modalName.innerText = `Nombre: ${product.producto}`;
-    modalCode.innerText = `Código: ${product.codigo}`;
-    modalCategory.innerText = `Categoría: ${product.categoria}`;
-    modalUnit.innerText = `Unidad: ${product.unidad}`;
+    modalName.innerText = product.producto;
+    modalCode.innerText = product.codigo;
+    modalCategory.innerText = product.categoria;
+    modalUnit.innerText = product.unidad;
     modal.style.display = 'block';
   }
 }
