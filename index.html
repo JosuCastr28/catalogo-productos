@@ -106,22 +106,31 @@
     }
 
     .modal-content {
+      display: flex;
+      flex-direction: row;
       background-color: white;
       padding: 20px;
       border-radius: 5px;
       max-width: 800px;
       width: 90%;
-      text-align: left;
     }
 
     .modal-content img {
-      width: 100%;
-      height: auto;
-      margin-bottom: 15px;
+      max-width: 50%;
+      margin-right: 20px;
+      border-radius: 5px;
+    }
+
+    .modal-content .info {
+      flex: 1;
     }
 
     .modal-content h3 {
       margin-bottom: 10px;
+    }
+
+    .modal-content p {
+      margin-bottom: 5px;
     }
 
     .modal-close {
@@ -131,7 +140,7 @@
       padding: 10px;
       border-radius: 5px;
       cursor: pointer;
-      float: right;
+      align-self: flex-start;
     }
   </style>
 </head>
@@ -154,12 +163,14 @@
   <!-- Modal -->
   <div id="modal" class="modal">
     <div class="modal-content">
-      <button class="modal-close" onclick="cerrarModal()">Cerrar</button>
       <img id="modal-imagen" src="" alt="">
-      <h3 id="modal-nombre"></h3>
-      <p id="modal-codigo"></p>
-      <p id="modal-categoria"></p>
-      <p id="modal-unidad"></p>
+      <div class="info">
+        <button class="modal-close" onclick="cerrarModal()">Cerrar</button>
+        <h3 id="modal-nombre"></h3>
+        <p id="modal-codigo"></p>
+        <p id="modal-categoria"></p>
+        <p id="modal-unidad"></p>
+      </div>
     </div>
   </div>
 
