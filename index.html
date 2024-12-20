@@ -19,6 +19,7 @@
          margin-bottom: 20px;
          display: flex;
          gap: 10px;
+         align-items: center;
       }
       .product {
          border: 1px solid #ddd;
@@ -48,12 +49,71 @@
       <h1>Catálogo de Productos</h1>
       <div class="search-bar">
          <input type="text" id="search-name" placeholder="Buscar por nombre">
-         <input type="text" id="search-categoria" placeholder="Buscar por categoría">
+         <select id="search-categoria">
+            <option value="">Seleccionar Categoría</option>
+         </select>
          <button onclick="filterProducts()">Buscar</button>
       </div>
       <div id="product-list" class="product-list"></div>
    </div>
-   <script src="catalogo.js"></script>
+   <script>
+      // Variables globales
+      let products = [];
+
+      // Cargar productos desde el JSON
+      fetch('https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/Catalógo.json')
+         .then(response => response.json())
+         .then(data => {
+            products = data;
+            populateCategories(products); // Llenar categorías
+            displayProducts(products); // Mostrar todos los productos
+         })
+         .catch(error => console.error('Error al cargar los productos:', error));
+
+      // Mostrar productos en el HTML
+      function displayProducts(products) {
+         const productList = document.getElementById('product-list');
+         productList.innerHTML = ''; // Limpiar contenedor
+         products.forEach(product => {
+            const productDiv = document.createElement('div');
+            productDiv.classList.add('product');
+            productDiv.innerHTML = `
+               <h3>${product.producto}</h3>
+               <p>Código: ${product.codigo}</p>
+               <p>Categoría: ${product.categoria}</p>
+               <p>Unidad: ${product.unidad}</p>
+               <img src="${product.imagen}" alt="${product.producto}" class="product-image">
+            `;
+            productList.appendChild(productDiv);
+         });
+      }
+
+      // Llenar el filtro de categorías
+      function populateCategories(products) {
+         const categories = [...new Set(products.map(product => product.categoria))];
+         const categorySelect = document.getElementById('search-categoria');
+         categories.forEach(category => {
+            const option = document.createElement('option');
+            option.value = category;
+            option.textContent = category;
+            categorySelect.appendChild(option);
+         });
+      }
+
+      // Filtrar productos
+      function filterProducts() {
+         const nameFilter = document.getElementById('search-name').value.toLowerCase();
+         const categoryFilter = document.getElementById('search-categoria').value.toLowerCase();
+
+         const filteredProducts = products.filter(product => {
+            return (product.producto.toLowerCase().includes(nameFilter) || nameFilter === '') &&
+                   (product.categoria.toLowerCase() === categoryFilter || categoryFilter === '');
+         });
+
+         displayProducts(filteredProducts); // Mostrar productos filtrados
+      }
+   </script>
 </body>
 </html>
+
 
