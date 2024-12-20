@@ -1,5 +1,5 @@
 // Ruta al archivo JSON
-const jsonFilePath = 'Catalógo.json';
+const jsonFilePath = 'Catalogo.json';
 
 // Elementos del DOM
 const productGrid = document.getElementById('product-grid');
