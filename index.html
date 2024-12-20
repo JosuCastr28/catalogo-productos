@@ -7,10 +7,11 @@
   <style>
     /* Colores y estilo personalizados */
     :root {
-      --color-primario: #4CAF50;
+      --color-primario: #007BFF;  /* Azul */
       --color-secundario: #fff;
       --color-acentos: #333;
       --color-fondo: #f4f4f4;
+      --color-texto: #444;
     }
 
     body {
@@ -78,6 +79,7 @@
     .product p {
       margin: 10px 0 5px;
       font-size: 16px;
+      color: var(--color-acentos);
     }
 
     /* Modal styles */
@@ -127,11 +129,19 @@
 
     .modal h2 {
       margin: 10px 0;
+      font-size: 20px;
+      color: var(--color-primario);
     }
 
     .modal p {
       font-size: 16px;
       margin: 5px 0;
+      color: var(--color-texto);
+    }
+
+    .modal p span {
+      font-weight: bold;
+      color: var(--color-primario);
     }
   </style>
 </head>
@@ -159,9 +169,9 @@
       <span class="close" onclick="closeModal()">&times;</span>
       <img id="modal-image" src="" alt="Producto">
       <h2 id="modal-name"></h2>
-      <p id="modal-code"></p>
-      <p id="modal-category"></p>
-      <p id="modal-unit"></p>
+      <p id="modal-code"><span>Código:</span> <span id="modal-code-text"></span></p>
+      <p id="modal-category"><span>Categoría:</span> <span id="modal-category-text"></span></p>
+      <p id="modal-unit"><span>Unidad:</span> <span id="modal-unit-text"></span></p>
     </div>
   </div>
 
