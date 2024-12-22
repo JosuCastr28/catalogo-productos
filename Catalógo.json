@@ -1633,86 +1633,537 @@
 {
         "codigo": "ARI00352",
         "categoria": "BROCA",
-        "producto": "BROCA SDS PLUS 5/16\" X 6",
+        "producto": "BROCA SDS PLUS 5/16 X 6",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00352.jpg"
     },
     {
         "codigo": "ARI00353",
         "categoria": "BROCA",
-        "producto": "BROCASIERRA 1 1/2\"",
+        "producto": "BROCASIERRA 1 1/2",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00353.jpg"
     },
     {
         "codigo": "ARI00354",
         "categoria": "BROCA",
-        "producto": "BROCASIERRA 1 1/4\"",
+        "producto": "BROCASIERRA 1 1/4",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00354.jpg"
     },
     {
         "codigo": "ARI00355",
         "categoria": "BROCA",
-        "producto": "BROCASIERRA 1\"",
+        "producto": "BROCASIERRA 1",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00355.jpg"
     },
     {
         "codigo": "ARI00356",
         "categoria": "BROCA",
-        "producto": "BROCASIERRA 2 1/2\"",
+        "producto": "BROCASIERRA 2 1/2",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00356.jpg"
     },
     {
         "codigo": "ARI00357",
         "categoria": "BROCA",
-        "producto": "BROCASIERRA 2 3/8\"",
+        "producto": "BROCASIERRA 2 3/8",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00357.jpg"
     },
     {
         "codigo": "ARI00358",
         "categoria": "HERRAMIENTA",
-        "producto": "BROCHA DE 1\"",
+        "producto": "BROCHA DE 1",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00358.jpg"
     },
     {
         "codigo": "ARI00359",
         "categoria": "HERRAMIENTA",
-        "producto": "BROCHA DE 1/2\"",
+        "producto": "BROCHA DE 1/2",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00359.jpg"
     },
     {
         "codigo": "ARI00360",
         "categoria": "HERRAMIENTA",
-        "producto": "BROCHA DE 2\"",
+        "producto": "BROCHA DE 2",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00360.jpg"
     },
     {
         "codigo": "ARI00361",
         "categoria": "HERRAMIENTA",
-        "producto": "BROCHA DE 3\"",
+        "producto": "BROCHA DE 3",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00361.jpg"
     },
     {
         "codigo": "ARI00362",
         "categoria": "HERRAMIENTA",
-        "producto": "BROCHA DE 4\"",
+        "producto": "BROCHA DE 4",
         "unidad": "PCE",
-        "imagen": ""
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00362.jpg"
     },
     {
         "codigo": "ARI00363",
         "categoria": "HERRAMIENTA",
         "producto": "BROCHA DE 6\"",
         "unidad": "PCE",
-        "imagen": ""
-    }
+        "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00363.jpg"
+    },
+{
+    "codigo": "ARI00364",
+    "categoria": "BROCA",
+    "producto": "BROQUERO DE 1/2\"",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00364.jpg"
+},
+{
+    "codigo": "ARI00365",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE CIRCUITO CERRADO 3/8 X 44 MTS",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00365.jpg"
+},
+{
+    "codigo": "ARI00366",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE DE ACERO 1/2\"",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00366.jpg"
+},
+{
+    "codigo": "ARI00367",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE DE ACERO 1/4\"",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00367.jpg"
+},
+{
+    "codigo": "ARI00368",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE DE ACERO 1/8\"",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00368.jpg"
+},
+{
+    "codigo": "ARI00369",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE DE ACERO 3/16\"",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00369.jpg"
+},
+{
+    "codigo": "ARI00370",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE DE ACERO 3/8",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00370.jpg"
+},
+{
+    "codigo": "ARI00371",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE DE ACERO 5/16\"",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00371.jpg"
+},
+{
+    "codigo": "ARI00372",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE DE ACERO A/FIBRA 1/4\"",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00372.jpg"
+},
+{
+    "codigo": "ARI00375",
+    "categoria": "ELECTRICO",
+    "producto": "CABLE RED STEREN",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00375.jpg"
+},
+{
+    "codigo": "ARI00376",
+    "categoria": "ELECTRICO",
+    "producto": "CABLE REPUESTO MULTIMETRO(PAR)",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00376.jpg"
+},
+{
+    "codigo": "ARI00377",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "producto": "CABLE SIN FIN TIPO BOA 3/8 x 44 M",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00377.jpg"
+},
+{
+    "codigo": "ARI00378",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 10 BLANCO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00378.jpg"
+},
+{
+    "codigo": "ARI00379",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 10 NEGRO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00379.jpg"
+},
+{
+    "codigo": "ARI00380",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 10 ROJO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00380.jpg"
+},
+{
+    "codigo": "ARI00381",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 10 VERDE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00381.jpg"
+},
+{
+    "codigo": "ARI00382",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 12 BLANCO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00382.jpg"
+},
+{
+    "codigo": "ARI00383",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 12 NEGRO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00383.jpg"
+},
+{
+    "codigo": "ARI00384",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 12 ROJO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00384.jpg"
+},
+{
+    "codigo": "ARI00385",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 12 VERDE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00385.jpg"
+},
+{
+    "codigo": "ARI00386",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 14 BLANCO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00386.jpg"
+},
+{
+    "codigo": "ARI00387",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 14 NEGRO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00387.jpg"
+},
+{
+    "codigo": "ARI00388",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 14 ROJO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00388.jpg"
+},
+{
+    "codigo": "ARI00389",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 14 VERDE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00389.jpg"
+},
+{
+    "codigo": "ARI00390",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 16 AZUL",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00390.jpg"
+},
+{
+    "codigo": "ARI00391",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 16 BLANCO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00391.jpg"
+},
+{
+    "codigo": "ARI00392",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 16 NEGRO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00392.jpg"
+},
+{
+    "codigo": "ARI00393",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 18 ROJO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00393.jpg"
+},
+{
+    "codigo": "ARI00394",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 2 NEGRO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00394.jpg"
+},
+{
+    "codigo": "ARI00395",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 2 VERDE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00395.jpg"
+},
+{
+    "codigo": "ARI00396",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 6 NEGRO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00396.jpg"
+},
+{
+    "codigo": "ARI00397",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 8 BLANCO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00397.jpg"
+},
+{
+    "codigo": "ARI00398",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 8 NEGRO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00398.jpg"
+},
+{
+    "codigo": "ARI00399",
+    "categoria": "CABLE",
+    "producto": "CABLE THW CAL 8 VERDE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00399.jpg"
+},
+{
+    "codigo": "ARI00400",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 2 X 10",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00400.jpg"
+},
+{
+    "codigo": "ARI00401",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 2 X 12",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00401.jpg"
+},
+{
+    "codigo": "ARI00402",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 2 X 14",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00402.jpg"
+},
+{
+    "codigo": "ARI00403",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 2 x 16",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00403.jpg"
+},
+{
+    "codigo": "ARI00404",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 3 X 10",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00404.jpg"
+},
+{
+    "codigo": "ARI00405",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 3 X 12",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00405.jpg"
+},
+{
+    "codigo": "ARI00406",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 3 X 14",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00406.jpg"
+},
+{
+    "codigo": "ARI00407",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 3 X 16",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00407.jpg"
+},
+{
+    "codigo": "ARI00408",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 3 X 18",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00408.jpg"
+},
+{
+    "codigo": "ARI00409",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 4 X 10",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00409.jpg"
+},
+{
+    "codigo": "ARI00410",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 4 X 14",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00410.jpg"
+},
+{
+    "codigo": "ARI00411",
+    "categoria": "CABLE",
+    "producto": "CABLE USO RUDO 4 X 18",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00411.jpg"
+},
+{
+    "codigo": "ARI00413",
+    "categoria": "CADENA",
+    "producto": "CADENA PASO 50 ASA 50-2R DE 3.05 MTO.",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00413.jpg"
+},
+{
+    "codigo": "ARI00415",
+    "categoria": "CADENA",
+    "producto": "CADENA PLASTICO 6MM AMARILLA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00415.jpg"
+},
+{
+    "codigo": "ARI00416",
+    "categoria": "CADENA",
+    "producto": "CADENA PLASTICO 6MM NARANJA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00416.jpg"
+},
+{
+    "codigo": "ARI00418",
+    "categoria": "CAFETERIA",
+    "producto": "CAFÉ GOURMET 1 KILO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00418.jpg"
+},
+{
+    "codigo": "ARI00419",
+    "categoria": "ELECTRICO",
+    "producto": "CAIMANES NEGROS -106N STEREN",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00419.jpg"
+},
+{
+    "codigo": "ARI00420",
+    "categoria": "ELECTRICO",
+    "producto": "CAIMANES ROJOS -106R STEREN",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00420.jpg"
+},
+{
+    "codigo": "ARI00421",
+    "categoria": "HERRAMIENTA",
+    "producto": "CAJA PARA HERRAMIENTA METALICA 36 X 16 X 17.5CM",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00421.jpg"
+},
+{
+    "codigo": "ARI00430",
+    "categoria": "PERFILES",
+    "producto": "CANAL \"U\" 3\"",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00430.jpg"
+},
+{
+  "codigo": "ARI00431",
+  "categoria": "PERFILES",
+  "producto": "CANAL \"U\" 4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00431.jpg"
+},
+{
+  "codigo": "ARI00432",
+  "categoria": "PERFILES",
+  "producto": "CANAL \"U\" 6\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00432.jpg"
+},
+{
+  "codigo": "ARI00433",
+  "categoria": "ELECTRICO",
+  "producto": "CANALETA P/CABLE DE 1 VIA AUTOADHERIBLE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00433.jpg"
+},
+{
+  "codigo": "ARI00435",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO COMBINACION 50 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00435.jpg"
+},
+{
+  "codigo": "ARI00444",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO MEDIANO P/CORTINA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00444.jpg"
+},
+{
+  "codigo": "ARI00445",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO NO.6",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00445.jpg"
+},
+{
+  "codigo": "ARI00446",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO P/CADENA PASO 50 ASA 50",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00446.jpg"
+},
+{
+  "codigo": "ARI00448",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PASO 40 DOBLE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00448.jpg"
+},
+{
+  "codigo": "ARI00450",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 1/2\" REFORZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00450.jpg"
+},
+{
+  "codigo": "ARI00452",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 1/4\" REFORZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00452.jpg"
+}
+
+
+
 ]
 
