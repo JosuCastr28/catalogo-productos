@@ -1622,5 +1622,97 @@
   "categoria": "BROCA",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00351.jpg"
-}
-  ]
+},
+{
+  "producto": "BROCA SDS PLUS 5/16 X 8",
+  "codigo": "ARI00351",
+  "categoria": "BROCA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00351.jpg"
+},
+{
+        "codigo": "ARI00352",
+        "categoria": "BROCA",
+        "producto": "BROCA SDS PLUS 5/16\" X 6",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00353",
+        "categoria": "BROCA",
+        "producto": "BROCASIERRA 1 1/2\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00354",
+        "categoria": "BROCA",
+        "producto": "BROCASIERRA 1 1/4\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00355",
+        "categoria": "BROCA",
+        "producto": "BROCASIERRA 1\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00356",
+        "categoria": "BROCA",
+        "producto": "BROCASIERRA 2 1/2\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00357",
+        "categoria": "BROCA",
+        "producto": "BROCASIERRA 2 3/8\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00358",
+        "categoria": "HERRAMIENTA",
+        "producto": "BROCHA DE 1\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00359",
+        "categoria": "HERRAMIENTA",
+        "producto": "BROCHA DE 1/2\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00360",
+        "categoria": "HERRAMIENTA",
+        "producto": "BROCHA DE 2\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00361",
+        "categoria": "HERRAMIENTA",
+        "producto": "BROCHA DE 3\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00362",
+        "categoria": "HERRAMIENTA",
+        "producto": "BROCHA DE 4\"",
+        "unidad": "PCE",
+        "imagen": ""
+    },
+    {
+        "codigo": "ARI00363",
+        "categoria": "HERRAMIENTA",
+        "producto": "BROCHA DE 6\"",
+        "unidad": "PCE",
+        "imagen": ""
+    }
+]
+
