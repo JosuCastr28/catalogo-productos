@@ -2161,7 +2161,148 @@
   "producto": "CANDADO PERRO 1/4\" REFORZADO",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00452.jpg"
+},
+{
+  "codigo": "ARI00453",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 1/8",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00453.jpg"
+},
+{
+  "codigo": "ARI00455",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 3/16\" REFORZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00455.jpg"
+},
+{
+  "codigo": "ARI00457",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 3/4\" REFORZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00457.jpg"
+},
+{
+  "codigo": "ARI00459",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 3/8\" REFORZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00459.jpg"
+},
+{
+  "codigo": "ARI00461",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 5/16\" REFORZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00461.jpg"
+},
+{
+  "codigo": "ARI00463",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PERRO 5/8\" REFORZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00463.jpg"
+},
+{
+  "codigo": "ARI00464",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PHILLIPS 115-GL",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00464.jpg"
+},
+{
+  "codigo": "ARI00465",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PHILLIPS 12-GL",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00465.jpg"
+},
+{
+  "codigo": "ARI00466",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PHILLIPS AS-50",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00466.jpg"
+},
+{
+  "codigo": "ARI00467",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO PHILLIPS ST-50",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00467.jpg"
+},
+{
+  "codigo": "ARI00469",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO SENCILLO PASO 40",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00469.jpg"
+},
+{
+  "codigo": "ARI00470",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO SENCILLO PASO 60",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00470.jpg"
+},
+{
+  "codigo": "ARI00471",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO SENCILLO PASO 80 TIPO ESTANDAR",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00471.jpg"
+},
+{
+  "codigo": "ARI00472",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO TRIPLE PASO 40",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00472.jpg"
+},
+{
+  "codigo": "ARI00473",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CANDADO TRIPLE PASO 60",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00473.jpg"
+},
+{
+  "codigo": "ARI00475",
+  "categoria": "ABRASIVO",
+  "producto": "CARDA CIRCULAR 6 X 1/2 X 1",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00475.jpg"
+},
+{
+  "codigo": "ARI00476",
+  "categoria": "ABRASIVO",
+  "producto": "CARDA CIRCULAR TRENZADA 6 X 5/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00476.jpg"
+},
+{
+  "codigo": "ARI00477",
+  "categoria": "ABRASIVO",
+  "producto": "CARDA DE COPA DE 5\" ENTRADA 5/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00477.jpg"
+},
+{
+  "codigo": "ARI00483",
+  "categoria": "HERRAMIENTA",
+  "producto": "CARETA ELECTRONICA P/SOLDAR INFRA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00483.jpg"
+},
+{
+  "codigo": "ARI00484",
+  "categoria": "ELECTRICO",
+  "producto": "CARGADOR PARA PILA AA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00484.jpg"
 }
+
 
 
 
