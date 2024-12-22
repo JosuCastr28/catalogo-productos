@@ -2301,7 +2301,78 @@
   "producto": "CARGADOR PARA PILA AA",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00484.jpg"
+},
+{
+  "codigo": "ARI00485",
+  "categoria": "PAPELERIA",
+  "producto": "CARPETA TAMAÑO CARTA 3\" CON 3 ANILLOS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00485.jpg"
+},
+{
+  "codigo": "ARI00487",
+  "categoria": "SEGURIDAD",
+  "producto": "CARRETILLA CAT-60ND TRUPER",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00487.jpg"
+},
+{
+  "codigo": "ARI00488",
+  "categoria": "SEGURIDAD",
+  "producto": "CARRETILLA PARA PORTON 500KG LCP500 LOCK",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00488.jpg"
+},
+{
+  "codigo": "ARI00493",
+  "categoria": "GAS",
+  "producto": "CARTUCHO DE GAS BUTANO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00493.jpg"
+},
+{
+  "codigo": "ARI00494",
+  "categoria": "SEGURIDAD",
+  "producto": "CASCO DE SEGURIDAD AMARILLO C/BARBIQUEJO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00494.jpg"
+},
+{
+  "codigo": "ARI00496",
+  "categoria": "HERRAMIENTA",
+  "producto": "CAUTIN TIPO LAPIZ DE 100 WATTS TRUPER",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00496.jpg"
+},
+{
+  "codigo": "ARI00497",
+  "categoria": "HERRAMIENTA",
+  "producto": "CAUTIN WELLER",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00497.jpg"
+},
+{
+  "codigo": "ARI00498",
+  "categoria": "ELECTRICO",
+  "producto": "C-CONDUIT 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00498.jpg"
+},
+{
+  "codigo": "ARI00499",
+  "categoria": "ELECTRICO",
+  "producto": "C-CONDUIT 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00499.jpg"
+},
+{
+  "codigo": "ARI00500",
+  "categoria": "ELECTRICO",
+  "producto": "C-CONDUIT 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00500.jpg"
 }
+
 
 
 
