@@ -5214,7 +5214,2667 @@
   "categoria": "HERRAMIENTA",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01210.jpg"
-}
-
+},
+    {
+    "producto": "JUEGO 3 MACHUELOS AAC 3/4\"-10 NC",
+    "codigo": "ARI01212",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01212.jpg"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 3/8\"-16 NC",
+    "codigo": "ARI01214",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01214.jpg"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 5/16\"-18 NC",
+    "codigo": "ARI01218",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01218.jpg"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 5/8\"-11 NC",
+    "codigo": "ARI01222",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01222.jpg"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 7/16\"-14 NC",
+    "codigo": "ARI01226",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01226.jpg"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 7/8\"-9 NC",
+    "codigo": "ARI01228",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01228.jpg"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 9/16\"-12 NC",
+    "codigo": "ARI01231",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01231.jpg"
+  },
+  {
+    "producto": "JUEGO 43 DADOS Y ACCES. EN PULGADAS 1/2\" 54P42",
+    "codigo": "ARI01232",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01232.jpg"
+  },
+  {
+    "producto": "JUEGO 5 DESTORNILLADORES AMBAR COMBINADO JBUD01",
+    "codigo": "ARI01233",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01233.jpg"
+  },
+  {
+    "producto": "JUEGO 6 DESTORNILLADORES AMBAR COMBINADO 9600G",
+    "codigo": "ARI01234",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01234.jpg"
+  },
+  {
+    "producto": "JUEGO 6 LLAVES HEX TIPO NAVAJA 3-10 MM 4973BM",
+    "codigo": "ARI01235",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01235.jpg"
+  },
+  {
+    "producto": "JUEGO 7 LLAVES HEX \"L\" TORX RACK 4972T",
+    "codigo": "ARI01236",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01236.jpg"
+  },
+  {
+    "producto": "JUEGO 7 LLAVES HEX TIPO NAVAJA 1.5-6 MM 4974",
+    "codigo": "ARI01237",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01237.jpg"
+  },
+  {
+    "producto": "JUEGO 9 LLAVES HEX \"L\" METRICOS BOLA RACK 4996",
+    "codigo": "ARI01238",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01238.jpg"
+  },
+  {
+    "producto": "JUEGO COMBINADO 83 PZAS 144023",
+    "codigo": "ARI01240",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01240.jpg"
+  },
+  {
+    "producto": "JUEGO COMBINADO DE 16 LLAVES HEX 2 TIPO NAVAJA 49816",
+    "codigo": "ARI01241",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01241.jpg"
+  },
+  {
+    "producto": "JUEGO DE 11 LLAVES COMBINADO METRICOS C/RAC JC-11M-E",
+    "codigo": "ARI01242",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01242.jpg"
+  },
+  {
+    "producto": "JUEGO DE 12 CORTACIRCULOS BIMETALICOS JHS12",
+    "codigo": "ARI01243",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01243.jpg"
+  },
+  {
+    "producto": "JUEGO DE 13 LLAVES COMBINADAS EN PULGADAS 6 PUNTAS 1200DH",
+    "codigo": "ARI01244",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01244.jpg"
+  },
+  {
+    "producto": "JUEGO DE 18 DADOS LARGOS METRICOS 6 PUNTAS ENTRADA 1/2\" 54203",
+    "codigo": "ARI01245",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01245.jpg"
+  },
+  {
+    "producto": "JUEGO DE 3 ADAPTADORES P/DADO J500",
+    "codigo": "ARI01246",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01246.jpg"
+  },
+  {
+    "producto": "JUEGO DE 5 DESARMADORES 14138",
+    "codigo": "ARI01248",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01248.jpg"
+  },
+  {
+    "producto": "JUEGO DE 5 DESARMADORES DIELECTRICO COMBINADAO 1000V 9700-C",
+    "codigo": "ARI01249",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01249.jpg"
+  },
+  {
+    "producto": "JUEGO DE 7 DADOS LARGO EN PULGADAS ENTRADA 1/2\" 6 PUNTAS",
+    "codigo": "ARI01250",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01250.jpg"
+  },
+  {
+    "producto": "JUEGO DE DESARMADORES JOYERO 9501BC",
+    "codigo": "ARI01252",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01252.jpg"
+  },
+  {
+    "producto": "JUEGO DE EMBUDO 4 PZS SH2127",
+    "codigo": "ARI01253",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01253.jpg"
+  },
+  {
+    "producto": "JUEGO DE LLAVES COMBINADAS 7 PZAS 1200-H",
+    "codigo": "ARI01255",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01255.jpg"
+  },
+  {
+    "producto": "JUEGO DE PUNZONES 7 PZAS 96-A",
+    "codigo": "ARI01259",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01259.jpg"
+  },
+  {
+    "producto": "LB CONDUIT 1 1/2\"",
+    "codigo": "ARI01311",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01311.jpg"
+  },
+  {
+    "producto": "LB CONDUIT 1\"",
+    "codigo": "ARI01312",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01312.jpg"
+  },
+  {
+    "producto": "LB CONDUIT 1/2\"",
+    "codigo": "ARI01313",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01313.jpg"
+  },
+  {
+    "producto": "LB CONDUIT 2\"",
+    "codigo": "ARI01314",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01314.jpg"
+  },
+  {
+    "producto": "LB CONDUIT 3/4\"",
+    "codigo": "ARI01315",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01315.jpg"
+  },
+  {
+    "producto": "LIJA CON VELCRO AMARILLA",
+    "codigo": "ARI01319",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01319.jpg"
+  },
+  {
+    "producto": "LIJA DE VELCRO GRANO 50",
+    "codigo": "ARI01320",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01320.jpg"
+  },
+  {
+    "producto": "LIJA EN ROLLO DE 1\" P/PLOMERO GRANO 100",
+    "codigo": "ARI01321",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01321.jpg"
+  },
+  {
+    "producto": "LIJA ESMERIL 9\"X11\" G-36",
+    "codigo": "ARI01322",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01322.jpg"
+  },
+  {
+    "producto": "LIJA ESMERIL 9\"X11\" G-EXTRA GRUESO",
+    "codigo": "ARI01323",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01323.jpg"
+  },
+  {
+    "producto": "LIJA ESMERIL 9\"X11\" G-MEDIANO 80",
+    "codigo": "ARI01324",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01324.jpg"
+  },
+  {
+    "producto": "LIJA ESMERIL ROJA G-50",
+    "codigo": "ARI01325",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01325.jpg"
+  },
+  {
+    "producto": "LIJA GRANO 36 DE 24\" ANCHO",
+    "codigo": "ARI01326",
+    "categoria": "ABRASIVO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01326.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-320",
+    "codigo": "ARI01327",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01327.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-100",
+    "codigo": "ARI01328",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01328.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-120",
+    "codigo": "ARI01329",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01329.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-150",
+    "codigo": "ARI01330",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01330.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-180",
+    "codigo": "ARI01331",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01331.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-220",
+    "codigo": "ARI01332",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01332.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-280",
+    "codigo": "ARI01333",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01333.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-400",
+    "codigo": "ARI01334",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01334.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-500",
+    "codigo": "ARI01335",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01335.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-600",
+    "codigo": "ARI01336",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01336.jpg"
+  },
+  {
+    "producto": "LIJA P/AGUA 9\"X11\" G-80",
+    "codigo": "ARI01337",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01337.jpg"
+  },
+  {
+    "producto": "LIMA BASTARDA PLANA 12\"",
+    "codigo": "ARI01345",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01345.jpg"
+  },
+  {
+    "producto": "LIMA BASTARDA REDONDA 8\"",
+    "codigo": "ARI01346",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01346.jpg"
+  },
+  {
+    "producto": "LIMA ESFERA ROTATIVA NUM. 12575",
+    "codigo": "ARI01352",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01352.jpg"
+  },
+  {
+    "producto": "LIMA PLANA BASTARDA 10\"",
+    "codigo": "ARI01355",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01355.jpg"
+  },
+  {
+    "producto": "LIMA PLANA BASTARDA 8\"",
+    "codigo": "ARI01358",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01358.jpg"
+  },
+  {
+    "producto": "LIMATON REDONDO 1/2\" X 12\"",
+    "codigo": "ARI01360",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01360.jpg"
+  },
+  {
+    "producto": "LIMATON REDONDO 3/8\" X 12\"",
+    "codigo": "ARI01361",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01361.jpg"
+  },
+  {
+    "producto": "LIMPIADOR PARA PVC DE 1/2 LITRO",
+    "codigo": "ARI01365",
+    "categoria": "QUIMICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01365.jpg"
+  },
+  {
+    "producto": "LINTERNA ALUMINIO TRUPER 180 LUMINES RECARGABLE",
+    "codigo": "ARI01368",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01368.jpg"
+  },
+  {
+    "producto": "LINTERNA RECARGABLE PARA CABEZA",
+    "codigo": "ARI01370",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01370.jpg"
+  },
+  {
+    "producto": "LINTERNA RECARGABLE PARA CABEZA URREA LCR25",
+    "codigo": "ARI01371",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01371.jpg"
+  },
+  {
+    "producto": "LINTERNA RECARGABLE TIPO PISTOLA 300 LUMENES",
+    "codigo": "ARI01372",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01372.jpg"
+  },
+  {
+    "producto": "LL CONDUIT 1 1/2\"",
+    "codigo": "ARI01373",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01373.jpg"
+  },
+  {
+    "producto": "LL CONDUIT 1\"",
+    "codigo": "ARI01374",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01374.jpg"
+  },
+  {
+    "producto": "LL CONDUIT 1/2\"",
+    "codigo": "ARI01375",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01375.jpg"
+  },
+  {
+    "producto": "LL CONDUIT 3/4",
+    "codigo": "ARI01376",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01376.jpg"
+  },
+  {
+    "producto": "LLAVE AJUSTABLE 10\"",
+    "codigo": "ARI01377",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01377.jpg"
+  },
+  {
+    "producto": "LLAVE AJUSTABLE 12\"",
+    "codigo": "ARI01378",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01378.jpg"
+  },
+  {
+    "producto": "LLAVE AJUSTABLE 4\"",
+    "codigo": "ARI01379",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01379.jpg"
+  },
+  {
+    "producto": "LLAVE AJUSTABLE 6\"",
+    "codigo": "ARI01380",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01380.jpg"
+  },
+  {
+    "producto": "LLAVE AJUSTABLE 8\"",
+    "codigo": "ARI01381",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01381.jpg"
+  },
+  {
+    "producto": "LLAVE COMBINADA 11/16\" 1222A",
+    "codigo": "ARI01383",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01383.jpg"
+  },
+  {
+    "producto": "LLAVE COMBINADA 17 MM COD. 1217M",
+    "codigo": "ARI01384",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01384.jpg"
+  },
+  {
+    "producto": "LLAVE COMBINADA CORTA PULIDO ESPEJO 5/16\"",
+    "codigo": "ARI01385",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01385.jpg"
+  },
+  {
+    "producto": "LLAVE COMBINADA FLEXIBLE 9/16\"",
+    "codigo": "ARI01386",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01386.jpg"
+  },
+  {
+    "producto": "LLAVE COMBINADA FLEXIBLE 3/4\"",
+    "codigo": "ARI01387",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01387.jpg"
+  },
+  {
+  "producto": "LB CONDUIT 1 1/2\"",
+  "codigo": "ARI01311",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01311.jpg"
+},
+{
+  "producto": "LB CONDUIT 1\"",
+  "codigo": "ARI01312",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01312.jpg"
+},
+{
+  "producto": "LB CONDUIT 1/2\"",
+  "codigo": "ARI01313",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01313.jpg"
+},
+{
+  "producto": "LB CONDUIT 2\"",
+  "codigo": "ARI01314",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01314.jpg"
+},
+{
+  "producto": "LB CONDUIT 3/4\"",
+  "codigo": "ARI01315",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01315.jpg"
+},
+{
+  "producto": "LIJA CON VELCRO AMARILLA",
+  "codigo": "ARI01319",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01319.jpg"
+},
+{
+  "producto": "LIJA DE VELCRO GRANO 50",
+  "codigo": "ARI01320",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01320.jpg"
+},
+{
+  "producto": "LIJA EN ROLLO DE 1\" P/PLOMERO GRANO100",
+  "codigo": "ARI01321",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01321.jpg"
+},
+{
+  "producto": "LIJA ESMERIL 9\"X11\" G-36",
+  "codigo": "ARI01322",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01322.jpg"
+},
+{
+  "producto": "LIJA ESMERIL 9\"X11\" G-EXTRA GRUESO",
+  "codigo": "ARI01323",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01323.jpg"
+},
+{
+  "producto": "LIJA ESMERIL 9\"X11\" G-MEDIANO 80",
+  "codigo": "ARI01324",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01324.jpg"
+},
+{
+  "producto": "LIJA ESMERIL ROJA G-50",
+  "codigo": "ARI01325",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01325.jpg"
+},
+{
+  "producto": "LIJA GRANO 36 DE 24\" ANCHO",
+  "codigo": "ARI01326",
+  "categoria": "ABRASIVO",
+  "unidad": "MTR",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01326.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-320",
+  "codigo": "ARI01327",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01327.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-100",
+  "codigo": "ARI01328",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01328.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-120",
+  "codigo": "ARI01329",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01329.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-150",
+  "codigo": "ARI01330",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01330.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-180",
+  "codigo": "ARI01331",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01331.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-220",
+  "codigo": "ARI01332",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01332.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-280",
+  "codigo": "ARI01333",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01333.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-400",
+  "codigo": "ARI01334",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01334.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-500",
+  "codigo": "ARI01335",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01335.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-600",
+  "codigo": "ARI01336",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01336.jpg"
+},
+{
+  "producto": "LIJA P/AGUA 9\"X11\" G-80",
+  "codigo": "ARI01337",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01337.jpg"
+},
+{
+  "producto": "LIMA BASTARDA PLANA 12\"",
+  "codigo": "ARI01345",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01345.jpg"
+},
+{
+  "producto": "LIMA BASTARDA REDONDA 8\"",
+  "codigo": "ARI01346",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01346.jpg"
+},
+{
+  "producto": "LIMA ESFERA ROTATIVA NUM. 12575",
+  "codigo": "ARI01352",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01352.jpg"
+},
+{
+  "producto": "LIMA PLANA BASTARDA 10\"",
+  "codigo": "ARI01355",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01355.jpg"
+},
+{
+  "producto": "LIMA PLANA BASTARDA 8\"",
+  "codigo": "ARI01358",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01358.jpg"
+},
+{
+  "producto": "LIMATON REDONDO 1/2\" X 12\"",
+  "codigo": "ARI01360",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01360.jpg"
+},
+{
+  "producto": "LIMATON REDONDO 3/8\" X 12\"",
+  "codigo": "ARI01361",
+  "categoria": "ABRASIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01361.jpg"
+},
+{
+  "producto": "LIMPIADOR PARA PVC DE 1/2 LITRO",
+  "codigo": "ARI01365",
+  "categoria": "QUIMICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01365.jpg"
+},
+{
+  "producto": "LINTERNA ALUMINIO TRUPER 180 LUMINES RECARGABLE",
+  "codigo": "ARI01368",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01368.jpg"
+},
+{
+  "producto": "LINTERNA RECARGABLE PARA CABEZA",
+  "codigo": "ARI01370",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01370.jpg"
+},
+{
+  "producto": "LINTERNA RECARGABLE PARA CABEZA URREA LCR25",
+  "codigo": "ARI01371",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01371.jpg"
+},
+{
+  "producto": "LINTERNA RECARGABLE TIPO PISTOLA 300 LUMENES",
+  "codigo": "ARI01372",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01372.jpg"
+},
+{
+  "producto": "LL CONDUIT 1 1/2\"",
+  "codigo": "ARI01373",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01373.jpg"
+},
+{
+  "producto": "LL CONDUIT 1\"",
+  "codigo": "ARI01374",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01374.jpg"
+},
+{
+  "producto": "LL CONDUIT 1/2\"",
+  "codigo": "ARI01375",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01375.jpg"
+},
+{
+  "producto": "LL CONDUIT 3/4",
+  "codigo": "ARI01376",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01376.jpg"
+},
+{
+  "producto": "LLAVE AJUSTABLE 10\"",
+  "codigo": "ARI01377",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01377.jpg"
+},
+{
+  "producto": "LLAVE AJUSTABLE 12\"",
+  "codigo": "ARI01378",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01378.jpg"
+},
+{
+  "producto": "LLAVE AJUSTABLE 4\"",
+  "codigo": "ARI01379",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01379.jpg"
+},
+{
+  "producto": "LLAVE AJUSTABLE 6\"",
+  "codigo": "ARI01380",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01380.jpg"
+},
+{
+  "producto": "LLAVE AJUSTABLE 8\"",
+  "codigo": "ARI01381",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01381.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA 11/16\" 1222A",
+  "codigo": "ARI01383",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01383.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA 17 MM COD. 1217M",
+  "codigo": "ARI01384",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01384.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA CORTA PULIDO ESPEJO 5/16\"",
+  "codigo": "ARI01385",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01385.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA FLEXIBLE 9/16\"",
+  "codigo": "ARI01386",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01386.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA FLEXIBLE 3/4\"",
+  "codigo": "ARI01387",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01387.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA MATRACA 7/16\"",
+  "codigo": "ARI01388",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01388.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA MATRACA 9/16\"",
+  "codigo": "ARI01389",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01389.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA P.ESPEJO 12 PTAS 9/16\"",
+  "codigo": "ARI01393",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01393.jpg"
+},
+{
+  "producto": "LLAVE CONBINADA MATRACA 1/2\"",
+  "codigo": "ARI01397",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01397.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA MATRACA 3/4\"",
+  "codigo": "ARI01398",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01398.jpg"
+},
+{
+  "producto": "LLAVE COMBINADA MATRACA 5/8\"",
+  "codigo": "ARI01399",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01399.jpg"
+},
+{
+  "producto": "LLAVE DE IMPACTO 1/2\"",
+  "codigo": "ARI01400",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01400.jpg"
+},
+{
+  "producto": "LLAVE ESTRIA MATRACA 5/8\" X 3/4\"",
+  "codigo": "ARI01401",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01401.jpg"
+},
+{
+  "producto": "LLAVE ESTRIAS MATRACA PLANA 1/2\" X 9/16\"",
+  "codigo": "ARI01402",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01402.jpg"
+},
+{
+  "producto": "LLAVE ESTRIAS MATRACA PLANA 3/8\" X 7/16\"",
+  "codigo": "ARI01403",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01403.jpg"
+},
+{
+  "producto": "LLAVE MEZCLADORA 8\" 49686",
+  "codigo": "ARI01417",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01417.jpg"
+},
+{
+  "producto": "LLAVE STILLSON 10\"",
+  "codigo": "ARI01419",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01419.jpg"
+},
+{
+  "producto": "LLAVE STILLSON 12\"",
+  "codigo": "ARI01420",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01420.jpg"
+},
+{
+  "producto": "LLAVE STILLSON 18\"",
+  "codigo": "ARI01421",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01421.jpg"
+},
+{
+  "producto": "LLAVE STILLSON 36\"",
+  "codigo": "ARI01422",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01422.jpg"
+},
+{
+  "producto": "LLAVE STILLSON 8\"",
+  "codigo": "ARI01423",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01423.jpg"
+},
+{
+  "producto": "LLAVE STILSON 14\"",
+  "codigo": "ARI01424",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01424.jpg"
+},
+{
+  "producto": "LLAVE STILSON 24\"",
+  "codigo": "ARI01425",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01425.jpg"
+},
+{
+  "producto": "LOCTITE 401 20GRS",
+  "codigo": "ARI01427",
+  "categoria": "ADHESIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01427.jpg"
+},
+{
+  "producto": "LOCTITE 495-03 20 GRS",
+  "codigo": "ARI01428",
+  "categoria": "ADHESIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01428.jpg"
+},
+{
+  "producto": "LOCTITE 495-04 90 GRS",
+  "codigo": "ARI01429",
+  "categoria": "ADHESIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01429.jpg"
+},
+{
+  "producto": "LOCTITE 496 20g",
+  "codigo": "ARI01430",
+  "categoria": "ADHESIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01430.jpg"
+},
+{
+  "producto": "LOCTITE 515 Eliminador de juntas Tubo 250 ml",
+  "codigo": "ARI01431",
+  "categoria": "ADHESIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01431.jpg"
+},
+{
+  "producto": "LOCTITE 567 Sellador con teflon Fco 50 ml",
+  "codigo": "ARI01432",
+  "categoria": "ADHESIVO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01432.jpg"
+},
+{
+  "producto": "LR CONDUIT 1",
+  "codigo": "ARI01438",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01438.jpg"
+},
+{
+  "producto": "LR CONDUIT 1 1/2\"",
+  "codigo": "ARI01439",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01439.jpg"
+},
+{
+  "producto": "LR CONDUIT 1/2",
+  "codigo": "ARI01440",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01440.jpg"
+},
+{
+  "producto": "LR CONDUIT 3/4",
+  "codigo": "ARI01441",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01441.jpg"
+},
+{
+  "producto": "LUMINARIA 210 WATTS HASA NEGRO MATE OSRAM EQUIVALENTE",
+  "codigo": "ARI01443",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01443.jpg"
+},
+{
+  "producto": "LUMINARIA LED 60X60 DE EMPOTRAR",
+  "codigo": "ARI01444",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01444.jpg"
+},
+{
+  "producto": "MACHETE DOBLE FILO CON FUNDA",
+  "codigo": "ARI01450",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01450.jpg"
+},
+{
+  "producto": "MAESTRO DE HERRAMIENTA 77 PZA",
+  "codigo": "ARI01456",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01456.jpg"
+},
+{
+  "producto": "MANDRIL PARA BROCA SIERRA ENTRADA DE3/8\"",
+  "codigo": "ARI01458",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01458.jpg"
+},
+{
+  "producto": "MANDRIL PARA BROCA SIERRAENTRADA DE 7/16",
+  "codigo": "ARI01459",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01459.jpg"
+},
+{
+  "producto": "MANERAL EN \"T\" DE 1/4\"",
+  "codigo": "ARI01461",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01461.jpg"
+},
+{
+  "producto": "MANERAL ENTRADA DE 1/2\"",
+  "codigo": "ARI01462",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01462.jpg"
+},
+{
+  "producto": "MANERAL PARA RODILLO 9\"",
+  "codigo": "ARI01463",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01463.jpg"
+},
+{
+  "producto": "MANGUERA RETRACTIL COOL DE 3/8 X 1/4 30MTS",
+  "codigo": "ARI01467",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01467.jpg"
+},
+{
+  "producto": "MANGUERA DE BOMBERO 1 1/2\" X 30 MTS",
+  "codigo": "ARI01469",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01469.jpg"
+},
+{
+  "producto": "MANGUERA DE BOMBERO 2 1/2\" X 30 MTS",
+  "codigo": "ARI01470",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01470.jpg"
+},
+{
+  "producto": "MANGUERA DE LLENADO VERDE 1\" (ROLLO 30M)",
+  "codigo": "ARI01471",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01471.jpg"
+},
+{
+  "producto": "MANGUERA DE LLENADO (ROLLO 30M) 2\"",
+  "codigo": "ARI01472",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01472.jpg"
+},
+{
+  "producto": "MANGUERA FLEXIBLE FREGADERO 1/2",
+  "codigo": "ARI01473",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01473.jpg"
+},
+{
+  "producto": "MANGUERA FLEXIBLE LAVABO",
+  "codigo": "ARI01474",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01474.jpg"
+},
+{
+  "producto": "MANGUERA FLEXIBLE W.C",
+  "codigo": "ARI01475",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01475.jpg"
+},
+{
+  "producto": "MANGUERA GRIS DE ASPIRADO 1 1/2\" (ROLLO 18M)",
+  "codigo": "ARI01476",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01476.jpg"
+},
+{
+  "producto": "MANGUERA LICUATITE 1\"",
+  "codigo": "ARI01477",
+  "categoria": "ELECTRICO",
+  "unidad": "MTR",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01477.jpg"
+},
+{
+  "producto": "MANGUERA LICUATITE 1/2\"",
+  "codigo": "ARI01478",
+  "categoria": "ELECTRICO",
+  "unidad": "MTR",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01478.jpg"
+},
+{
+  "producto": "MANGUERA LICUATITE 3/4\"",
+  "codigo": "ARI01479",
+  "categoria": "ELECTRICO",
+  "unidad": "MTR",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01479.jpg"
+},
+{
+  "producto": "MANGUERA NEGRA ALTA PRESION 1/2\" (ROLLO 100M)",
+  "codigo": "ARI01480",
+  "categoria": "MANGUERA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01480.jpg"
+},
+{
+  "producto": "MEDIOCANDADO PASO 40 SENCILLOS",
+  "codigo": "ARI01562",
+  "categoria": "CERRADURA Y CANDADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01562.jpg"
+},
+{
+  "producto": "MEZCLADORA FREGADERO DE 8\"",
+  "codigo": "ARI01564",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01564.jpg"
+},
+{
+  "producto": "MINI ARCO PARA SEGUETA",
+  "codigo": "ARI01565",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01565.jpg"
+},
+{
+  "producto": "MINI ASPERSOR USO AGRICOLA TRUPER 3.8 L IND",
+  "codigo": "ARI01566",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01566.jpg"
+},
+{
+  "producto": "MINI RODILLO COMPLETO DE 4\"",
+  "codigo": "ARI01567",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01567.jpg"
+},
+{
+  "producto": "MONITOR 1/2\" GALV.",
+  "codigo": "ARI01572",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01572.jpg"
+},
+{
+  "producto": "MONITOR 1/2\" PLAST.",
+  "codigo": "ARI01573",
+  "categoria": "PLASTICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01573.jpg"
+},
+{
+  "producto": "MONITOR CONDUIT 1\"",
+  "codigo": "ARI01574",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01574.jpg"
+},
+{
+  "producto": "MONITOR CONDUIT 1/2\"",
+  "codigo": "ARI01575",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01575.jpg"
+},
+{
+  "producto": "MONITOR CONDUIT 3/4\"",
+  "codigo": "ARI01576",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01576.jpg"
+},
+{
+  "producto": "MOOP DE 90 CM COMPLETO",
+  "codigo": "ARI01577",
+  "categoria": "LIMPIEZA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01577.jpg"
+},
+{
+  "producto": "MOTO TOOL NEUM BROQUERO 3/8\" 22000RPM",
+  "codigo": "ARI01579",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01579.jpg"
+},
+{
+  "producto": "MOTO TOOL NEUMATICO BROQUERO 1/4\"",
+  "codigo": "ARI01580",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01580.jpg"
+},
+{
+  "producto": "MULTICONTACTO 6 ENTRADAS",
+  "codigo": "ARI01584",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01584.jpg"
+},
+{
+  "producto": "NEOPRENO NEGRO 1\" 1 X 1 MTRO",
+  "codigo": "ARI01586",
+  "categoria": "PLACA/ LAMINAS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01586.jpg"
+},
+{
+  "producto": "NEOPRENO NEGRO 3/4\" 1 X 1 MTRO",
+  "codigo": "ARI01587",
+  "categoria": "PLACA/ LAMINAS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01587.jpg"
+},
+{
+  "producto": "NEOPRENO NEGRO 1/8\" 1 X 1 MTRO",
+  "codigo": "ARI01588",
+  "categoria": "PLACA/ LAMINAS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01588.jpg"
+},
+{
+  "producto": "NESCAFE CLASICO DE 350GRS",
+  "codigo": "ARI01589",
+  "categoria": "CAFETERIA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01589.jpg"
+},
+{
+  "producto": "NIPLE AC 1\" X 2\"",
+  "codigo": "ARI01590",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01590.jpg"
+},
+{
+  "producto": "NIPLE BOTELLA 2\"",
+  "codigo": "ARI01591",
+  "categoria": "ACERO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01591.jpg"
+},
+{
+  "producto": "NIPLE GALV 1 1/2 X 3",
+  "codigo": "ARI01592",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01592.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/2 X 4",
+  "codigo": "ARI01593",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01593.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/4 X 3",
+  "codigo": "ARI01594",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01594.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/4\" X 1\"",
+  "codigo": "ARI01595",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01595.jpg"
+},
+{
+  "producto": "NIPLE GALV 3/4\" X 3\"",
+  "codigo": "ARI01596",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01596.jpg"
+},
+{
+  "producto": "NIPLE GALV 3/8\" X 3\"",
+  "codigo": "ARI01597",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01597.jpg"
+},
+{
+  "producto": "NIPLE GALV 1 1/2\" X 6\"",
+  "codigo": "ARI01598",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01598.jpg"
+},
+{
+  "producto": "NIPLE GALV 1 1/4\" X 4\"",
+  "codigo": "ARI01599",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01599.jpg"
+},
+{
+  "producto": "NIPLE GALV 1 1/4\" X 6\"",
+  "codigo": "ARI01600",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01600.jpg"
+},
+{
+  "producto": "NIPLE GALV 1\" X 3\"",
+  "codigo": "ARI01601",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01601.jpg"
+},
+{
+  "producto": "NIPLE GALV 1\" X 6\"",
+  "codigo": "ARI01602",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01602.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/2 X 2\"",
+  "codigo": "ARI01603",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01603.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/2 X 6\"",
+  "codigo": "ARI01604",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01604.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/2\" X 3\"",
+  "codigo": "ARI01605",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01605.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/2\" X 4\"",
+  "codigo": "ARI01606",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01606.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/4 X 3 MAQ",
+  "codigo": "ARI01607",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01607.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/4 X 6 MAQ",
+  "codigo": "ARI01608",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01608.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/4\" X 6\"",
+  "codigo": "ARI01609",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01609.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/4X 3\"",
+  "codigo": "ARI01610",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01610.jpg"
+},
+{
+  "producto": "NIPLE GALV 1/8\" X 4\"",
+  "codigo": "ARI01611",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01611.jpg"
+},
+{
+  "producto": "NIPLE GALV 2 X 4\"",
+  "codigo": "ARI01612",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01612.jpg"
+},
+{
+  "producto": "NIPLE GALV 2\" X 6\"",
+  "codigo": "ARI01613",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01613.jpg"
+},
+{
+  "producto": "NIPLE GALV 3\" X 4\"",
+  "codigo": "ARI01614",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01614.jpg"
+},
+{
+  "producto": "NIPLE GALV 3\" X 6\"",
+  "codigo": "ARI01615",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01615.jpg"
+},
+{
+  "producto": "NIPLE GALV 3\" X 8\"",
+  "codigo": "ARI01616",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01616.jpg"
+},
+{
+  "producto": "NIPLE GALV 3/4 X 3\"",
+  "codigo": "ARI01617",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01617.jpg"
+},
+{
+  "producto": "NIPLE GALV 3/4\" X 6\"",
+  "codigo": "ARI01618",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01618.jpg"
+},
+{
+  "producto": "NIPLE GALV 3/8\" X 4\"",
+  "codigo": "ARI01619",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01619.jpg"
+},
+{
+  "producto": "NIPLE GALV 3/8\" X 6\"",
+  "codigo": "ARI01620",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01620.jpg"
+},
+{
+  "producto": "NIPLE GALV C.C. 4\"",
+  "codigo": "ARI01621",
+  "categoria": "GALVANIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01621.jpg"
+},
+ {
+    "producto": "NIPLE GALV C.C. 1 1/2\"",
+    "codigo": "ARI01622",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01622.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 1 1/4\"",
+    "codigo": "ARI01623",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01623.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 1\"",
+    "codigo": "ARI01624",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01624.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 1/2\"",
+    "codigo": "ARI01625",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01625.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 1/8\"",
+    "codigo": "ARI01626",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01626.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 2 1/2",
+    "codigo": "ARI01627",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01627.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 2\"",
+    "codigo": "ARI01628",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01628.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 3\"",
+    "codigo": "ARI01629",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01629.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 3/4\"",
+    "codigo": "ARI01630",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01630.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C. 3/8\"",
+    "codigo": "ARI01631",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01631.jpg"
+  },
+  {
+    "producto": "NIPLE GALV C.C.1/4\"",
+    "codigo": "ARI01632",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01632.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 1/2 X 4\"",
+    "codigo": "ARI01633",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01633.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 3\" X 6\"",
+    "codigo": "ARI01634",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01634.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 1\" X 8\"",
+    "codigo": "ARI01635",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01635.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 1/2 X 3\"",
+    "codigo": "ARI01636",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01636.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 1/2\"X 8\"",
+    "codigo": "ARI01637",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01637.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 1/4\" x 2\"",
+    "codigo": "ARI01638",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01638.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 2\" X 3\"",
+    "codigo": "ARI01639",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01639.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 2\" X 4\"",
+    "codigo": "ARI01640",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01640.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 2\" x 6\"",
+    "codigo": "ARI01641",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01641.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 3\" X 8\"",
+    "codigo": "ARI01642",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01642.jpg"
+  },
+  {
+    "producto": "NIPLE INOX 3/4\" X 4\"",
+    "codigo": "ARI01643",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01643.jpg"
+  },
+  {
+    "producto": "NIPLE INOX C.C. 1/2\"",
+    "codigo": "ARI01644",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01644.jpg"
+  },
+  {
+    "producto": "NIPLE INOX C.C. 1/4\"",
+    "codigo": "ARI01645",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01645.jpg"
+  },
+  {
+    "producto": "NIPLE INOX C.C. 2\"",
+    "codigo": "ARI01646",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01646.jpg"
+  },
+  {
+    "producto": "NIPLE INOX C.C. 3/4\"",
+    "codigo": "ARI01647",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01647.jpg"
+  },
+  {
+    "producto": "NIPLE LATON 1/4",
+    "codigo": "ARI01648",
+    "categoria": "LATON",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01648.jpg"
+  },
+  {
+    "producto": "NIPLE PVC 1\"X 5\"",
+    "codigo": "ARI01649",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01649.jpg"
+  },
+  {
+    "producto": "NIPLE PVC C.C. 3/4\"",
+    "codigo": "ARI01650",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01650.jpg"
+  },
+  {
+    "producto": "NIPLE PVC 1/2 X 4\"",
+    "codigo": "ARI01651",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01651.jpg"
+  },
+  {
+    "producto": "NIPLE PVC 2 X 4\"",
+    "codigo": "ARI01652",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01652.jpg"
+  },
+  {
+    "producto": "NIPLE PVC 2\" X 6\"",
+    "codigo": "ARI01653",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01653.jpg"
+  },
+  {
+    "producto": "NIPLE PVC 3 X 4\"",
+    "codigo": "ARI01654",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01654.jpg"
+  },
+  {
+    "producto": "NIPLE PVC 3/4\" X 4\"",
+    "codigo": "ARI01655",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01655.jpg"
+  },
+  {
+    "producto": "NIPLE PVC 4\" X 6\"",
+    "codigo": "ARI01656",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01656.jpg"
+  },
+  {
+    "producto": "NIPLE PVC C.C 1/4",
+    "codigo": "ARI01657",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01657.jpg"
+  },
+  {
+    "producto": "NIPLE PVC C.C. 1/2\"",
+    "codigo": "ARI01658",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01658.jpg"
+  },
+  {
+    "producto": "NIVEL DE 3 GOTAS 48\"",
+    "codigo": "ARI01660",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01660.jpg"
+  },
+  {
+    "producto": "NIVEL DE ALUMINIO DE 14\"",
+    "codigo": "ARI01661",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01661.jpg"
+  },
+  {
+    "producto": "NIVEL DE GOTA IMAN 12\"",
+    "codigo": "ARI01662",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01662.jpg"
+  },
+  {
+    "producto": "NIVEL DE GOTA IMAN 24\"",
+    "codigo": "ARI01663",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01663.jpg"
+  },
+  {
+    "producto": "NIVEL DE GOTA IMAN 48\"",
+    "codigo": "ARI01664",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01664.jpg"
+  },
+  {
+    "producto": "NIVEL DE PLASTICO 24\"",
+    "codigo": "ARI01665",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01665.jpg"
+  },
+  {
+    "producto": "NIVEL THRIFITY ALUMINIO 24\"",
+    "codigo": "ARI01668",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01668.jpg"
+  },
+  {
+    "producto": "NIVEL THRIFITY TORPEDO 8\"",
+    "codigo": "ARI01669",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01669.jpg"
+  },
+  {
+    "producto": "OJILLO P/CABLE CAL.0",
+    "codigo": "ARI01670",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01670.jpg"
+  },
+  {
+    "producto": "OJILLO P/CABLE CAL.8",
+    "codigo": "ARI01671",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01671.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 1/2\" X 3/4\"",
+    "codigo": "ARI01672",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01672.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 1/2\" X 3/8\"",
+    "codigo": "ARI01673",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01673.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 1/4\" X 3/8\"",
+    "codigo": "ARI01674",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01674.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 1/8\" X 3/8\"",
+    "codigo": "ARI01675",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01675.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 10 X 40 MM",
+    "codigo": "ARI01676",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01676.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 3/16 X 3/8\"",
+    "codigo": "ARI01677",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01677.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 3/8\" X 3/8\"",
+    "codigo": "ARI01678",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01678.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 5/16\" X 3/8 \"",
+    "codigo": "ARI01679",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01679.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 5/8\" X 1\"",
+    "codigo": "ARI01680",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01680.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN 5/8\" X 3/4 \"",
+    "codigo": "ARI01681",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01681.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN DE 1/2\" X 1\"",
+    "codigo": "ARI01682",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01682.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN DE 1/2\" X 1/2\"",
+    "codigo": "ARI01683",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01683.jpg"
+  },
+  {
+    "producto": "OPRESOR ALLEN DE 3/8\" X 1/2\"",
+    "codigo": "ARI01684",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01684.jpg"
+  },
+  {
+    "producto": "PALA CUADRADA CAJUELERA 130630",
+    "codigo": "ARI01695",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01695.jpg"
+  },
+  {
+    "producto": "PALA DE CUCHARA",
+    "codigo": "ARI01696",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01696.jpg"
+  },
+  {
+    "producto": "PALA DERECHA",
+    "codigo": "ARI01697",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01697.jpg"
+  },
+  {
+    "producto": "PALA INDUSTRIAL METALICA 130621",
+    "codigo": "ARI01698",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01698.jpg"
+  },
+  {
+    "producto": "PAPEL CONTACT DE 0.45 * 20 MTS",
+    "codigo": "ARI01700",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01700.jpg"
+  },
+  {
+    "producto": "PAQUETE DE LLAVES ALLEN PUNTA DE BOLA FRACCIONAL Y MILIMETRICO",
+    "codigo": "ARI01701",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01701.jpg"
+  },
+  {
+    "producto": "PAQUETE LAPICERO AZUL 12 PZA",
+    "codigo": "ARI01704",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01704.jpg"
+  },
+  {
+    "producto": "PAQUETE LAPICERO NEGRO 12 PZA",
+    "codigo": "ARI01705",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01705.jpg"
+  },
+  {
+    "producto": "PARO DE EMERGENCIA ROJO",
+    "codigo": "ARI01707",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01707.jpg"
+  },
+  {
+    "producto": "PASADOR DE SOBREPONER MOD.35",
+    "codigo": "ARI01708",
+    "categoria": "CERRADURA Y CANDADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01708.jpg"
+  },
+  {
+    "producto": "PASADOR PARA PORTON # 6 GALVANIZADO",
+    "codigo": "ARI01709",
+    "categoria": "CERRADURA Y CANDADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01709.jpg"
+  },
+  {
+    "producto": "PASADOR SOBREPONER LOCK L038NIB",
+    "codigo": "ARI01710",
+    "categoria": "CERRADURA Y CANDADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01710.jpg"
+  },
+  {
+    "producto": "PASTA PARA SOLDAR",
+    "codigo": "ARI01711",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01711.jpg"
+  },
+  {
+    "producto": "PASTA PARA SOLDAR MCA. SILLER 500 GRS.",
+    "codigo": "ARI01713",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01713.jpg"
+  },
+  {
+    "producto": "PATIN HIDRAULICO 3 TONELADAS",
+    "codigo": "ARI01714",
+    "categoria": "PATIN",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01714.jpg"
+  },
+  {
+    "producto": "PERMATEX 120 K-A COSMETICO BANDA AEROSOL",
+    "codigo": "ARI01721",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01721.jpg"
+  },
+  {
+    "producto": "PERMATEX MOD. 3-D AVIACION 450 GRS",
+    "codigo": "ARI01722",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01722.jpg"
+  },
+  {
+    "producto": "PIEDRA ABRASIVA CONO-363",
+    "codigo": "ARI01730",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01730.jpg"
+  },
+  {
+    "producto": "PIEDRA AUS 1360PH",
+    "codigo": "ARI01731",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01731.jpg"
+  },
+  {
+    "producto": "PIEDRA AUSTROMEX 58X25X6. CLAVE 13148",
+    "codigo": "ARI01732",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01732.jpg"
+  },
+  {
+    "producto": "PIEDRA DE ESMERIL DE 10\"",
+    "codigo": "ARI01735",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01735.jpg"
+  },
+  {
+    "producto": "PIEDRA ESMERIL CLAVE 45",
+    "codigo": "ARI01736",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01736.jpg"
+  },
+  {
+    "producto": "PIEDRA GRIS 6 X 1 X 1 11A100 C-25",
+    "codigo": "ARI01737",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01737.jpg"
+  },
+  {
+    "producto": "PIEDRA GRIS 6 X 1 X 1 11A36C-21",
+    "codigo": "ARI01738",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01738.jpg"
+  },
+  {
+    "producto": "PIEDRA GRIS 6 X 3/4 X 1\" 11A60 C-17",
+    "codigo": "ARI01739",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01739.jpg"
+  },
+  {
+    "producto": "PIEDRA GRIS 8\" X 1\" X 1\" 11A46 C 40",
+    "codigo": "ARI01740",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01740.jpg"
+  },
+  {
+    "producto": "PIEDRA VERDE 6 X 3/4 X 1 GRANO 100 C-230",
+    "codigo": "ARI01741",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01741.jpg"
+  },
+  {
+    "producto": "PIJA AUTORRAJABLE HEXAGONA 1/4*2\"",
+    "codigo": "ARI01743",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01743.jpg"
+  },
+  {
+    "producto": "PIJA AUTORRAJABLE HEXAGONA 3/16 X 1\"",
+    "codigo": "ARI01744",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01744.jpg"
+  },
+  {
+    "producto": "PIJA AUTORRAJABLE HEXAGONAL 1/4 X 1 \"",
+    "codigo": "ARI01745",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01745.jpg"
+  },
+  {
+    "producto": "PIJA AUTORRAJABLE HEXAGONAL CON EMPAQUE 1/4 X 1 \"",
+    "codigo": "ARI01746",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01746.jpg"
+  },
+  {
+    "producto": "PIJA AUTORRAJABLE HEXAGONAL CON EMPAQUE 1/4 X 3/4 \"",
+    "codigo": "ARI01747",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01747.jpg"
+  },
+  {
+    "producto": "PIJA KALAT 8 X 1",
+    "codigo": "ARI01748",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01748.jpg"
+  },
+  {
+    "producto": "PIJA MULTIUSOS NEGRA 8 X 1 1/2",
+    "codigo": "ARI01749",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01749.jpg"
+  },
+  {
+    "producto": "PIJA MULTIUSOS NEGRA 8 X 1\"",
+    "codigo": "ARI01750",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01750.jpg"
+  },
+  {
+    "producto": "PIJA MULTIUSOS NEGRA 8 X 3\"",
+    "codigo": "ARI01751",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01751.jpg"
+  },
+  {
+    "producto": "PIJA MULTIUSOS NEGRA 8 X 3/4\"",
+    "codigo": "ARI01752",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01752.jpg"
+  },
+  {
+    "producto": "PIJA P/LAMINA CABEZA COMBINADA 10 X 1 \"",
+    "codigo": "ARI01753",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01753.jpg"
+  },
+  {
+    "producto": "PIJA P/LAMINA CABEZA COMBINADA 10 X 2 \"",
+    "codigo": "ARI01754",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01754.jpg"
+  },
+  {
+    "producto": "PIJA P/LAMINA CABEZA COMBINADA 12 X 1\"",
+    "codigo": "ARI01755",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01755.jpg"
+  },
+  {
+    "producto": "PIJA P/LAMINA CABEZA COMBINADA 12 X 1.1/2\"",
+    "codigo": "ARI01756",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01756.jpg"
+  },
+  {
+    "producto": "PIJA P/LAMINA CABEZA COMBINADA 12 X 2\"",
+    "codigo": "ARI01757",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01757.jpg"
+  },
+  {
+    "producto": "PIJA P/LAMINA CABEZA COMBINADA 8 X 3/4",
+    "codigo": "ARI01758",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01758.jpg"
+  },
+  {
+    "producto": "PILA A76",
+    "codigo": "ARI01759",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01759.jpg"
+  },
+  {
+    "producto": "PILA ALCALINA \"AA\" PAQ 4PZA",
+    "codigo": "ARI01760",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01760.jpg"
+  },
+  {
+    "producto": "PILA ALCALINA \"AAA\" PAQ 4PZA",
+    "codigo": "ARI01761",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01761.jpg"
+  },
+  {
+    "producto": "PILA ALCALINA \"C\" PAQ 2PZA",
+    "codigo": "ARI01762",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01762.jpg"
+  },
+  {
+    "producto": "PILA ALCALINA \"D\" PAQ 2 PZA",
+    "codigo": "ARI01763",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01763.jpg"
+  },
+  {
+    "producto": "PILA ALCALINA CUADRADA 9 V",
+    "codigo": "ARI01764",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01764.jpg"
+  },
+  {
+    "producto": "PILA DE BOTON COD BAT-CR 2031",
+    "codigo": "ARI01765",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01765.jpg"
+  },
+  {
+    "producto": "PILA LITHIUM CR2032",
+    "codigo": "ARI01766",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01766.jpg"
+  },
+  {
+    "producto": "PILA LITHIUM MOD. CR123A",
+    "codigo": "ARI01767",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01767.jpg"
+  },
+  {
+    "producto": "PILA RECARGABLE AA PAQ 2PZA",
+    "codigo": "ARI01768",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01768.jpg"
+  },
+  {
+    "producto": "PILA RECARGABLE AAA PAQ 2PZA",
+    "codigo": "ARI01769",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01769.jpg"
+  },
+  {
+    "producto": "PINCELES",
+    "codigo": "ARI01770",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01770.jpg"
+  },
+  {
+    "producto": "PINTURA EN AEROSOL COMEX VARIOS COLORES NO METALICOS",
+    "codigo": "ARI01773",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01773.jpg"
+  },
+  {
+    "producto": "PINTURA EN AEROSOL ECONOMICA VARIOS COLORES NO METALICOS",
+    "codigo": "ARI01774",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01774.jpg"
+  },
+    {
+    "producto": "PINZA P/ELECTRODO 300AMP",
+    "codigo": "ARI01787",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01787.jpg"
+  },
+  {
+    "producto": "PINZA P/TIERRA 300AMP",
+    "codigo": "ARI01788",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01788.jpg"
+  },
+  {
+    "producto": "PINZA PARA FLEJAR 3/4",
+    "codigo": "ARI01795",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01795.jpg"
+  },
+  {
+    "producto": "PINZA PELA CABLE AUTOMATICA",
+    "codigo": "ARI01797",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01797.jpg"
+  },
+  {
+    "producto": "PINZA PUNTA CONICA CORTE LATERAL 6-1/4\"",
+    "codigo": "ARI01798",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01798.jpg"
+  },
+  {
+    "producto": "PINZA PUNTA PLANA 6-5/8\"",
+    "codigo": "ARI01799",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01799.jpg"
+  },
+  {
+    "producto": "PINZA PUNTA Y CORTE 8\"",
+    "codigo": "ARI01800",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01800.jpg"
+  },
+  {
+    "producto": "PISTOLA CALAFATEADORA PROFESIONAL",
+    "codigo": "ARI01802",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01802.jpg"
+  },
+  {
+    "producto": "PISTOLA DE GRAVEDADASTURO E70",
+    "codigo": "ARI01804",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01804.jpg"
+  },
+  {
+    "producto": "PISTOLA DE IMPACTO ELECTRICA 1/2\"",
+    "codigo": "ARI01805",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01805.jpg"
+  },
+  {
+    "producto": "PISTOLA DE IMPACTO INALAMBRICO 1/2\"",
+    "codigo": "ARI01806",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01806.jpg"
+  },
+  {
+    "producto": "PISTOLA DE IMPACTO NEUMATICA 1/2\"",
+    "codigo": "ARI01807",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01807.jpg"
+  },
+  {
+    "producto": "PISTOLA METALICA PARA SOPLETEAR, CUERDA 1/4 NPT",
+    "codigo": "ARI01808",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01808.jpg"
+  },
+  {
+    "producto": "PISTOLA PARA SOPLETEAR, MANGO PLÁSTICO, 6\"",
+    "codigo": "ARI01810",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01810.jpg"
+  },
+  {
+    "producto": "PLACA ANTIDERRAPANTE 1/8 DE 4X10 PIES",
+    "codigo": "ARI01818",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01818.jpg"
+  },
+  {
+    "producto": "PLACA CONTACTO DUPLEX INTEMPERIE",
+    "codigo": "ARI01819",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01819.jpg"
+  },
+  {
+    "producto": "PLACA HULE ESPONJA ROJA 1/2\"  1 X 1 M",
+    "codigo": "ARI01827",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01827.jpg"
+  },
+  {
+    "producto": "PLACA HULE ESPONJA ROJA 1/4\"  1 X 1 M",
+    "codigo": "ARI01828",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01828.jpg"
+  },
+  {
+    "producto": "PRENSA DE RESORTE 6\"",
+    "codigo": "ARI01860",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01860.jpg"
+  },
+  {
+    "producto": "PTR CAL.10 1 1/2\" X 1 1/2\"",
+    "codigo": "ARI01862",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01862.jpg"
+  },
+  {
+    "producto": "PTR CAL.10 1\" X 1\"",
+    "codigo": "ARI01863",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01863.jpg"
+  },
+  {
+    "producto": "PTR CAL.10 2 X 2\"",
+    "codigo": "ARI01864",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01864.jpg"
+  },
+  {
+    "producto": "PTR CAL.11 1 X 1\"",
+    "codigo": "ARI01865",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01865.jpg"
+  },
+  {
+    "producto": "PTR CAL.11 3 X 3\"",
+    "codigo": "ARI01866",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01866.jpg"
+  },
+  {
+    "producto": "PTR CAL.12  1 1/2\"X 1 1/2\"",
+    "codigo": "ARI01867",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01867.jpg"
+  },
+  {
+    "producto": "PTR CAL.12  1 1/4  X 1 1/4\"",
+    "codigo": "ARI01868",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01868.jpg"
+  },
+  {
+    "producto": "PTR CAL.12  2 X 2\"",
+    "codigo": "ARI01869",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01869.jpg"
+  },
+  {
+    "producto": "PTR CAL.14 1 1/2\" X 1 1/2\"",
+    "codigo": "ARI01870",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01870.jpg"
+  },
+  {
+    "producto": "PTR CAL.14 1 1/4\" X 1 1/4\"",
+    "codigo": "ARI01871",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01871.jpg"
+  },
+  {
+    "producto": "PTR CAL.14 1\" X 1\"",
+    "codigo": "ARI01872",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01872.jpg"
+  },
+  {
+    "producto": "PTR CAL.14 2 X 2\"",
+    "codigo": "ARI01873",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01873.jpg"
+  },
+  {
+    "producto": "PTR CAL.14 2 X 3\"",
+    "codigo": "ARI01874",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01874.jpg"
+  },
+  {
+    "producto": "PTR CAL.7  2 X 3\"",
+    "codigo": "ARI01875",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01875.jpg"
+  },
+  {
+    "producto": "PTR INOX 2\"X 2\"",
+    "codigo": "ARI01876",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01876.jpg"
+  },
+  {
+    "producto": "PULSADOR ILUMINADO CON LED 225MM ROJO 110V-120V NA+NC",
+    "codigo": "ARI01879",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01879.jpg"
+  }
+  
 ]
 
