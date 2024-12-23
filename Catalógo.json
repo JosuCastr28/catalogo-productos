@@ -4350,7 +4350,7 @@
     "producto": "ESPATULA 10\"",
     "codigo": "ARI01000",
     "categoria": "HERRAMIENTA",
-    "unidad": "PCE"
+    "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01000.jpg"
   },
   {
@@ -4406,7 +4406,7 @@
     "producto": "ESPEJO TELESCOPICO PARATALLER DE 2\"",
     "codigo": "ARI01011",
     "categoria": "HERRAMIENTA",
-    "unidad": "PCE"
+    "unidad": "PCE",
      "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01010.jpg"
 
   },
