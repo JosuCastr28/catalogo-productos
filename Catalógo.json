@@ -7874,7 +7874,153 @@
     "categoria": "ELECTRICO",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01879.jpg"
+  },
+   {
+    "producto": "REDUCCION BUSHING INOX SOLD 2\"X 1\"",
+    "codigo": "ARI01956",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01956.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC CEM  2\" X 1\"",
+    "codigo": "ARI01959",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01959.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC CEM 3\" X 2\"",
+    "codigo": "ARI01967",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01967.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC CEM 4\" X 2\"",
+    "codigo": "ARI01969",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01969.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC CEM 4\" X 3\"",
+    "codigo": "ARI01970",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01970.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC CEM 6 X 2",
+    "codigo": "ARI01971",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01971.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC ROS 3\" X 2\"",
+    "codigo": "ARI01972",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01972.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC ROSC 2\" X 1”",
+    "codigo": "ARI01976",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01976.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC ROSC 3 X 2 1/2",
+    "codigo": "ARI01977",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01977.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC ROSC 4 X 3",
+    "codigo": "ARI01978",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01978.jpg"
+  },
+  {
+    "producto": "REDUCCION BUSHING PVC ROSC 6 X 2",
+    "codigo": "ARI01979",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01979.jpg"
+  },
+  {
+    "producto": "REDUCCION CAMPANA GALV  1 X 1/2",
+    "codigo": "ARI01983",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01983.jpg"
+  },
+  {
+    "producto": "REDUCCION CAMPANA GALV 1 1/2\" X 1\"",
+    "codigo": "ARI01984",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01984.jpg"
+  },
+  {
+    "producto": "REDUCCION CAMPANA GALV 1 X 3/4",
+    "codigo": "ARI01985",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01985.jpg"
+  },
+  {
+    "producto": "REDUCCION CAMPANA GALV 1/2 X 3/8",
+    "codigo": "ARI01986",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01986.jpg"
+  },
+  {
+    "producto": "REDUCCION CAMPANA GALV 3/4\" X 1/2\"",
+    "codigo": "ARI01987",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI01987.jpg"
+  },
+  {
+    "producto": "REPUESTO DE MOOP DE 90 CM",
+    "codigo": "ARI02020",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI02020.jpg"
+  },
+  {
+    "producto": "REPUESTO DE RODILLO  FELPA 9\"",
+    "codigo": "ARI02021",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI02021.jpg"
+  },
+  {
+    "producto": "RESISTOL 5000 4 LT",
+    "codigo": "ARI02026",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI02026.jpg"
+  },
+  {
+    "producto": "RESISTOL 5000 DE 500ML",
+    "codigo": "ARI02027",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI02027.jpg"
+  },
+  {
+    "producto": "RESPALDO PULIDORA AMARILLO",
+    "codigo": "ARI02028",
+    "categoria": "RESPALDO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI02028.jpg"
   }
-  
 ]
 
