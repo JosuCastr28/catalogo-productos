@@ -3771,18 +3771,1298 @@
   "producto": "CRUZ GALV 1/2\"",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00831.jpg"
-}
-
-
-  
-  
-
-
-
-
-
-
-
-
+},
+{
+  "codigo": "ARI00833",
+  "categoria": "PVC",
+  "producto": "CRUZ PVC CEM 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00833.jpg"
+},
+{
+  "codigo": "ARI00834",
+  "categoria": "PLASTICO",
+  "producto": "CUBETA GRADUADA DE 20 LITROS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00834.jpg"
+},
+{
+  "codigo": "ARI00835",
+  "categoria": "HERRAMIENTA",
+  "producto": "CUBETA PLASTICO FLEXIBLE NO.18",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00835.jpg"
+},
+{
+  "codigo": "ARI00839",
+  "categoria": "CAFETERIA",
+  "producto": "CUCHARAS DE PLASTICO MEDIANAS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00839.jpg"
+},
+{
+  "codigo": "ARI00840",
+  "categoria": "HERRAMIENTA",
+  "producto": "CUCHARONES DE PLASTICO DE 500GR",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00840.jpg"
+},
+{
+  "codigo": "ARI00842",
+  "categoria": "PLOMERIA",
+  "producto": "CUELO DE CERA C/ GUIA WC",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00842.jpg"
+},
+{
+  "codigo": "ARI00843",
+  "categoria": "HERRAMIENTA",
+  "producto": "CUTTER DE 8 PUNTAS ALMA METALICA CUTF9",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00843.jpg"
+},
+{
+  "codigo": "ARI00849",
+  "categoria": "DADO",
+  "producto": "DADO CORTO ENTRADA 1/2\" 6 PUNTAS DE 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00849.jpg"
+},
+{
+  "codigo": "ARI00850",
+  "categoria": "DADO",
+  "producto": "DADO CORTO ENTRADA 1/2\" 12 PUNTAS DE 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00850.jpg"
+},
+{
+  "codigo": "ARI00851",
+  "categoria": "DADO",
+  "producto": "DADO CORTO ENTRADA 1/2\" 6 PUNTAS DE 9/16\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00851.jpg"
+},
+{
+  "codigo": "ARI00854",
+  "categoria": "DADO",
+  "producto": "DADO DE IMPACTO ENTRADA 1/2 6 PUNTAS DE 9/16\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00854.jpg"
+},
+{
+  "codigo": "ARI00857",
+  "categoria": "DADO",
+  "producto": "DADO DE IMPACTO LARGO ENTRADA 1/2 6 PUNTAS DE 24 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00857.jpg"
+},
+{
+  "codigo": "ARI00858",
+  "categoria": "DADO",
+  "producto": "DADO DE IMPACTO LARGO ENTRADA 1/2 6 PUNTAS DE 32 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00858.jpg"
+},
+{
+  "codigo": "ARI00862",
+  "categoria": "DADO",
+  "producto": "DADO LARGO ENTRADA 1/2 6 PUNTAS DE 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00862.jpg"
+},
+{
+  "codigo": "ARI00863",
+  "categoria": "DADO",
+  "producto": "DADO LARGO ENTRADA 1/2 6 PUNTAS DE 7/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00863.jpg"
+},
+{
+  "codigo": "ARI00864",
+  "categoria": "DADO",
+  "producto": "DADO LARGO ENTRADA 1/2\" 6 PUNTAS DE 11/16\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00864.jpg"
+},
+{
+  "codigo": "ARI00865",
+  "categoria": "DADO",
+  "producto": "DADO LARGO ENTRADA 1/2\" 6 PUNTAS DE 15/16\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00865.jpg"
+},
+{
+  "codigo": "ARI00867",
+  "categoria": "DADO",
+  "producto": "DADO PUNTA HEXAGONAL ENTRADA 1/2\" DE 10 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00867.jpg"
+},
+{
+  "codigo": "ARI00868",
+  "categoria": "DADO",
+  "producto": "DADO PUNTA HEXAGONAL ENTRADA 1/2\" DE 12 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00868.jpg"
+},
+{
+  "codigo": "ARI00871",
+  "categoria": "DADO",
+  "producto": "DADO PUNTA HEXAGONAL LARGA ENTRADA 1/2\" DE 8 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00871.jpg"
+},
+{
+    "producto": "DESARMADOR  AMBAR CUAD PLANA 3/8\"X12",
+    "codigo": "ARI00873",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00873.jpg"
+  },
+  {
+    "producto": "DESARMADOR  AMBAR PLANO DE 1/4 X 4",
+    "codigo": "ARI00874",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00874.jpg"
+  },
+  {
+    "producto": "DESARMADOR  AMBAR RED CABINET 1/4\"X12",
+    "codigo": "ARI00875",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00875.jpg"
+  },
+  {
+    "producto": "DESARMADOR  DE CAJA DE 1/4\"",
+    "codigo": "ARI00876",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00876.jpg"
+  },
+  {
+    "producto": "DESARMADOR  DE CAJA DE 5/16\"",
+    "codigo": "ARI00877",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00877.jpg"
+  },
+  {
+    "producto": "DESARMADOR  PUNTA PLANA 3/16\" X 4\"",
+    "codigo": "ARI00878",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00878.jpg"
+  },
+  {
+    "producto": "DESARMADOR AMABAR CABINET 3/16 X 4",
+    "codigo": "ARI00879",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00879.jpg"
+  },
+  {
+    "producto": "DESARMADOR AMBAR MAGNETICO 10 EN 1",
+    "codigo": "ARI00880",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00880.jpg"
+  },
+  {
+    "producto": "DESARMADOR AMBAR PHILLI #0 1/8X2-1/2\"",
+    "codigo": "ARI00881",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00881.jpg"
+  },
+  {
+    "producto": "DESARMADOR AMBAR RED CABINET 1/8X2 1/2\"",
+    "codigo": "ARI00882",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00882.jpg"
+  },
+  {
+    "producto": "DESARMADOR AMBAR RED CABINET 3/16 X 3\"",
+    "codigo": "ARI00883",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00883.jpg"
+  },
+  {
+    "producto": "DESARMADOR CUSH CUAD PLANA 5/16\"x6\"",
+    "codigo": "ARI00884",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00884.jpg"
+  },
+  {
+    "producto": "DESARMADOR CUSH RED PHILLI #2 1/4x13/8",
+    "codigo": "ARI00885",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00885.jpg"
+  },
+  {
+    "producto": "DESARMADOR CUSH RED PLANA 1/4x13/8",
+    "codigo": "ARI00886",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00886.jpg"
+  },
+  {
+    "producto": "DESARMADOR CUSH RED PLANA 3/16\"x4",
+    "codigo": "ARI00887",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00887.jpg"
+  },
+  {
+    "producto": "DESARMADOR DIELECTRICO DE 1/4 X 5-7/8",
+    "codigo": "ARI00889",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00889.jpg"
+  },
+  {
+    "producto": "DESARMADOR MATRACA 8 EN 1",
+    "codigo": "ARI00890",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00890.jpg"
+  },
+  {
+    "producto": "DESARMADOR PLANO 3/16 X 4",
+    "codigo": "ARI00891",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00891.jpg"
+  },
+  {
+    "producto": "DESARMADOR PUNTA CRUZ 1/4 X 4",
+    "codigo": "ARI00892",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00892.jpg"
+  },
+  {
+    "producto": "DESATORNILLADOR DEWALT 12V",
+    "codigo": "ARI00893",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00893.jpg"
+  },
+  {
+    "producto": "DESCANSO INTERMEDIO PARA LIJADORA",
+    "codigo": "ARI00894",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00894.jpg"
+  },
+  {
+    "producto": "DESPACHADOR DE CINTA DE 3\"",
+    "codigo": "ARI00898",
+    "categoria": "CINTAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00898.jpg"
+  },
+  {
+    "producto": "DESTAPACAÑOS MANUAL SR6003",
+    "codigo": "ARI00901",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00901.jpg"
+  },
+  {
+    "producto": "DESTORCEDOR CADENA 1/4",
+    "codigo": "ARI00903",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00903.jpg"
+  },
+  {
+    "producto": "DISCO CORTE 4 1/2 INOX",
+    "codigo": "ARI00908",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00908.jpg"
+  },
+  {
+    "producto": "DISCO CORTE METAL DE 7\"",
+    "codigo": "ARI00911",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00911.jpg"
+  },
+  {
+    "producto": "DISCO CORTE 14\"",
+    "codigo": "ARI00915",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00915.jpg"
+  },
+  {
+    "producto": "DISCO CORTE INOX 9\"",
+    "codigo": "ARI00919",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00919.jpg"
+  },
+  {
+    "producto": "DISCO CORTE METAL DE 9\"",
+    "codigo": "ARI00921",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00921.jpg"
+  },
+  {
+    "producto": "DISCO DESBASTE 7\"",
+    "codigo": "ARI00925",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00925.jpg"
+  },
+  {
+    "producto": "DISCO DESBASTE 4-1/2\"",
+    "codigo": "ARI00926",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00926.jpg"
+  },
+  {
+    "producto": "DISCO DESBASTE METAL DE 9\"",
+    "codigo": "ARI00929",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00929.jpg"
+  },
+  {
+    "producto": "DISCO DIAMANTADO 829 AZUL ORO 115X2.2 X 22.2",
+    "codigo": "ARI00931",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00931.jpg"
+  },
+  {
+    "producto": "DISCO DIAMANTADO 841 ROJO ORO 175 X 2.2 X 22.2",
+    "codigo": "ARI00932",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00932.jpg"
+  },
+  {
+    "producto": "DISCO DIAMANTE 842 14X0.125X1",
+    "codigo": "ARI00936",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00936.jpg"
+  },
+  {
+    "producto": "DISCO LAMINADO 2717 4 1/2\"",
+    "codigo": "ARI00938",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00938.jpg"
+  },
+  {
+    "producto": "ESLINGA 1 1/2 X 1.82 MTS 1170 KGS",
+    "codigo": "ARI00969",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESLINGA 1\" X 120CM",
+    "codigo": "ARI00970",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESLINGA 1\" X 180CM",
+    "codigo": "ARI00971",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESLINGA CON MATRACA DE 1 1/2*5 MTS CON ADAPTACIÓN",
+    "codigo": "ARI00972",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESLINGA PLANA SIN FIN 1 CAPA DE 1\"*1.13 MTS",
+    "codigo": "ARI00973",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESMERILADORA ANGULAR 4 1/2 EA804",
+    "codigo": "ARI00975",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESMERILADORA ANGULAR 4 1/2\" 900W DWE4120",
+    "codigo": "ARI00976",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESMERILADORA ANGULAR 4 1/2\" GA4530",
+    "codigo": "ARI00977",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESMERILADORA ANGULAR 7\" D28491-B3 7\"",
+    "codigo": "ARI00978",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESMERILADORA ANGULAR 9\" DWE490",
+    "codigo": "ARI00979",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 1 1/2 X 1 MT.",
+    "codigo": "ARI00980",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 1 X 1MT",
+    "codigo": "ARI00981",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 1/2 X 1 MT",
+    "codigo": "ARI00982",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 1/4 X 1 MT",
+    "codigo": "ARI00983",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 10MM X 1MT",
+    "codigo": "ARI00985",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 12 MM X 1MT",
+    "codigo": "ARI00987",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 24 MM X 1 MT",
+    "codigo": "ARI00988",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 3/16 X 1MT",
+    "codigo": "ARI00989",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 3/4 X 1 MT",
+    "codigo": "ARI00990",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 3/8 X 1MT",
+    "codigo": "ARI00991",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 5/16 X 1 MT",
+    "codigo": "ARI00993",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 5/8 X 1 MT",
+    "codigo": "ARI00994",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 5/8 X 1 MT INOX",
+    "codigo": "ARI00995",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 7/16 X 1 MT",
+    "codigo": "ARI00996",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPARRAGO DE 7/8 X 1 MT.",
+    "codigo": "ARI00997",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 1\"",
+    "codigo": "ARI00999",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 10\"",
+    "codigo": "ARI01000",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 12\"",
+    "codigo": "ARI01001",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 2\"",
+    "codigo": "ARI01002",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 3\"",
+    "codigo": "ARI01003",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 4\"",
+    "codigo": "ARI01004",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 5\"",
+    "codigo": "ARI01005",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 6\"",
+    "codigo": "ARI01006",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPATULA 8\"",
+    "codigo": "ARI01007",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPEJO TELESCOPICO PARATALLER DE 2\"",
+    "codigo": "ARI01011",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 1/2 X 1/2\" NPT",
+    "codigo": "ARI01012",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 1/2 X 3/8\" NPT",
+    "codigo": "ARI01013",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 1/4 X 1/4\" NPT",
+    "codigo": "ARI01014",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 1/4 X 3/8\" NPT",
+    "codigo": "ARI01015",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 3/4 CON SALIDA DE 1/2 PVC",
+    "codigo": "ARI01016",
+    "categoria": "PVC",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 3/4 CON SALIDA DE 3/4 PVC",
+    "codigo": "ARI01017",
+    "categoria": "PVC",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 3/4 CON SALIDA TIPO LAPIZ",
+    "codigo": "ARI01018",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 3/4 X 3/4\" NPT",
+    "codigo": "ARI01019",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 3/8 X 1/2\" NPT",
+    "codigo": "ARI01020",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 3/8 X 1/4\" NPT",
+    "codigo": "ARI01021",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 3/8 X 3/8\" NPT",
+    "codigo": "ARI01022",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESPIGA 30182-4-6B PARKER",
+    "codigo": "ARI01023",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESFONJA ROJO 1\" 1X1",
+    "codigo": "ARI01027",
+    "categoria": "ESFONJA Y HULE",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESFONJA ROJO 3/4\" 1X1",
+    "codigo": "ARI01028",
+    "categoria": "ESFONJA Y HULE",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ESFONJA ROJO 3/8 1*1",
+    "codigo": "ARI01029",
+    "categoria": "ESFONJA Y HULE",
+    "unidad": "PCE"
+  },
+{
+    "producto": "ADHESIVO ESPUMA DE POLURIETANO",
+    "codigo": "ARI01030",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "QUIMICO ESPUMA LIMPIADORA PARA LAPTOP USO EXTERNO",
+    "codigo": "ARI01031",
+    "categoria": "QUIMICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "TRAPO ESTOPA LARGA",
+    "codigo": "ARI01033",
+    "categoria": "TRAPO",
+    "unidad": "KGM"
+  },
+  {
+    "producto": "ELECTRICO EXTENSION ELECTRICA USO RUDO 15 MTS",
+    "codigo": "ARI01034",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO EXTENSION ELECTRICA USO RUDO 5 MTS",
+    "codigo": "ARI01035",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA EXTENSION P/RODILLO 3.6m",
+    "codigo": "ARI01038",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA EXTENSION P/RODILLO 2.4m",
+    "codigo": "ARI01039",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA EXTRACTOR DE 10 TONS.8 QUIJADAS 4030",
+    "codigo": "ARI01040",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FECHADOR",
+    "codigo": "ARI01042",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "MANEJO Y SUJECION DE CARGA FLEJE GAL. 3/4\" ROLLO",
+    "codigo": "ARI01048",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FLEXOMETRO ANTI-IMPACTO 3M X 5/8\" B122080",
+    "codigo": "ARI01049",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FLEXOMETRO ANTI-IMPACTO 5M X 1\" B122081",
+    "codigo": "ARI01050",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FLEXOMETRO DE 5 MTS URREA",
+    "codigo": "ARI01051",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FLEXOMETRO STANLEY POWERLOCK P3ME 3 M",
+    "codigo": "ARI01053",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FLEXOMETRO STANLEY POWERLOCK P5ME 5 M",
+    "codigo": "ARI01054",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FOCO PHILIPS A19",
+    "codigo": "ARI01063",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 1\" DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01064",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 1/2 DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01065",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 1/4 DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01066",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 1-1/2 DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01067",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 3/4 DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01068",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 3/8 DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01069",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 5/8 DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01070",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HERRAMIENTA FORMON PARA MADERA DE 7/8 DE ANCHO X 9 DE LARGO",
+    "codigo": "ARI01071",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "TRAPO FRANELA BLANCA",
+    "codigo": "ARI01073",
+    "categoria": "TRAPO",
+    "unidad": "MTR"
+  },
+  {
+    "producto": "ELECTRICO FS CONDUIT 1/2",
+    "codigo": "ARI01075",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FS CONDUIT 3/4\"",
+    "codigo": "ARI01076",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FSC 3 ENTRADAS CONDUIT 1/2\"",
+    "codigo": "ARI01077",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO 2.5 A 250 V",
+    "codigo": "ARI01079",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE AMERICANO 20A/32VCA/AGC-20",
+    "codigo": "ARI01080",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO 2A - 250 V",
+    "codigo": "ARI01081",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO 0.63 AMP. 250 V",
+    "codigo": "ARI01082",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO 1 AMP. 250 VOLTS",
+    "codigo": "ARI01083",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO 10 AMP. 250 V",
+    "codigo": "ARI01084",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO 6 AMP. 250 VLTS",
+    "codigo": "ARI01085",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO DE 3 AMP 250V",
+    "codigo": "ARI01086",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO DE 4 AMP - 250 V",
+    "codigo": "ARI01087",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE EUROPEO DE 5 AMP 250 V",
+    "codigo": "ARI01088",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE T/CARTUCHO 14*51 16 A",
+    "codigo": "ARI01090",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO AMERICANO 7.5 - 250 V",
+    "codigo": "ARI01091",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO AMERICANO 8 - 250 V",
+    "codigo": "ARI01092",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO AMERICANO 10 - 250 V",
+    "codigo": "ARI01093",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO AMERICANO 4 - 250 V",
+    "codigo": "ARI01094",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO AMERICANO 6A 250 V",
+    "codigo": "ARI01095",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO AMERICANO DE 0.5-250 V",
+    "codigo": "ARI01096",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO AMERICANO DE 2 - 250 V",
+    "codigo": "ARI01097",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO CARTUCHO 10 X 38 10 AMP.",
+    "codigo": "ARI01098",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO CARTUCHO 10 X 38 8 AMP",
+    "codigo": "ARI01099",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ELECTRICO FUSIBLE TIPO CARTUCHO 10 X 38 25 A 500 V",
+    "codigo": "ARI01100",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "ADHESIVO GALON REDIMIX",
+    "codigo": "ARI01102",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE"
+  },
+   {
+    "producto": "GANCHO ESLINGA DE 3/4\" PARA 500KG",
+    "codigo": "ARI01108",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "GLANDULA CONDUIT 1/2\"",
+    "codigo": "ARI01112",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "GLANDULA CONDUIT 3/4\"",
+    "codigo": "ARI01113",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "GRAPA P/FLEJE ACERO 3/4\"",
+    "codigo": "ARI01117",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "GUANTE DOMESTICO AMARILLO #9",
+    "codigo": "ARI01132",
+    "categoria": "SEGURIDAD",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "GUANTE PARA SOLDADOR",
+    "codigo": "ARI01133",
+    "categoria": "SEGURIDAD",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "GUARDACABO P/ CABLE ACERO 1/4",
+    "codigo": "ARI01134",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HIDROTOMA PVC DE 2\" X 1/2\"",
+    "codigo": "ARI01137",
+    "categoria": "PVC",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HIDROTOMA PVC DE 2\" X 3/4\"",
+    "codigo": "ARI01138",
+    "categoria": "PVC",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HIDROTOMA PVC DE 3\" X 1/2\"",
+    "codigo": "ARI01139",
+    "categoria": "PVC",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HIDROTOMA PVC DE 3\" X 3/4\"",
+    "codigo": "ARI01140",
+    "categoria": "PVC",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HIDROTOMA PVC DE 4\" X 1/2\"",
+    "codigo": "ARI01141",
+    "categoria": "PVC",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "HILO GRAFITADO DE 1/2",
+    "codigo": "ARI01143",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "MTR"
+  },
+  {
+    "producto": "HILO GRAFITADO DE 3/8",
+    "codigo": "ARI01144",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "MTR"
+  },
+  {
+    "producto": "HULE EVA DE 1\" ESPESOR DE 1.40*2.54MTS",
+    "codigo": "ARI01145",
+    "categoria": "HULE Y ESPONJA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "IMAN DE 1 * 1 1/4 DE 25 K DE ATRACCION",
+    "codigo": "ARI01146",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "IMAN EXTENCION",
+    "codigo": "ARI01147",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "IMPERMEABLE",
+    "codigo": "ARI01148",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR DE 2 POSICIONES MOD. ZB4 BD2",
+    "codigo": "ARI01150",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR DUPLEX",
+    "codigo": "ARI01151",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR SIEMNES 3X100AMP 220V",
+    "codigo": "ARI01152",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR SIEMNES 3X30AMP 220V",
+    "codigo": "ARI01153",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR SIEMNES 3X50AMP 220V",
+    "codigo": "ARI01154",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR TERMOMAGNETICO 3X16 A 240-400",
+    "codigo": "ARI01155",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR Y CONTACTO",
+    "codigo": "ARI01156",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 230/240V 6KA 10A 1P",
+    "codigo": "ARI01157",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 230/240V 6KA 2A 1P",
+    "codigo": "ARI01158",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 230/240V 6KA 4A 1P",
+    "codigo": "ARI01159",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 400V 6KA 10A 3P",
+    "codigo": "ARI01160",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 400V 6KA 32A 3P",
+    "codigo": "ARI01161",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INTERRUPTOR TERMOMAGNETICO 20A",
+    "codigo": "ARI01162",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "INYECTOR DE GRASA 2 MANOS USO PESADO",
+    "codigo": "ARI01163",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JALADOR DE HULE IDEAL 50 CM",
+    "codigo": "ARI01165",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JALADOR DE NEOPRENO INDUSTRIAL DE 75 CM DOBLE GOMA DE NEOPRENO",
+    "codigo": "ARI01166",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JARRA GRADUADA 1000 ML",
+    "codigo": "ARI01167",
+    "categoria": "PLASTICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JARRA GRADUADA 500 ML",
+    "codigo": "ARI01169",
+    "categoria": "PLASTICO",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO DESARMADORES COMBINADOS 8 PZAS 9600D",
+    "codigo": "ARI01171",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO DESARMADORES PUNTA ESTANDAR 6 pzas 9600-B",
+    "codigo": "ARI01172",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 10 DESTORNILLADORES AMBAR COMB.JBUD02",
+    "codigo": "ARI01173",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 11 LLAVES COMBINADO METRICOS C/RACK 1200IM",
+    "codigo": "ARI01174",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 11 LLAVES COMBINADO PULGADAS C/RACK 1200I",
+    "codigo": "ARI01175",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 13 LLAVES HEX\"L\" PULG PTA BOLA RACK 4995",
+    "codigo": "ARI01176",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 15 LLAVES COMBINADAS BLACK METRICO 12 PUNTAS 1200FMB",
+    "codigo": "ARI01177",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 22 LLAVES HEX \"L\" COMB. BOLA 2 RACK 49822",
+    "codigo": "ARI01180",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 7/8\" -14 NF",
+    "codigo": "ARI01188",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 9/16\"-18 NF",
+    "codigo": "ARI01189",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 1/2\"-13 NC",
+    "codigo": "ARI01191",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 1/4\"-20 NC",
+    "codigo": "ARI01193",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 10.0mm-1.25",
+    "codigo": "ARI01198",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  },
+  {
+    "producto": "JUEGO 3 MACHUELOS AAC 3/16\"-24 NS",
+    "codigo": "ARI01210",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE"
+  }
 ]
 
