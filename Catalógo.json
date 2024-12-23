@@ -2721,7 +2721,1062 @@
   "producto": "CLAVIJA 3/POLOS 3/4 VUELTA",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00610.jpg"
+},
+{
+  "codigo": "ARI00611",
+  "categoria": "ELECTRICO",
+  "producto": "CLAVIJA ATERRIZADA AMARILLA MOD. 557",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00611.jpg"
+},
+{
+  "codigo": "ARI00612",
+  "categoria": "ELECTRICO",
+  "producto": "CLAVIJA BLINDADA ATERRIZADA ARG 8830300",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00612.jpg"
+},
+{
+  "codigo": "ARI00616",
+  "categoria": "ELECTRICO",
+  "producto": "CLAVIJA MEDIA VUELTA P420A 120-208V3F",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00616.jpg"
+},
+{
+  "codigo": "ARI00625",
+  "categoria": "ACERO",
+  "producto": "CODO AC ROSC  90 X 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00625.jpg"
+},
+{
+  "codigo": "ARI00626",
+  "categoria": "ACERO",
+  "producto": "CODO AC SOLD 45 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00626.jpg"
+},
+{
+  "codigo": "ARI00627",
+  "categoria": "ACERO",
+  "producto": "CODO AC SOLD 45 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00627.jpg"
+},
+{
+  "codigo": "ARI00628",
+  "categoria": "ACERO",
+  "producto": "CODO AC SOLD 90 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00628.jpg"
+},
+{
+  "codigo": "ARI00629",
+  "categoria": "ACERO",
+  "producto": "CODO AC SOLD 90 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00629.jpg"
+},
+{
+  "codigo": "ARI00633",
+  "categoria": "ELECTRICO",
+  "producto": "CODO CONDUIT 90 X 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00633.jpg"
+},
+{
+  "codigo": "ARI00634",
+  "categoria": "ELECTRICO",
+  "producto": "CODO CONDUIT 90 X 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00634.jpg"
+},
+{
+  "codigo": "ARI00635",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 45 X 1",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00635.jpg"
+},
+{
+  "codigo": "ARI00636",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 45 X 1 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00636.jpg"
+},
+{
+  "codigo": "ARI00637",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 45 X 1 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00637.jpg"
+},
+{
+  "codigo": "ARI00638",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 45 X 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00638.jpg"
+},
+{
+  "codigo": "ARI00639",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 45 X 2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00639.jpg"
+},
+{
+  "codigo": "ARI00640",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 1 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00640.jpg"
+},
+{
+  "codigo": "ARI00641",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 1 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00641.jpg"
+},
+{
+  "codigo": "ARI00642",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00642.jpg"
+},
+{
+  "codigo": "ARI00643",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00643.jpg"
+},
+{
+  "codigo": "ARI00644",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00644.jpg"
+},
+{
+  "codigo": "ARI00645",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00645.jpg"
+},
+{
+  "codigo": "ARI00646",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 3/4",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00646.jpg"
+},
+{
+  "codigo": "ARI00647",
+  "categoria": "GALVANIZADO",
+  "producto": "CODO GALV 90 X 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00647.jpg"
+},
+{
+  "codigo": "ARI00648",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 45 X 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00648.jpg"
+},
+{
+  "codigo": "ARI00649",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 45 X 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00649.jpg"
+},
+{
+  "codigo": "ARI00650",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 45 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00650.jpg"
+},
+{
+  "codigo": "ARI00651",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 45 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00651.jpg"
+},
+{
+  "codigo": "ARI00652",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 90 X 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00652.jpg"
+},
+{
+  "codigo": "ARI00653",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 90 X 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00653.jpg"
+},
+{
+  "codigo": "ARI00654",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 90 X 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00654.jpg"
+},
+{
+  "codigo": "ARI00655",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 90 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00655.jpg"
+},
+{
+  "codigo": "ARI00656",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. ROSC 90 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00656.jpg"
+},
+{
+  "codigo": "ARI00657",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. SOLD 45 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00657.jpg"
+},
+{
+  "codigo": "ARI00658",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. SOLD 45 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00658.jpg"
+},
+{
+  "codigo": "ARI00659",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. SOLD 90 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00659.jpg"
+},
+{
+  "codigo": "ARI00660",
+  "categoria": "INOXIDABLE",
+  "producto": "CODO INOX. SOLD 90 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00660.jpg"
+},
+{
+  "codigo": "ARI00661",
+  "categoria": "PVC",
+  "producto": "CODO PVC ESPIGA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00661.jpg"
+},
+{
+  "codigo": "ARI00663",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 45 X 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00663.jpg"
+},
+{
+  "codigo": "ARI00665",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 45 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00665.jpg"
+},
+{
+  "codigo": "ARI00666",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 45 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00666.jpg"
+},
+{
+  "codigo": "ARI00667",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 45 X 4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00667.jpg"
+},
+{
+  "codigo": "ARI00668",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 90 X 1 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00668.jpg"
+},
+{
+  "codigo": "ARI00670",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 90 X 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00670.jpg"
+},
+{
+  "codigo": "ARI00672",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 90 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00672.jpg"
+},
+{
+  "codigo": "ARI00673",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 90 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00673.jpg"
+},
+{
+  "codigo": "ARI00675",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 90 X 4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00675.jpg"
+},
+{
+  "codigo": "ARI00676",
+  "categoria": "PVC",
+  "producto": "CODO PVC CEM 90 X 6\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00676.jpg"
+},
+{
+  "codigo": "ARI00678",
+  "categoria": "PVC",
+  "producto": "CODO PVC ROSC 45 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00678.jpg"
+},
+{
+  "codigo": "ARI00679",
+  "categoria": "PVC",
+  "producto": "CODO PVC ROSC 90 X 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00679.jpg"
+},
+{
+  "codigo": "ARI00680",
+  "categoria": "PVC",
+  "producto": "CODO PVC ROSC 90 X 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00680.jpg"
+},
+{
+  "codigo": "ARI00687",
+  "categoria": "COJIN",
+  "producto": "COJIN 90 X 60 X 15 CM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00687.jpg"
+},
+{
+  "codigo": "ARI00688",
+  "categoria": "PLOMERIA",
+  "producto": "COLADERA DE PLASTICO 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00688.jpg"
+},
+{
+  "codigo": "ARI00689",
+  "categoria": "PLOMERIA",
+  "producto": "COLADERA DE PLASTICO 6\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00689.jpg"
+},
+{
+  "codigo": "ARI00690",
+  "categoria": "COLD ROLLED",
+  "producto": "COLD ROLLED REDONDO 1018 DE 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00690.jpg"
+},
+{
+  "codigo": "ARI00691",
+  "categoria": "COLD ROLLED",
+  "producto": "COLD ROLLED REDONDO 1018 DE 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00691.jpg"
+},
+{
+  "codigo": "ARI00692",
+  "categoria": "COLD ROLLED",
+  "producto": "COLD ROLLED REDONDO 1018 DE 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00692.jpg"
+},
+{
+  "codigo": "ARI00693",
+  "categoria": "COLD ROLLED",
+  "producto": "COLD ROLLED REDONDO 1018 DE 5/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00693.jpg"
+},
+{
+  "codigo": "ARI00696",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR CON CONTRA/TUERCA 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00696.jpg"
+},
+{
+  "codigo": "ARI00697",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR CON CONTRA/TUERCA 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00697.jpg"
+},
+{
+  "codigo": "ARI00699",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR DIENTE DE SIERRA  1/4",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00699.jpg"
+},
+{
+  "codigo": "ARI00700",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR DIENTE DE SIERRA 3803-38",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00700.jpg"
+},
+{
+  "codigo": "ARI00701",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR GLANDULA 1/2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00701.jpg"
+},
+{
+  "codigo": "ARI00702",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR HEMBRA 1/4",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00702.jpg"
+},
+{
+  "codigo": "ARI00704",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR MACHO 3/8\" X 1/4\" NPT 3801-14",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00704.jpg"
+},
+{
+  "codigo": "ARI00705",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR RAPIDO DE LATON DE 1/4\" - 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00705.jpg"
+},
+{
+  "codigo": "ARI00706",
+  "categoria": "CONEXIONES",
+  "producto": "CONECTOR RAPIDO PARKER COD. 24-5BP",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00706.jpg"
+},
+{
+  "codigo": "ARI00708",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO B 1",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00708.jpg"
+},
+{
+  "codigo": "ARI00709",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO B 2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00709.jpg"
+},
+{
+  "codigo": "ARI00710",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO B 3",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00710.jpg"
+},
+{
+  "codigo": "ARI00711",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO C 1",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00711.jpg"
+},
+{
+  "codigo": "ARI00712",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO C 2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00712.jpg"
+},
+{
+  "codigo": "ARI00713",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXIÓN ALUMINIO C 3",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00713.jpg"
+},
+{
+  "codigo": "ARI00714",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO C 4",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00714.jpg"
+},
+{
+  "codigo": "ARI00715",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXIÓN ALUMINIO D 1",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00715.jpg"
+},
+{
+  "codigo": "ARI00716",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO D 2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00716.jpg"
+},
+{
+  "codigo": "ARI00717",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO D 3",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00717.jpg"
+},
+{
+  "codigo": "ARI00718",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO E 1",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00718.jpg"
+},
+{
+  "codigo": "ARI00719",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO E 2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00719.jpg"
+},
+{
+  "codigo": "ARI00720",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO E 3",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00720.jpg"
+},
+{
+  "codigo": "ARI00721",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXIÓN ALUMINIO F 1",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00721.jpg"
+},
+{
+  "codigo": "ARI00722",
+  "categoria": "CONEXIONES",
+  "producto": "CONEXION ALUMINIO F 2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00722.jpg"
+},
+{
+  "codigo": "ARI00726",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION CONDUIT CURVO 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00726.jpg"
+},
+{
+  "codigo": "ARI00727",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION CONDUIT RECTO 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00727.jpg"
+},
+{
+  "codigo": "ARI00728",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION CONDUIT RECTO DE 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00728.jpg"
+},
+{
+  "codigo": "ARI00729",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION CURVO LICUATITE 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00729.jpg"
+},
+{
+  "codigo": "ARI00730",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION CURVO LICUATITE 1/2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00730.jpg"
+},
+{
+  "codigo": "ARI00731",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION CURVO LICUATITE 3/4",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00731.jpg"
+},
+{
+  "codigo": "ARI00736",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION RECTA LICUATITE 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00736.jpg"
+},
+{
+  "codigo": "ARI00737",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION RECTA LICUATITE 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00737.jpg"
+},
+{
+  "codigo": "ARI00738",
+  "categoria": "ELECTRICO",
+  "producto": "CONEXION RECTA LICUATITE 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00738.jpg"
+},
+{
+  "codigo": "ARI00740",
+  "categoria": "ELECTRICO",
+  "producto": "CONTACTO 2P+T 15A 127V BCO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00740.jpg"
+},
+{
+  "codigo": "ARI00741",
+  "categoria": "ELECTRICO",
+  "producto": "CONTACTO 3/POLOS 3/4/VUELTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00741.jpg"
+},
+{
+  "codigo": "ARI00742",
+  "categoria": "ELECTRICO",
+  "producto": "CONTACTO BLINDADO ATERRIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00742.jpg"
+},
+{
+  "codigo": "ARI00743",
+  "categoria": "ELECTRICO",
+  "producto": "CONTACTO DUPLEX POLARIZADO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00743.jpg"
+},
+{
+  "codigo": "ARI00744",
+  "categoria": "ELECTRICO",
+  "producto": "CONTACTO SENCILLO QINZINO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00744.jpg"
+},
+{
+  "codigo": "ARI00749",
+  "categoria": "HERRAMIENTA",
+  "producto": "CONTADOR MANUAL",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00749.jpg"
+},
+{
+  "codigo": "ARI00757",
+  "categoria": "ELECTRICO",
+  "producto": "CONTRAS DE 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00757.jpg"
+},
+{
+  "codigo": "ARI00758",
+  "categoria": "ELECTRICO",
+  "producto": "CONTRAS DE 1/2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00758.jpg"
+},
+{
+  "codigo": "ARI00759",
+  "categoria": "ELECTRICO",
+  "producto": "CONTRAS DE 3/4",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00759.jpg"
+},
+{
+  "codigo": "ARI00760",
+  "categoria": "ABRASIVO",
+  "producto": "COPA ABRASIVA 340",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00760.jpg"
+},
+{
+  "codigo": "ARI00761",
+  "categoria": "ABRASIVO",
+  "producto": "COPA ABRASIVA 348",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00761.jpg"
+},
+{
+  "codigo": "ARI00765",
+  "categoria": "ACERO",
+  "producto": "COPLE AC 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00765.jpg"
+},
+{
+  "codigo": "ARI00767",
+  "categoria": "ELECTRICO",
+  "producto": "COPLE CONDUIT P/DELGADA 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00767.jpg"
+},
+{
+  "codigo": "ARI00768",
+  "categoria": "ELECTRICO",
+  "producto": "COPLE CONDUIT P/GRUESA 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00768.jpg"
+},
+{
+  "codigo": "ARI00769",
+  "categoria": "ELECTRICO",
+  "producto": "COPLE CONDUIT P/GRUESA 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00769.jpg"
+},
+{
+  "codigo": "ARI00770",
+  "categoria": "ELECTRICO",
+  "producto": "COPLE CONDUIT P/GRUESA 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00770.jpg"
+},
+{
+  "codigo": "ARI00771",
+  "categoria": "ELECTRICO",
+  "producto": "COPLE CONDUIT TOPE/ROSCADO 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00771.jpg"
+},
+{
+  "codigo": "ARI00772",
+  "categoria": "ELECTRICO",
+  "producto": "COPLE CONDUIT TOPE/TOPE 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00772.jpg"
+},
+{
+  "codigo": "ARI00775",
+  "categoria": "CONEXIONES",
+  "producto": "COPLE DIENTE DE SIERRA 34001-334 1/4\" X 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00775.jpg"
+},
+{
+  "codigo": "ARI00776",
+  "categoria": "CONEXIONES",
+  "producto": "COPLE DIENTE DE SIERRA 38001-338 3/8\" X 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00776.jpg"
+},
+{
+  "codigo": "ARI00777",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE GALV 1 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00777.jpg"
+},
+{
+  "codigo": "ARI00778",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE GALV 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00778.jpg"
+},
+{
+  "codigo": "ARI00779",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE GALV 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00779.jpg"
+},
+{
+  "codigo": "ARI00780",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE GALV 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00780.jpg"
+},
+{
+  "codigo": "ARI00781",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE GALV 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00781.jpg"
+},
+{
+  "codigo": "ARI00782",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE GALV 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00782.jpg"
+},
+{
+  "codigo": "ARI00783",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE GALV 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00783.jpg"
+},
+{
+  "codigo": "ARI00785",
+  "categoria": "INOXIDABLE",
+  "producto": "COPLE INOX 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00785.jpg"
+},
+{
+  "codigo": "ARI00786",
+  "categoria": "INOXIDABLE",
+  "producto": "COPLE INOX 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00786.jpg"
+},
+{
+  "codigo": "ARI00787",
+  "categoria": "INOXIDABLE",
+  "producto": "COPLE INOX 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00787.jpg"
+},
+{
+  "codigo": "ARI00788",
+  "categoria": "INOXIDABLE",
+  "producto": "COPLE INOX 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00788.jpg"
+},
+{
+  "codigo": "ARI00789",
+  "categoria": "INOXIDABLE",
+  "producto": "COPLE INOX 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00789.jpg"
+},
+{
+  "codigo": "ARI00790",
+  "categoria": "INOXIDABLE",
+  "producto": "COPLE INOX 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00790.jpg"
+},
+{
+  "codigo": "ARI00792",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 1 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00792.jpg"
+},
+{
+  "codigo": "ARI00793",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 1 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00793.jpg"
+},
+{
+  "codigo": "ARI00794",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00794.jpg"
+},
+{
+  "codigo": "ARI00795",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00795.jpg"
+},
+{
+  "codigo": "ARI00796",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 1/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00796.jpg"
+},
+{
+  "codigo": "ARI00797",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 1/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00797.jpg"
+},
+{
+  "codigo": "ARI00798",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00798.jpg"
+},
+{
+  "codigo": "ARI00799",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00799.jpg"
+},
+{
+  "codigo": "ARI00800",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 3/4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00800.jpg"
+},
+{
+  "codigo": "ARI00801",
+  "categoria": "GALVANIZADO",
+  "producto": "COPLE LISO GALV. 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00801.jpg"
+},
+{
+  "codigo": "ARI00802",
+  "categoria": "CONEXIONES",
+  "producto": "COPLE LISO NEGRO 3/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00802.jpg"
+},
+{
+  "codigo": "ARI00804",
+  "categoria": "PVC",
+  "producto": "COPLE PVC CEM 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00804.jpg"
+},
+{
+  "codigo": "ARI00805",
+  "categoria": "PVC",
+  "producto": "COPLE PVC CEM 1 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00805.jpg"
+},
+{
+  "codigo": "ARI00809",
+  "categoria": "PVC",
+  "producto": "COPLE PVC CEM 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00809.jpg"
+},
+{
+  "codigo": "ARI00810",
+  "categoria": "PVC",
+  "producto": "COPLE PVC CEM 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00810.jpg"
+},
+{
+  "codigo": "ARI00812",
+  "categoria": "PVC",
+  "producto": "COPLE PVC CEM 4\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00812.jpg"
+},
+{
+  "codigo": "ARI00813",
+  "categoria": "PVC",
+  "producto": "COPLE PVC CEM 6\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00813.jpg"
+},
+{
+  "codigo": "ARI00815",
+  "categoria": "PVC",
+  "producto": "COPLE PVC ROSC 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00815.jpg"
+},
+{
+  "codigo": "ARI00816",
+  "categoria": "PVC",
+  "producto": "COPLE PVC ROSC 3\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00816.jpg"
+},
+{
+  "codigo": "ARI00821",
+  "categoria": "HERRAMIENTA",
+  "producto": "CORTADOR DE TUBO PLAST. 1 5/8\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00821.jpg"
+},
+{
+  "codigo": "ARI00822",
+  "categoria": "HERRAMIENTA",
+  "producto": "CORTADOR DE TUBO PLAST. 2 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00822.jpg"
+},
+{
+  "codigo": "ARI00824",
+  "categoria": "HERRAMIENTA",
+  "producto": "CORTADORA DE METALES 14\" 2000W MAKITA 2414NB",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00824.jpg"
+},
+{
+  "codigo": "ARI00825",
+  "categoria": "CORTINA",
+  "producto": "CORTINA HAWAIANA DE 30 CM ANCHO LISA DE 3MM 60MTS LARGO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00825.jpg"
+},
+{
+  "codigo": "ARI00826",
+  "categoria": "CORTINA",
+  "producto": "CORTINA P/SOLDAR REPUESTO DE 6 X 6 X 0.014",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00826.jpg"
+},
+{
+  "codigo": "ARI00827",
+  "categoria": "CAFETERIA",
+  "producto": "CREMA COFFE MATE DE 930 GR",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00827.jpg"
+},
+{
+  "codigo": "ARI00828",
+  "categoria": "HERRAMIENTA",
+  "producto": "CRONOMETRO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00828.jpg"
+},
+{
+  "codigo": "ARI00831",
+  "categoria": "GALVANIZADO",
+  "producto": "CRUZ GALV 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00831.jpg"
 }
+
+
+  
+  
+
 
 
 
