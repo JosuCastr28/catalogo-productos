@@ -2354,24 +2354,376 @@
 {
   "codigo": "ARI00498",
   "categoria": "ELECTRICO",
-  "producto": "C-CONDUIT 1\"",
+  "producto": "C-CONDUIT 1",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00498.jpg"
 },
 {
   "codigo": "ARI00499",
   "categoria": "ELECTRICO",
-  "producto": "C-CONDUIT 1/2\"",
+  "producto": "C-CONDUIT 1/2",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00499.jpg"
 },
 {
   "codigo": "ARI00500",
   "categoria": "ELECTRICO",
-  "producto": "C-CONDUIT 3/4\"",
+  "producto": "C-CONDUIT 3/4",
   "unidad": "PCE",
   "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00500.jpg"
+},
+{
+  "codigo": "ARI00502",
+  "categoria": "ADHESIVO",
+  "producto": "CEMENTO P/PVC TRANSPARENTE 1/2 LITRO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00502.jpg"
+},
+{
+  "codigo": "ARI00504",
+  "categoria": "HERRAMIENTA",
+  "producto": "CEPILLO ALAMBRE C/MANGO 4X16",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00504.jpg"
+},
+{
+  "codigo": "ARI00506",
+  "categoria": "HERRAMIENTA",
+  "producto": "CEPILLO DE ALAMBRE ACERO INOX",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00506.jpg"
+},
+{
+  "codigo": "ARI00520",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CERROJO 2 1/2",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00520.jpg"
+},
+{
+  "codigo": "ARI00521",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CERROJO 4",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00521.jpg"
+},
+{
+  "codigo": "ARI00522",
+  "categoria": "PLOMERIA",
+  "producto": "CESPOL LATON 4207",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00522.jpg"
+},
+{
+  "codigo": "ARI00523",
+  "categoria": "PLOMERIA",
+  "producto": "CESPOL PARA LAVABO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00523.jpg"
+},
+{
+  "codigo": "ARI00525",
+  "categoria": "SEGURIDAD",
+  "producto": "CHALECO CON BANDA REFLEJANTE VERDE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00525.jpg"
+},
+{
+  "codigo": "ARI00528",
+  "categoria": "SEGURIDAD",
+  "producto": "CHALECO GABARDINA AZUL REY",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00528.jpg"
+},
+{
+  "codigo": "ARI00530",
+  "categoria": "SEGURIDAD",
+  "producto": "CHALECO GABARDINA NARANJA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00530.jpg"
+},
+{
+  "codigo": "ARI00532",
+  "categoria": "SEGURIDAD",
+  "producto": "CHALECO INDUSTRIAL NARANJA BOL",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00532.jpg"
+},
+{
+  "codigo": "ARI00534",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CHAPA DE ALUMINIO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00534.jpg"
+},
+{
+  "codigo": "ARI00535",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CHAPA INSTAFACIL DERECHA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00535.jpg"
+},
+{
+  "codigo": "ARI00536",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CHAPA INSTAFACIL IZQUIERDA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00536.jpg"
+},
+{
+  "codigo": "ARI00537",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CHAPA PARA PUERTA DE MADERA MANIJA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00537.jpg"
+},
+{
+  "codigo": "ARI00538",
+  "categoria": "CERRADURA Y CANDADO",
+  "producto": "CHAPA TIPO RECAMARA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00538.jpg"
+},
+{
+  "codigo": "ARI00539",
+  "categoria": "PINTURA Y ESMALTES",
+  "producto": "CHAROLA P/PINTAR",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00539.jpg"
+},
+{
+  "codigo": "ARI00545",
+  "categoria": "PLOMERIA",
+  "producto": "CHIFLON DE LATON",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00545.jpg"
+},
+{
+  "codigo": "ARI00547",
+  "categoria": "PLOMERIA",
+  "producto": "CHUPON GOMA PARA LAVABO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00547.jpg"
+},
+{
+  "codigo": "ARI00551",
+  "categoria": "HERRAMIENTA",
+  "producto": "CINCEL C/GUARDA 3/4\" x 12\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00551.jpg"
+},
+{
+  "codigo": "ARI00552",
+  "categoria": "HERRAMIENTA",
+  "producto": "CINCEL C/GUARDA 7/8\" x 12\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00552.jpg"
+},
+{
+  "codigo": "ARI00553",
+  "categoria": "HERRAMIENTA",
+  "producto": "CINCEL CORTA FRIO 3/4\" X 12\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00553.jpg"
+},
+{
+  "codigo": "ARI00560",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO 10 CM X 2.5 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00560.jpg"
+},
+{
+  "codigo": "ARI00561",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO 15 CM X3.6MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00561.jpg"
+},
+{
+  "codigo": "ARI00562",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO 20 CM X 4.6MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00562.jpg"
+},
+{
+  "codigo": "ARI00563",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO 30 CM X4.6 MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00563.jpg"
+},
+{
+  "codigo": "ARI00564",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO 36 CM X4.8MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00564.jpg"
+},
+{
+  "codigo": "ARI00565",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO 50CM X 4.5MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00565.jpg"
+},
+{
+  "codigo": "ARI00566",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO 70 CM X 9MM",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00566.jpg"
+},
+{
+  "codigo": "ARI00567",
+  "categoria": "ELECTRICO",
+  "producto": "CINCHO DE PLASTICO EN COLORES BOTE C/650",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00567.jpg"
+},
+{
+  "codigo": "ARI00569",
+  "categoria": "CINTAS",
+  "producto": "CINTA AISLANTE ELECTRICA SCOTH 3M",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00569.jpg"
+},
+{
+  "codigo": "ARI00570",
+  "categoria": "CINTAS",
+  "producto": "CINTA AISLANTE ELECTRICA TEMFLEX",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00570.jpg"
+},
+{
+  "codigo": "ARI00571",
+  "categoria": "CINTAS",
+  "producto": "CINTA AISLANTE FIBRA VIDRIO 19MMX20M. SCOTCH 27",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00571.jpg"
+},
+{
+  "codigo": "ARI00572",
+  "categoria": "CINTAS",
+  "producto": "CINTA ANTIDERRAPANTE 1\" X 5 M",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00572.jpg"
+},
+{
+  "codigo": "ARI00573",
+  "categoria": "CINTAS",
+  "producto": "CINTA ANTIDERRAPANTE 2\" X 5 M",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00573.jpg"
+},
+{
+  "codigo": "ARI00575",
+  "categoria": "CINTAS",
+  "producto": "CINTA DE PRECAUCION  100 MTS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00575.jpg"
+},
+{
+  "codigo": "ARI00576",
+  "categoria": "CINTAS",
+  "producto": "CINTA DE TEFLON 1/2\" USO INDUSTRIAL TIPO GARLOK",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00576.jpg"
+},
+{
+  "codigo": "ARI00577",
+  "categoria": "CINTAS",
+  "producto": "CINTA DE TEFLON 3/4\"  USO INDUSTRIAL TIPO GARLOK",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00577.jpg"
+},
+{
+  "codigo": "ARI00579",
+  "categoria": "CINTAS",
+  "producto": "CINTA DELIMITADORA  AMARILLA /NEGRO. BLANCO/VERDE, BLANCO/ROJO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00579.jpg"
+},
+{
+  "codigo": "ARI00582",
+  "categoria": "CINTAS",
+  "producto": "CINTA DELIMITADORA 2\"X33MTS.  ROJO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00582.jpg"
+},
+{
+  "codigo": "ARI00583",
+  "categoria": "CINTAS",
+  "producto": "CINTA DELIMITADORA 2\"X33MTS.  VERDE",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00583.jpg"
+},
+{
+  "codigo": "ARI00584",
+  "categoria": "CINTAS",
+  "producto": "CINTA DELIMITADORA 2\"X33MTS. AMARILLA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00584.jpg"
+},
+{
+  "codigo": "ARI00588",
+  "categoria": "CINTAS",
+  "producto": "CINTA DOBLE CARA ECONOMICA 19MM X 10 MT",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00588.jpg"
+},
+{
+  "codigo": "ARI00591",
+  "categoria": "CINTAS",
+  "producto": "CINTA MASKING TAPE 1\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00591.jpg"
+},
+{
+  "codigo": "ARI00592",
+  "categoria": "CINTAS",
+  "producto": "CINTA MASKING TAPE 1/2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00592.jpg"
+},
+{
+  "codigo": "ARI00593",
+  "categoria": "CINTAS",
+  "producto": "CINTA MASKING TAPE 2\"",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00593.jpg"
+},
+{
+  "codigo": "ARI00594",
+  "categoria": "CINTAS",
+  "producto": "CINTA PARA DUCTO GRIS DE 30MTS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00594.jpg"
+},
+{
+  "codigo": "ARI00598",
+  "categoria": "CINTAS",
+  "producto": "CINTA TESAMOL  1 -1/2\"  DE ANCH.  X  1/2\" x 10 MTS",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00598.jpg"
+},
+{
+  "codigo": "ARI00600",
+  "categoria": "CINTAS",
+  "producto": "CINTA TRANSPARENTE DE 3\" (72 MM)",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00600.jpg"
+},
+{
+  "codigo": "ARI00610",
+  "categoria": "ELECTRICO",
+  "producto": "CLAVIJA 3/POLOS 3/4 VUELTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00610.jpg"
 }
+
+
 
 
 
