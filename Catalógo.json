@@ -5054,166 +5054,167 @@
     "unidad": "PCE",
     "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01158.jpg"
   },
-  {
-    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 230/240V 6KA 4A 1P",
-    "codigo": "ARI01159",
-    "categoria": "ELECTRICO",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01159.jpg"
-  },
-  {
-    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 400V 6KA 10A 3P",
-    "codigo": "ARI01160",
-    "categoria": "ELECTRICO",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01160.jpg"
-  },
-  {
-    "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 400V 6KA 32A 3P",
-    "codigo": "ARI01161",
-    "categoria": "ELECTRICO",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01161.jpg"
-  },
-  {
-    "producto": "INTERRUPTOR TERMOMAGNETICO 20A",
-    "codigo": "ARI01162",
-    "categoria": "ELECTRICO",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01162.jpg"
-  },
-  {
-    "producto": "INYECTOR DE GRASA 2 MANOS USO PESADO",
-    "codigo": "ARI01163",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01163.jpg"
-  },
-  {
-    "producto": "JALADOR DE HULE IDEAL 50 CM",
-    "codigo": "ARI01165",
-    "categoria": "LIMPIEZA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01165.jpg"
-  },
-  {
-    "producto": "JALADOR DE NEOPRENO INDUSTRIAL DE 75 CM DOBLE GOMA DE NEOPRENO",
-    "codigo": "ARI01166",
-    "categoria": "LIMPIEZA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01166.jpg"
-  },
-  {
-    "producto": "JARRA GRADUADA 1000 ML",
-    "codigo": "ARI01167",
-    "categoria": "PLASTICO",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01167.jpg"
-  },
-  {
-    "producto": "JARRA GRADUADA 500 ML",
-    "codigo": "ARI01169",
-    "categoria": "PLASTICO",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01169.jpg"
-  },
-  {
-    "producto": "JUEGO DESARMADORES COMBINADOS 8 PZAS 9600D",
-    "codigo": "ARI01171",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01171.jpg"
-  },
-  {
-    "producto": "JUEGO DESARMADORES PUNTA ESTANDAR 6 pzas 9600-B",
-    "codigo": "ARI01172",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01172.jpg"
-  },
-  {
-    "producto": "JUEGO 10 DESTORNILLADORES AMBAR COMB.JBUD02",
-    "codigo": "ARI01173",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01173.jpg"
-  },
-  {
-    "producto": "JUEGO 11 LLAVES COMBINADO METRICOS C/RACK 1200IM",
-    "codigo": "ARI01174",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01174.jpg"
-  },
-  {
-    "producto": "JUEGO 11 LLAVES COMBINADO PULGADAS C/RACK 1200I",
-    "codigo": "ARI01175",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01175.jpg"
-  },
-  {
-    "producto": "JUEGO 13 LLAVES HEX\"L\" PULG PTA BOLA RACK 4995",
-    "codigo": "ARI01176",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01176.jpg"
-  },
-  {
-    "producto": "JUEGO 15 LLAVES COMBINADAS BLACK METRICO 12 PUNTAS 1200FMB",
-    "codigo": "ARI01177",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01177.jpg"
-  },
-  {
-    "producto": "JUEGO 22 LLAVES HEX \"L\" COMB. BOLA 2 RACK 49822",
-    "codigo": "ARI01180",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01180.jpg"
-  },
-  {
-    "producto": "JUEGO 3 MACHUELOS AAC 7/8\" -14 NF",
-    "codigo": "ARI01188",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01188.jpg"
-  },
-  {
-    "producto": "JUEGO 3 MACHUELOS AAC 9/16\"-18 NF",
-    "codigo": "ARI01189",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01189.jpg"
-  },
-  {
-    "producto": "JUEGO 3 MACHUELOS AAC 1/2\"-13 NC",
-    "codigo": "ARI01191",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01191.jpg"
-  },
-  {
-    "producto": "JUEGO 3 MACHUELOS AAC 1/4\"-20 NC",
-    "codigo": "ARI01193",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01193.jpg"
-  },
-  {
-    "producto": "JUEGO 3 MACHUELOS AAC 10.0mm-1.25",
-    "codigo": "ARI01198",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01198.jpg"
-  },
-  {
-    "producto": "JUEGO 3 MACHUELOS AAC 3/16\"-24 NS",
-    "codigo": "ARI01210",
-    "categoria": "HERRAMIENTA",
-    "unidad": "PCE",
-    "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01210.jpg"
-  }
+{
+  "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 230/240V 6KA 4A 1P",
+  "codigo": "ARI01159",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01159.jpg"
+},
+{
+  "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 400V 6KA 10A 3P",
+  "codigo": "ARI01160",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01160.jpg"
+},
+{
+  "producto": "INTERRUPTOR TERMOMAGNETICO RIEL DIN 400V 6KA 32A 3P",
+  "codigo": "ARI01161",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01161.jpg"
+},
+{
+  "producto": "INTERRUPTOR TERMOMAGNETICO 20A",
+  "codigo": "ARI01162",
+  "categoria": "ELECTRICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01162.jpg"
+},
+{
+  "producto": "INYECTOR DE GRASA 2 MANOS USO PESADO",
+  "codigo": "ARI01163",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01163.jpg"
+},
+{
+  "producto": "JALADOR DE HULE IDEAL 50 CM",
+  "codigo": "ARI01165",
+  "categoria": "LIMPIEZA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01165.jpg"
+},
+{
+  "producto": "JALADOR DE NEOPRENO INDUSTRIAL DE 75 CM DOBLE GOMA DE NEOPRENO",
+  "codigo": "ARI01166",
+  "categoria": "LIMPIEZA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01166.jpg"
+},
+{
+  "producto": "JARRA GRADUADA 1000 ML",
+  "codigo": "ARI01167",
+  "categoria": "PLASTICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01167.jpg"
+},
+{
+  "producto": "JARRA GRADUADA 500 ML",
+  "codigo": "ARI01169",
+  "categoria": "PLASTICO",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01169.jpg"
+},
+{
+  "producto": "JUEGO DESARMADORES COMBINADOS 8 PZAS 9600D",
+  "codigo": "ARI01171",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01171.jpg"
+},
+{
+  "producto": "JUEGO DESARMADORES PUNTA ESTANDAR 6 pzas 9600-B",
+  "codigo": "ARI01172",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01172.jpg"
+},
+{
+  "producto": "JUEGO 10 DESTORNILLADORES AMBAR COMB.JBUD02",
+  "codigo": "ARI01173",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01173.jpg"
+},
+{
+  "producto": "JUEGO 11 LLAVES COMBINADO METRICOS C/RACK 1200IM",
+  "codigo": "ARI01174",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01174.jpg"
+},
+{
+  "producto": "JUEGO 11 LLAVES COMBINADO PULGADAS C/RACK 1200I",
+  "codigo": "ARI01175",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01175.jpg"
+},
+{
+  "producto": "JUEGO 13 LLAVES HEX\"L\" PULG PTA BOLA RACK 4995",
+  "codigo": "ARI01176",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01176.jpg"
+},
+{
+  "producto": "JUEGO 15 LLAVES COMBINADAS BLACK METRICO 12 PUNTAS 1200FMB",
+  "codigo": "ARI01177",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01177.jpg"
+},
+{
+  "producto": "JUEGO 22 LLAVES HEX \"L\" COMB. BOLA 2 RACK 49822",
+  "codigo": "ARI01180",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01180.jpg"
+},
+{
+  "producto": "JUEGO 3 MACHUELOS AAC 7/8\" -14 NF",
+  "codigo": "ARI01188",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01188.jpg"
+},
+{
+  "producto": "JUEGO 3 MACHUELOS AAC 9/16\"-18 NF",
+  "codigo": "ARI01189",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01189.jpg"
+},
+{
+  "producto": "JUEGO 3 MACHUELOS AAC 1/2\"-13 NC",
+  "codigo": "ARI01191",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01191.jpg"
+},
+{
+  "producto": "JUEGO 3 MACHUELOS AAC 1/4\"-20 NC",
+  "codigo": "ARI01193",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01193.jpg"
+},
+{
+  "producto": "JUEGO 3 MACHUELOS AAC 10.0mm-1.25",
+  "codigo": "ARI01198",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01198.jpg"
+},
+{
+  "producto": "JUEGO 3 MACHUELOS AAC 3/16\"-24 NS",
+  "codigo": "ARI01210",
+  "categoria": "HERRAMIENTA",
+  "unidad": "PCE",
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01210.jpg"
+}
+
 ]
 
