@@ -8021,6 +8021,223 @@
     "categoria": "RESPALDO",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI02028.jpg"
+  },
+ {
+    "producto": "RESTIRADORA PARA FLEJE ACERO DE 3/4",
+    "codigo": "ARI02029",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI02029.jpg"
+  },
+  {
+    "producto": "RODILLO COMPLETO DE 9\"",
+    "codigo": "ARI02037",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02037.jpg"
+  },
+  {
+    "producto": "ROLLO DE FIELTRO DE 1/2\" X 3 \" ANCHO",
+    "codigo": "ARI02039",
+    "categoria": "FIELTRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02039.jpg"
+  },
+  {
+    "producto": "ROLLO DE HILO PARA DESBROZADORA",
+    "codigo": "ARI02041",
+    "categoria": "ROLLO CH",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02041.jpg"
+  },
+  {
+    "producto": "ROLLO DE PAPEL HIGIENICO DE 360 MTS CAJA CON 6 PZAS",
+    "codigo": "ARI02042",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02042.jpg"
+  },
+  {
+    "producto": "ROLLO DE PAPEL HIGIENICO SLIP MARLI",
+    "codigo": "ARI02043",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02043.jpg"
+  },
+  {
+    "producto": "ROLLO PAPEL HIGIÉNICO DE 200M EN CAJA 12 DE PZA",
+    "codigo": "ARI02045",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02045.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 5/16\"",
+    "codigo": "ARI02047",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02047.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 1\"",
+    "codigo": "ARI02048",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02048.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 1/2\"",
+    "codigo": "ARI02049",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02049.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 1/4\"",
+    "codigo": "ARI02050",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02050.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 20 MM",
+    "codigo": "ARI02051",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02051.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 22 MM",
+    "codigo": "ARI02052",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02052.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 24 MM",
+    "codigo": "ARI02053",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02053.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 3/16\"",
+    "codigo": "ARI02054",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02054.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 3/4\"",
+    "codigo": "ARI02055",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02055.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 3/8\"",
+    "codigo": "ARI02056",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02056.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 5/8\"",
+    "codigo": "ARI02057",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02057.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 6MM",
+    "codigo": "ARI02058",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02058.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 7/16\"",
+    "codigo": "ARI02059",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02059.jpg"
+  },
+  {
+    "producto": "RONDANA DE PRESION 7/8\"",
+    "codigo": "ARI02060",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02060.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C 5/16",
+    "codigo": "ARI02062",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02062.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 1\"",
+    "codigo": "ARI02063",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02063.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 1/2\"",
+    "codigo": "ARI02064",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02064.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 1/4\"",
+    "codigo": "ARI02065",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02065.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 12 MM",
+    "codigo": "ARI02066",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02066.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 20 MM",
+    "codigo": "ARI02067",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02067.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 24 MM",
+    "codigo": "ARI02068",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02068.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 3/16\"",
+    "codigo": "ARI02069",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02069.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 3/4\"",
+    "codigo": "ARI02070",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02070.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 3/8\"",
+    "codigo": "ARI02071",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02071.jpg"
   }
 ]
 
