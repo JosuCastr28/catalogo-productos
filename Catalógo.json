@@ -8238,6 +8238,3835 @@
     "categoria": "TORNILLERIA",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02071.jpg"
+  },
+   {
+    "producto": "RONDANA PLANA A.C. 5/8\"",
+    "codigo": "ARI02072",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02072.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 6 MM",
+    "codigo": "ARI02073",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02073.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 7/16\"",
+    "codigo": "ARI02074",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02074.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 7/8\"",
+    "codigo": "ARI02075",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02075.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA A.C. 8 MM.",
+    "codigo": "ARI02076",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02076.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 1/4\"",
+    "codigo": "ARI02077",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02077.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 5/16\"",
+    "codigo": "ARI02078",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02078.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 5/8\"",
+    "codigo": "ARI02079",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02079.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 1\"",
+    "codigo": "ARI02080",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02080.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 1/2\"",
+    "codigo": "ARI02081",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02081.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 10 MM.",
+    "codigo": "ARI02082",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02082.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 22 MM",
+    "codigo": "ARI02083",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02083.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 3/16\"",
+    "codigo": "ARI02084",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02084.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 3/4\"",
+    "codigo": "ARI02085",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02085.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 3/8\"",
+    "codigo": "ARI02086",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02086.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 4 MM",
+    "codigo": "ARI02087",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02087.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 7/16\"",
+    "codigo": "ARI02088",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02088.jpg"
+  },
+  {
+    "producto": "RONDANA PLANA GALV 7/8\"",
+    "codigo": "ARI02089",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02089.jpg"
+  },
+  {
+    "producto": "ROSADERA 1/4",
+    "codigo": "ARI02097",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02097.jpg"
+  },
+  {
+    "producto": "ROTOM. 1/2\" VVR 700W DW505 DEWALT",
+    "codigo": "ARI02098",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02098.jpg"
+  },
+  {
+    "producto": "ROTOMARTILLO 1/2\" 1050W 120V USO PESADO",
+    "codigo": "ARI02099",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02099.jpg"
+  },
+  {
+    "producto": "ROTOMARTILLO, PERCUTOR, ATORNILLADOR DE 1/2 20V",
+    "codigo": "ARI02101",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02101.jpg"
+  },
+  {
+    "producto": "RUEDA NILAMIND 4\" GIRATORIA",
+    "codigo": "ARI02102",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02102.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA #175 AUSTROMEX",
+    "codigo": "ARI02103",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02103.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA #199 AUSTROMEX",
+    "codigo": "ARI02104",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02104.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA #220 AUSTROMEX",
+    "codigo": "ARI02105",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02105.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA #246 AUSTROMEX",
+    "codigo": "ARI02106",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02106.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA #912 AUSTROMEX",
+    "codigo": "ARI02107",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02107.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA OXIDO DE ALUMINIO 6\"*3/4*",
+    "codigo": "ARI02108",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02108.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA T-1 P/ METAL 6\"X3/4X1 #17 AUSTROMEX",
+    "codigo": "ARI02109",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02109.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA T-1 P/ METAL 6\"X3/4X1 #18 AUSTROMEX",
+    "codigo": "ARI02110",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02110.jpg"
+  },
+  {
+    "producto": "RUEDA ABRASIVA T-1 P/CARB.TUNGST 6\"X1X1 #232 AUSTR",
+    "codigo": "ARI02111",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02111.jpg"
+  },
+  {
+    "producto": "RUEDA DE NYLAMID 6\" x 2\" FIJA",
+    "codigo": "ARI02112",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02112.jpg"
+  },
+  {
+    "producto": "RUEDA DE NYLAMID 6\" x 2\" GIRATORIA",
+    "codigo": "ARI02113",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02113.jpg"
+  },
+  {
+    "producto": "RUEDA FIJA DE HULE DURO 4\"",
+    "codigo": "ARI02114",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02114.jpg"
+  },
+  {
+    "producto": "RUEDA FIJA HIERRO 3\"",
+    "codigo": "ARI02115",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02115.jpg"
+  },
+  {
+    "producto": "RUEDA FLAP DE FELPA C-2301",
+    "codigo": "ARI02116",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02116.jpg"
+  },
+  {
+    "producto": "RUEDA FLAP 1 1/2*1 GRANO 120 ZCO 1/4",
+    "codigo": "ARI02117",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02117.jpg"
+  },
+  {
+    "producto": "RUEDA NILAMYD 4\" FIJA",
+    "codigo": "ARI02118",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02118.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO FIJA DE 3\"",
+    "codigo": "ARI02119",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02119.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO FIJA DE 4\"*1 1/4\"",
+    "codigo": "ARI02120",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02120.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO FIJA DE 5*2\"",
+    "codigo": "ARI02121",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02121.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO FIJA DE 6\"",
+    "codigo": "ARI02122",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02122.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO GIRATORIA CON FRENO DE 3\"",
+    "codigo": "ARI02123",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02123.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO GIRATORIA CON FRENO DE 4\"*1 1/4\"",
+    "codigo": "ARI02124",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02124.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO GIRATORIA CON FRENO DE 6\"",
+    "codigo": "ARI02125",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02125.jpg"
+  },
+  {
+    "producto": "RUEDA POLIURETANO GIRATORIA DE 3 1/2\" X 1\"",
+    "codigo": "ARI02126",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02126.jpg"
+  },
+  {
+    "producto": "SANITAS INTERDOBLADA (CAJA DE 20 PAK DE 100 PZA)",
+    "codigo": "ARI02132",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02132.jpg"
+  },
+  {
+    "producto": "SEGUETA DE 2\" X 24\"",
+    "codigo": "ARI02137",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02137.jpg"
+  },
+  {
+    "producto": "SEGUETA DIENTE GRUESO 1812",
+    "codigo": "ARI02138",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02138.jpg"
+  },
+{
+    "producto": "SEGUETA MECANICA 1 X 12  10 DTES.",
+    "codigo": "ARI02139",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02139.jpg"
+  },
+  {
+    "producto": "SEGUETA MECANICA 1\" X 12\" 14 D/P",
+    "codigo": "ARI02140",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02140.jpg"
+  },
+  {
+    "producto": "SEGUETA MECANICA 1\" X 14\" 10 D/P",
+    "codigo": "ARI02141",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02141.jpg"
+  },
+  {
+    "producto": "SEGUETA MECANICA 2\" X 24 6 DIENTES",
+    "codigo": "ARI02142",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02142.jpg"
+  },
+  {
+    "producto": "SEGUETA P/ARCO BIMETALICA 12\"X18D.",
+    "codigo": "ARI02144",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02144.jpg"
+  },
+  {
+    "producto": "SEGUETA P/ARCO BIMETALICA 12\"X24D.",
+    "codigo": "ARI02145",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02145.jpg"
+  },
+  {
+    "producto": "SEGUETA P/CALADORA BOSCH T-101B",
+    "codigo": "ARI02146",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02146.jpg"
+  },
+  {
+    "producto": "SEGUETA P/CALADORA BOSCH T-118A",
+    "codigo": "ARI02147",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02147.jpg"
+  },
+  {
+    "producto": "SELECTOR DE DAIMETRO 22.5MM 2 POCISCIONES FIJAS TELEMEC",
+    "codigo": "ARI02150",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02150.jpg"
+  },
+  {
+    "producto": "SELECTOR DE DAIMETRO 22.5MM 3 POCISCIONES FIJAS TELEMEC",
+    "codigo": "ARI02151",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02151.jpg"
+  },
+    {
+    "producto": "SELECTOR ILUMINADO 2 POCISIONES 120V TELEMECANIQUE",
+    "codigo": "ARI02152",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02152.jpg"
+  },
+  {
+    "producto": "SERVILLETAS PETALO PAQUETE 450 pz",
+    "codigo": "ARI02158",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02158.jpg"
+  },
+  {
+    "producto": "SHELLAC SELLADOR DE JUNTAS",
+    "codigo": "ARI02160",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02160.jpg"
+  },
+  {
+    "producto": "SIERRA CALADOLA ACC.ORB.700W DEWALT DW331K*321K",
+    "codigo": "ARI02161",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02161.jpg"
+  },
+  {
+    "producto": "SIERRA CALADORA ORBITAL DW300-B3 DEWALT",
+    "codigo": "ARI02163",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02163.jpg"
+  },
+  {
+    "producto": "SILBATO CON CORREA",
+    "codigo": "ARI02183",
+    "categoria": "SILBATO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02183.jpg"
+  },
+  {
+    "producto": "SILICON CARTUCHO MCA. DOW CORNING.",
+    "codigo": "ARI02184",
+    "categoria": "SILBATO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02184.jpg"
+  },
+  {
+    "producto": "SILICON AUTOMOTRIZ ROJO 280 ML PENSSILVANIA",
+    "codigo": "ARI02185",
+    "categoria": "SILBATO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02185.jpg"
+  },
+  {
+    "producto": "SILICON USO GENERAL MULTIUSOS TRANSP'PEPE' 280 ML",
+    "codigo": "ARI02186",
+    "categoria": "SILBATO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02186.jpg"
+  },
+  {
+    "producto": "SOLDADOR ELECTRICO WELLER T ESTACION MOD. WTCPT",
+    "codigo": "ARI02187",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02187.jpg"
+  },
+  {
+    "producto": "SOLDADURA 6010 DE 1/8\"",
+    "codigo": "ARI02189",
+    "categoria": "ADHESIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02189.jpg"
+  },
+  {
+    "producto": "SOLDADURA 6010 DE 3/32\"",
+    "codigo": "ARI02190",
+    "categoria": "ADHESIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02190.jpg"
+  },
+  {
+    "producto": "SOLDADURA 6013 DE 1/8\"",
+    "codigo": "ARI02191",
+    "categoria": "ADHESIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02191.jpg"
+  },
+  {
+    "producto": "SOLDADURA 6013 DE 3/32\"",
+    "codigo": "ARI02192",
+    "categoria": "ADHESIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02192.jpg"
+  },
+  {
+    "producto": "SOLDADURA 7018 DE 1/8\"",
+    "codigo": "ARI02193",
+    "categoria": "ADHESIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02193.jpg"
+  },
+  {
+    "producto": "SOLDADURA 7018 DE 3/32\"",
+    "codigo": "ARI02194",
+    "categoria": "ADHESIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02194.jpg"
+  },
+  {
+    "producto": "SOLDADURA DE ALUMINIO 1/8",
+    "codigo": "ARI02197",
+    "categoria": "ADHESIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02197.jpg"
+  },
+  {
+    "producto": "SOLDADURA ESTANO CARRETE SOLIDO 50/50 1/8",
+    "codigo": "ARI02198",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02198.jpg"
+  },
+  {
+    "producto": "SOLDADURA INOX. E- 308 1/8",
+    "codigo": "ARI02201",
+    "categoria": "INOXIDABLE",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02201.jpg"
+  },
+  {
+    "producto": "SOLDADURA INOX.  T-308  3/32\"",
+    "codigo": "ARI02202",
+    "categoria": "INOXIDABLE",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02202.jpg"
+  },
+  {
+    "producto": "SOLERA 1 X  4\"",
+    "codigo": "ARI02206",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02206.jpg"
+  },
+  {
+    "producto": "SOLERA 1/2  X 6\"",
+    "codigo": "ARI02207",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02207.jpg"
+  },
+  {
+    "producto": "SOLERA 1/2 X 1/8\"",
+    "codigo": "ARI02208",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02208.jpg"
+  },
+  {
+    "producto": "SOLERA 1/2 X 2\"",
+    "codigo": "ARI02209",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02209.jpg"
+  },
+  {
+    "producto": "SOLERA 1/2 X 4\"",
+    "codigo": "ARI02210",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02210.jpg"
+  },
+  {
+    "producto": "SOLERA 1/4 X 1\"",
+    "codigo": "ARI02211",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02211.jpg"
+  },
+  {
+    "producto": "SOLERA 1/4 X 1.1/2\"",
+    "codigo": "ARI02212",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02212.jpg"
+  },
+  {
+    "producto": "SOLERA 1/4 X 2 1/2",
+    "codigo": "ARI02213",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02213.jpg"
+  },
+  {
+    "producto": "SOLERA 1/4 X 2\"",
+    "codigo": "ARI02214",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02214.jpg"
+  },
+    {
+    "producto": "SOLERA 1/4 X 3\"",
+    "codigo": "ARI02215",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02215.jpg"
+  },
+  {
+    "producto": "SOLERA 1/4 X 6\"",
+    "codigo": "ARI02216",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02216.jpg"
+  },
+  {
+    "producto": "SOLERA 1/8 X 1 1/2\"",
+    "codigo": "ARI02217",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02217.jpg"
+  },
+  {
+    "producto": "SOLERA 1/8 X 1\"",
+    "codigo": "ARI02218",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02218.jpg"
+  },
+  {
+    "producto": "SOLERA 3/16 X 1 1/2\"",
+    "codigo": "ARI02221",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02221.jpg"
+  },
+  {
+    "producto": "SOLERA 3/16 X 1 1/2\" X 18 CMS",
+    "codigo": "ARI02222",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02222.jpg"
+  },
+  {
+    "producto": "SOLERA 3/16 X 1 1/2\" X 24 CMS",
+    "codigo": "ARI02223",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02223.jpg"
+  },
+  {
+    "producto": "SOLERA 3/16 X 1 1/2\" X 30 CMS",
+    "codigo": "ARI02224",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02224.jpg"
+  },
+  {
+    "producto": "SOLERA 3/16 X 1 1/2\" X 36 CMS",
+    "codigo": "ARI02225",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02225.jpg"
+  },
+  {
+    "producto": "SOLERA 3/16 X 1 1/2\" X 42 CMS",
+    "codigo": "ARI02226",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02226.jpg"
+  },
+  {
+    "producto": "SOPORTE PARA EXTINTORES 10KG",
+    "codigo": "ARI02227",
+    "categoria": "SOPORTE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02227.jpg"
+  },
+  {
+    "producto": "SOPORTE PARA EXTINTORES 20KG",
+    "codigo": "ARI02228",
+    "categoria": "SOPORTE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02228.jpg"
+  },
+  {
+    "producto": "SOPORTE PARA EXTINTORES 5KG",
+    "codigo": "ARI02229",
+    "categoria": "SOPORTE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02229.jpg"
+  },
+  {
+    "producto": "TORNILLO HEXAGONAL 1/2X1",
+    "codigo": "ARI02230",
+    "categoria": "TORNILLOS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02230.jpg"
+  },
+  {
+    "producto": "TORNILLO HEXAGONAL 3/8X2",
+    "codigo": "ARI02231",
+    "categoria": "TORNILLOS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02231.jpg"
+  },
+  {
+    "producto": "TORNILLO HEXAGONAL 3/8X3",
+    "codigo": "ARI02232",
+    "categoria": "TORNILLOS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02232.jpg"
+  },
+    {
+    "producto": "SOLERA HULE ESPUMA",
+    "codigo": "ARI02240",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02240.jpg"
+  },
+  {
+    "producto": "SPRAY DIELECTRICO LIM-CIR 454ML",
+    "codigo": "ARI02248",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02248.jpg"
+  },
+  {
+    "producto": "T CONDUIT 1\"",
+    "codigo": "ARI02270",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02270.jpg"
+  },
+  {
+    "producto": "T CONDUIT 1/2\"",
+    "codigo": "ARI02271",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02271.jpg"
+  },
+  {
+    "producto": "T CONDUIT DE 3/4",
+    "codigo": "ARI02272",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02272.jpg"
+  },
+  {
+    "producto": "TALADRO INALAMBRICO DE 1/2 M-18",
+    "codigo": "ARI02275",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02275.jpg"
+  },
+  {
+    "producto": "TALADRO INALAMBRICO PERCUTOR 1/2 M28",
+    "codigo": "ARI02276",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02276.jpg"
+  },
+  {
+    "producto": "TALADRO PERCUTOR 1/2\" 20V",
+    "codigo": "ARI02277",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02277.jpg"
+  },
+  {
+    "producto": "TALADRO PERCUTOR ELECTRICO DE 1/2 DWD024-B3",
+    "codigo": "ARI02278",
+    "categoria": "HERRAIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02278.jpg"
+  },
+  {
+    "producto": "TALADRO ROTOMARTILLO INALAMBRICO 1/2 DEWALT CARGADOR 650W 20",
+    "codigo": "ARI02279",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02279.jpg"
+  },
+  {
+    "producto": "TAPA CROUSE HINDS CIEGA",
+    "codigo": "ARI02281",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02281.jpg"
+  },
+  {
+    "producto": "TAPA DE 1 VENTANA MCA. CROUSE HINDS",
+    "codigo": "ARI02282",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02282.jpg"
+  },
+  {
+    "producto": "TAPA DE 2 VENTANAS MCA. CROUSE HINDS",
+    "codigo": "ARI02283",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02283.jpg"
+  },
+  {
+    "producto": "TAPA DUPLEX INTEMPERIE",
+    "codigo": "ARI02284",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02284.jpg"
+  },
+  {
+    "producto": "TAPON AC SOLDABLE 3\"",
+    "codigo": "ARI02287",
+    "categoria": "ACERO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02287.jpg"
+  },
+  {
+    "producto": "TAPON CAPA GALV 1\"",
+    "codigo": "ARI02288",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02288.jpg"
+  },
+  {
+    "producto": "TAPON CAPA GALV 1/2\"",
+    "codigo": "ARI02289",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02289.jpg"
+  },
+  {
+    "producto": "TAPON CAPA GALV 2\"",
+    "codigo": "ARI02290",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02290.jpg"
+  },
+  {
+    "producto": "TAPON CAPA GALV 1 1/4\"",
+    "codigo": "ARI02291",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02291.jpg"
+  },
+  {
+    "producto": "TAPON CAPA GALV 1.1/2\"",
+    "codigo": "ARI02292",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02292.jpg"
+  },
+{
+    "producto": "TAPON CAPA GALV 3/4\"",
+    "codigo": "ARI02293",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02293.jpg"
+  },
+  {
+    "producto": "TAPON CAPA GALV 3/8\"",
+    "codigo": "ARI02294",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02294.jpg"
+  },
+  {
+    "producto": "TAPON HEMBRA PVC CEM 1\"",
+    "codigo": "ARI02295",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02295.jpg"
+  },
+  {
+    "producto": "TAPON HEMBRA PVC CEM 2\"",
+    "codigo": "ARI02296",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02296.jpg"
+  },
+  {
+    "producto": "TAPON HEMBRA PVC CEM 3\"",
+    "codigo": "ARI02297",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02297.jpg"
+  },
+  {
+    "producto": "TAPON HEMBRA PVC CEM 4\"",
+    "codigo": "ARI02298",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02298.jpg"
+  },
+  {
+    "producto": "TAPON HEMBRA PVC CEM 6\"",
+    "codigo": "ARI02299",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02299.jpg"
+  },
+  {
+    "producto": "TAPON HEMBRA PVC ROSC 4\"",
+    "codigo": "ARI02300",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02300.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 2\"",
+    "codigo": "ARI02303",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02303.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 3/8\"",
+    "codigo": "ARI02304",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02304.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 1 1/4\"",
+    "codigo": "ARI02305",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02305.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 1\"",
+    "codigo": "ARI02307",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02307.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 1.1/2\"",
+    "codigo": "ARI02308",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02308.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 1/2\"",
+    "codigo": "ARI02310",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02310.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 1/4",
+    "codigo": "ARI02311",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02311.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 3/4\"",
+    "codigo": "ARI02313",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02313.jpg"
+  },
+  {
+    "producto": "TAPON MACHO GALV 3/8\"",
+    "codigo": "ARI02314",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02314.jpg"
+  },
+   {
+    "producto": "TAPON MACHO PVC CEM 1 1/2\"",
+    "codigo": "ARI02315",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02315.jpg"
+  },
+  {
+    "producto": "TAPON MACHO PVC CEM 2\"",
+    "codigo": "ARI02316",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02316.jpg"
+  },
+  {
+    "producto": "TAPON MACHO PVC ROSC 2\"",
+    "codigo": "ARI02317",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02317.jpg"
+  },
+  {
+    "producto": "TAPON MACHO PVC ROSC 3\"",
+    "codigo": "ARI02318",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02318.jpg"
+  },
+  {
+    "producto": "TAQUETE AUTOHADERIBLE",
+    "codigo": "ARI02319",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02319.jpg"
+  },
+  {
+    "producto": "TAQUETE DE PLASTICO DE 5/16\"",
+    "codigo": "ARI02320",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02320.jpg"
+  },
+  {
+    "producto": "TAQUETE DE PLASTICO DE 1/4",
+    "codigo": "ARI02324",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02324.jpg"
+  },
+  {
+    "producto": "TAQUETE DE PLASTICO DE 3/16",
+    "codigo": "ARI02325",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02325.jpg"
+  },
+  {
+    "producto": "TAQUETE DE PLASTICO DE 3/8",
+    "codigo": "ARI02326",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02326.jpg"
+  },
+  {
+    "producto": "TARRAJA PARA TUBO 5PZAS URREA 850",
+    "codigo": "ARI02330",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02330.jpg"
+  },
+  {
+    "producto": "TEE AC SOLD 2\"",
+    "codigo": "ARI02331",
+    "categoria": "ACERO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02331.jpg"
+  },
+  {
+    "producto": "TEE AC SOLD 3\"",
+    "codigo": "ARI02332",
+    "categoria": "ACERO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02332.jpg"
+  },
+  {
+    "producto": "TEE GALV 1 1/2\"",
+    "codigo": "ARI02334",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02334.jpg"
+  },
+  {
+    "producto": "TEE GALV 1 1/4\"",
+    "codigo": "ARI02335",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02335.jpg"
+  },
+  {
+    "producto": "TEE GALV 1\"",
+    "codigo": "ARI02336",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02336.jpg"
+  },
+  {
+    "producto": "TEE GALV 1/2\"",
+    "codigo": "ARI02337",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02337.jpg"
+  },
+   {
+    "producto": "TEE PVC CEM 1 1/2\"",
+    "codigo": "ARI02349",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02349.jpg"
+  },
+  {
+    "producto": "TEE PVC CEM 1\"",
+    "codigo": "ARI02350",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02350.jpg"
+  },
+  {
+    "producto": "TEE PVC CEM 1/2\"",
+    "codigo": "ARI02351",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02351.jpg"
+  },
+  {
+    "producto": "TEE PVC CEM 2\"",
+    "codigo": "ARI02352",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02352.jpg"
+  },
+  {
+    "producto": "TEE PVC CEM 3\"",
+    "codigo": "ARI02353",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02353.jpg"
+  },
+  {
+    "producto": "TEE PVC CEM 4\"",
+    "codigo": "ARI02355",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02355.jpg"
+  },
+  {
+    "producto": "TEE PVC ROSC 2\"",
+    "codigo": "ARI02357",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02357.jpg"
+  },
+  {
+    "producto": "TEE PVC ROSC 3\"",
+    "codigo": "ARI02358",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02358.jpg"
+  },
+  {
+    "producto": "TERMO 5 GALONES PLASTICO NARANJA CENTURY",
+    "codigo": "ARI02368",
+    "categoria": "TERMO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02368.jpg"
+  },
+  {
+    "producto": "THINNER ESTANDAR 19 LTS COMEX",
+    "codigo": "ARI02375",
+    "categoria": "QUIMICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02375.jpg"
+  },
+  {
+    "producto": "THINNER STD 4 LTS",
+    "codigo": "ARI02376",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02376.jpg"
+  },
+  {
+    "producto": "TIJERA 10\"",
+    "codigo": "ARI02377",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02377.jpg"
+  },
+  {
+    "producto": "TIJERA CORTADORA DE MANGUERA Y TUBO",
+    "codigo": "ARI02378",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02378.jpg"
+  },
+  {
+    "producto": "TIJERA CORTADORA DE TUBO DE PLASTICO DE 2 1/2",
+    "codigo": "ARI02379",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02379.jpg"
+  },
+  {
+    "producto": "TIJERA TRUPER 10\"",
+    "codigo": "ARI02381",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02381.jpg"
+  },
+  {
+    "producto": "TIJERAS PARA HOJALATERO 14\" URREA",
+    "codigo": "ARI02383",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02383.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 5 X 16 MM",
+    "codigo": "ARI02390",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02390.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 5 X 20 MM",
+    "codigo": "ARI02391",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02391.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 6 X 20 MM",
+    "codigo": "ARI02393",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02393.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 6 X 25 MM",
+    "codigo": "ARI02394",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02394.jpg"
+  },
+   {
+    "producto": "TORNILLO ALLEN C/PLANA 6 X 30 MM",
+    "codigo": "ARI02395",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02395.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 8 X 20 MM",
+    "codigo": "ARI02396",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02396.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 8 X 25 MM",
+    "codigo": "ARI02397",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02397.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 8 X 30 MM",
+    "codigo": "ARI02398",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02398.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 10 X 25 MM",
+    "codigo": "ARI02399",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02399.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 10 X 30 MM",
+    "codigo": "ARI02400",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02400.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 12 X 30 MM",
+    "codigo": "ARI02401",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02401.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 12 X 35 MM",
+    "codigo": "ARI02402",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02402.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 12 X 40 MM",
+    "codigo": "ARI02403",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02403.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 14 X 35 MM",
+    "codigo": "ARI02404",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02404.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 14 X 40 MM",
+    "codigo": "ARI02405",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02405.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 16 X 40 MM",
+    "codigo": "ARI02406",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02406.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 16 X 45 MM",
+    "codigo": "ARI02407",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02407.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 16 X 50 MM",
+    "codigo": "ARI02408",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02408.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 18 X 45 MM",
+    "codigo": "ARI02409",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02409.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 18 X 50 MM",
+    "codigo": "ARI02410",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02410.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 20 X 50 MM",
+    "codigo": "ARI02411",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02411.jpg"
+  },
+ {
+    "producto": "TORNILLO ALLEN C/PLANA 20 X 55 MM",
+    "codigo": "ARI02412",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02412.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 20 X 60 MM",
+    "codigo": "ARI02413",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02413.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 22 X 60 MM",
+    "codigo": "ARI02414",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02414.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 22 X 65 MM",
+    "codigo": "ARI02415",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02415.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 24 X 65 MM",
+    "codigo": "ARI02416",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02416.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 24 X 70 MM",
+    "codigo": "ARI02417",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02417.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 26 X 70 MM",
+    "codigo": "ARI02418",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02418.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 26 X 75 MM",
+    "codigo": "ARI02419",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02419.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 28 X 75 MM",
+    "codigo": "ARI02420",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02420.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 28 X 80 MM",
+    "codigo": "ARI02421",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02421.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 30 X 80 MM",
+    "codigo": "ARI02422",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02422.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 30 X 90 MM",
+    "codigo": "ARI02423",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02423.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 32 X 90 MM",
+    "codigo": "ARI02424",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02424.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 32 X 100 MM",
+    "codigo": "ARI02425",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02425.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 34 X 100 MM",
+    "codigo": "ARI02426",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02426.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 34 X 110 MM",
+    "codigo": "ARI02427",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02427.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 36 X 110 MM",
+    "codigo": "ARI02428",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02428.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 36 X 120 MM",
+    "codigo": "ARI02429",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02429.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 38 X 120 MM",
+    "codigo": "ARI02430",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02430.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 38 X 130 MM",
+    "codigo": "ARI02431",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02431.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 40 X 130 MM",
+    "codigo": "ARI02432",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02432.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 40 X 140 MM",
+    "codigo": "ARI02433",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02433.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 42 X 140 MM",
+    "codigo": "ARI02434",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02434.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 42 X 150 MM",
+    "codigo": "ARI02435",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02435.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 44 X 150 MM",
+    "codigo": "ARI02436",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02436.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 44 X 160 MM",
+    "codigo": "ARI02437",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02437.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 46 X 160 MM",
+    "codigo": "ARI02438",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02438.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 46 X 170 MM",
+    "codigo": "ARI02439",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02439.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 48 X 170 MM",
+    "codigo": "ARI02440",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02440.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 48 X 180 MM",
+    "codigo": "ARI02441",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02441.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 50 X 180 MM",
+    "codigo": "ARI02442",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02442.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 50 X 190 MM",
+    "codigo": "ARI02443",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02443.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 52 X 190 MM",
+    "codigo": "ARI02444",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02444.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 52 X 200 MM",
+    "codigo": "ARI02445",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02445.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 54 X 200 MM",
+    "codigo": "ARI02446",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02446.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 54 X 210 MM",
+    "codigo": "ARI02447",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02447.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 56 X 210 MM",
+    "codigo": "ARI02448",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02448.jpg"
+  },
+ {
+    "producto": "TORNILLO ALLEN C/PLANA 56 X 220 MM",
+    "codigo": "ARI02449",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02449.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 58 X 220 MM",
+    "codigo": "ARI02450",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02450.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 58 X 230 MM",
+    "codigo": "ARI02451",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02451.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 60 X 230 MM",
+    "codigo": "ARI02452",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02452.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 60 X 240 MM",
+    "codigo": "ARI02453",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02453.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 62 X 240 MM",
+    "codigo": "ARI02454",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02454.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 62 X 250 MM",
+    "codigo": "ARI02455",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02455.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 64 X 250 MM",
+    "codigo": "ARI02456",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02456.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 64 X 260 MM",
+    "codigo": "ARI02457",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02457.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 66 X 260 MM",
+    "codigo": "ARI02458",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02458.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 66 X 270 MM",
+    "codigo": "ARI02459",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02459.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 68 X 270 MM",
+    "codigo": "ARI02460",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02460.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 68 X 280 MM",
+    "codigo": "ARI02461",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02461.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 70 X 280 MM",
+    "codigo": "ARI02462",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02462.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 70 X 290 MM",
+    "codigo": "ARI02463",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02463.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 72 X 290 MM",
+    "codigo": "ARI02464",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02464.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 72 X 300 MM",
+    "codigo": "ARI02465",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02465.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 74 X 300 MM",
+    "codigo": "ARI02466",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02466.jpg"
+  },
+ {
+    "producto": "TORNILLO ALLEN C/PLANA 74 X 310 MM",
+    "codigo": "ARI02467",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02467.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 76 X 310 MM",
+    "codigo": "ARI02468",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02468.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 76 X 320 MM",
+    "codigo": "ARI02469",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02469.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 78 X 320 MM",
+    "codigo": "ARI02470",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02470.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 78 X 330 MM",
+    "codigo": "ARI02471",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02471.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 80 X 330 MM",
+    "codigo": "ARI02472",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02472.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 80 X 340 MM",
+    "codigo": "ARI02473",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02473.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 82 X 340 MM",
+    "codigo": "ARI02474",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02474.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 82 X 350 MM",
+    "codigo": "ARI02475",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02475.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 84 X 350 MM",
+    "codigo": "ARI02476",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02476.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 84 X 360 MM",
+    "codigo": "ARI02477",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02477.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 86 X 360 MM",
+    "codigo": "ARI02478",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02478.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 86 X 370 MM",
+    "codigo": "ARI02479",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02479.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 88 X 370 MM",
+    "codigo": "ARI02480",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02480.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 88 X 380 MM",
+    "codigo": "ARI02481",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02481.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 90 X 380 MM",
+    "codigo": "ARI02482",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02482.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 90 X 390 MM",
+    "codigo": "ARI02483",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02483.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 92 X 390 MM",
+    "codigo": "ARI02484",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02484.jpg"
+  },
+  {
+    "producto": "TORNILLO ALLEN C/PLANA 92 X 400 MM",
+    "codigo": "ARI02485",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02485.jpg"
+  },
+    {
+    "producto": "TORNILLO HEX GALV  3/8 X 1 1/2\"",
+    "codigo": "ARI02479",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02479.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV  5/16 X 1\"",
+    "codigo": "ARI02480",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02480.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV  5/8\"X 5\"",
+    "codigo": "ARI02481",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02481.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 1/2 X 1 1/2",
+    "codigo": "ARI02482",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02482.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 1/2 X 2",
+    "codigo": "ARI02483",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02483.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 1/4 X 2\"",
+    "codigo": "ARI02484",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02484.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 1/4 X 4",
+    "codigo": "ARI02485",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02485.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/16 X 1",
+    "codigo": "ARI02486",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02486.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/8 X 1",
+    "codigo": "ARI02487",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02487.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/8 X 1 1/4",
+    "codigo": "ARI02488",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02488.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/8 X 2",
+    "codigo": "ARI02489",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02489.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/8 X 2 1/2",
+    "codigo": "ARI02490",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02490.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/8 X 3 1/2",
+    "codigo": "ARI02491",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02491.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/8 X 4",
+    "codigo": "ARI02492",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02492.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 3/8 X 4 1/2",
+    "codigo": "ARI02493",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02493.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 5/16 X 2 1/2",
+    "codigo": "ARI02494",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02494.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 5/8 X 4",
+    "codigo": "ARI02495",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02495.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GALV 7/16 X 2\"",
+    "codigo": "ARI02496",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02496.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GRADO 8   16 X 90 MM",
+    "codigo": "ARI02497",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02497.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GRADO 8   5/8 X 1 1/2",
+    "codigo": "ARI02498",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02498.jpg"
+  },
+  {
+    "producto": "TORNILLO HEX GRADO 8   5/8 X 2 1/2",
+    "codigo": "ARI02499",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02499.jpg"
+  },
+    {
+    "producto": "TUBO ALUMINIO P/GRUESA 3/8\"",
+    "codigo": "ARI02670",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02670.jpg"
+  },
+  {
+    "producto": "TUBO ALUMINIO P/GRUESA 1/2\"",
+    "codigo": "ARI02671",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02671.jpg"
+  },
+  {
+    "producto": "TUBO ALUMINIO P/GRUESA 3/8\"",
+    "codigo": "ARI02672",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02672.jpg"
+  },
+  {
+    "producto": "TUBO ALUMINIO P/GRUESA 1/4\"",
+    "codigo": "ARI02673",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02673.jpg"
+  },
+  {
+    "producto": "TUBO ALUMINIO P/GRUESA 1/8\"",
+    "codigo": "ARI02674",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02674.jpg"
+  },
+  {
+    "producto": "TUBO ALUMINIO P/GRUESA 3/4\"",
+    "codigo": "ARI02675",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02675.jpg"
+  },
+  {
+    "producto": "TUBO PVC 3/4\" X 6\" MTO",
+    "codigo": "ARI02676",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02676.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1\" X 6\" MTO",
+    "codigo": "ARI02677",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02677.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1 1/4\" X 6\" MTO",
+    "codigo": "ARI02678",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02678.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1 1/2\" X 6\" MTO",
+    "codigo": "ARI02679",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02679.jpg"
+  },
+  {
+    "producto": "TUBO PVC 2\" X 6\" MTO",
+    "codigo": "ARI02680",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02680.jpg"
+  },
+  {
+    "producto": "TUBO PVC 3\" X 6\" MTO",
+    "codigo": "ARI02681",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02681.jpg"
+  },
+  {
+    "producto": "TUBO PVC 4\" X 6\" MTO",
+    "codigo": "ARI02682",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02682.jpg"
+  },
+  {
+    "producto": "TUBO PVC 6\" X 6\" MTO",
+    "codigo": "ARI02683",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02683.jpg"
+  },
+  {
+    "producto": "TUBO PVC 8\" X 6\" MTO",
+    "codigo": "ARI02684",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02684.jpg"
+  },
+  {
+    "producto": "TUBO PVC 10\" X 6\" MTO",
+    "codigo": "ARI02685",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02685.jpg"
+  },
+  {
+    "producto": "TUBO PVC 12\" X 6\" MTO",
+    "codigo": "ARI02686",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02686.jpg"
+  },
+  {
+    "producto": "TUBO PVC 14\" X 6\" MTO",
+    "codigo": "ARI02687",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02687.jpg"
+  },
+  {
+    "producto": "TUBO PVC 16\" X 6\" MTO",
+    "codigo": "ARI02688",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02688.jpg"
+  },
+  {
+    "producto": "TUBO PVC 18\" X 6\" MTO",
+    "codigo": "ARI02689",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02689.jpg"
+  },
+  {
+    "producto": "TUBO PVC 20\" X 6\" MTO",
+    "codigo": "ARI02690",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02690.jpg"
+  },
+   {
+    "producto": "TUBO PVC 25\" X 6\" MTO",
+    "codigo": "ARI02691",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02691.jpg"
+  },
+  {
+    "producto": "TUBO PVC 30\" X 6\" MTO",
+    "codigo": "ARI02692",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02692.jpg"
+  },
+  {
+    "producto": "TUBO PVC 40\" X 6\" MTO",
+    "codigo": "ARI02693",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02693.jpg"
+  },
+  {
+    "producto": "TUBO PVC 50\" X 6\" MTO",
+    "codigo": "ARI02694",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02694.jpg"
+  },
+  {
+    "producto": "TUBO PVC 60\" X 6\" MTO",
+    "codigo": "ARI02695",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02695.jpg"
+  },
+  {
+    "producto": "TUBO PVC 75\" X 6\" MTO",
+    "codigo": "ARI02696",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02696.jpg"
+  },
+  {
+    "producto": "TUBO PVC 100\" X 6\" MTO",
+    "codigo": "ARI02697",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02697.jpg"
+  },
+  {
+    "producto": "TUBO PVC 150\" X 6\" MTO",
+    "codigo": "ARI02698",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02698.jpg"
+  },
+  {
+    "producto": "TUBO PVC 200\" X 6\" MTO",
+    "codigo": "ARI02699",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02699.jpg"
+  },
+  {
+    "producto": "TUBO PVC 250\" X 6\" MTO",
+    "codigo": "ARI02700",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02700.jpg"
+  },
+  {
+    "producto": "TUBO PVC 300\" X 6\" MTO",
+    "codigo": "ARI02701",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02701.jpg"
+  },
+  {
+    "producto": "TUBO PVC 350\" X 6\" MTO",
+    "codigo": "ARI02702",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02702.jpg"
+  },
+  {
+    "producto": "TUBO PVC 400\" X 6\" MTO",
+    "codigo": "ARI02703",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02703.jpg"
+  },
+  {
+    "producto": "TUBO PVC 500\" X 6\" MTO",
+    "codigo": "ARI02704",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02704.jpg"
+  },
+  {
+    "producto": "TUBO PVC 600\" X 6\" MTO",
+    "codigo": "ARI02705",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02705.jpg"
+  },
+  {
+    "producto": "TUBO PVC 700\" X 6\" MTO",
+    "codigo": "ARI02706",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02706.jpg"
+  },
+  {
+    "producto": "TUBO PVC 800\" X 6\" MTO",
+    "codigo": "ARI02707",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02707.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1000\" X 6\" MTO",
+    "codigo": "ARI02708",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02708.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1200\" X 6\" MTO",
+    "codigo": "ARI02709",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02709.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1500\" X 6\" MTO",
+    "codigo": "ARI02710",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02710.jpg"
+  },
+  {
+    "producto": "TUBO PVC 2000\" X 6\" MTO",
+    "codigo": "ARI02711",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02711.jpg"
+  },
+  {
+    "producto": "TUBO PVC 2500\" X 6\" MTO",
+    "codigo": "ARI02712",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02712.jpg"
+  },
+  {
+    "producto": "TUBO PVC 3000\" X 6\" MTO",
+    "codigo": "ARI02713",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02713.jpg"
+  },
+  {
+    "producto": "TUBO PVC 4000\" X 6\" MTO",
+    "codigo": "ARI02714",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02714.jpg"
+  },
+  {
+    "producto": "TUBO PVC 5000\" X 6\" MTO",
+    "codigo": "ARI02715",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02715.jpg"
+  },
+  {
+    "producto": "TUBO PVC 6000\" X 6\" MTO",
+    "codigo": "ARI02716",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02716.jpg"
+  },
+  {
+    "producto": "TUBO PVC 7000\" X 6\" MTO",
+    "codigo": "ARI02717",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02717.jpg"
+  },
+  {
+    "producto": "TUBO PVC 8000\" X 6\" MTO",
+    "codigo": "ARI02718",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02718.jpg"
+  },
+  {
+    "producto": "TUBO PVC 10000\" X 6\" MTO",
+    "codigo": "ARI02719",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02719.jpg"
+  },
+  {
+    "producto": "TUBO PVC 12000\" X 6\" MTO",
+    "codigo": "ARI02720",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02720.jpg"
+  },
+  {
+    "producto": "TUBO PVC 15000\" X 6\" MTO",
+    "codigo": "ARI02721",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02721.jpg"
+  },
+  {
+    "producto": "TUBO PVC 20000\" X 6\" MTO",
+    "codigo": "ARI02722",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02722.jpg"
+  },
+  {
+    "producto": "TUBO PVC 25000\" X 6\" MTO",
+    "codigo": "ARI02723",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02723.jpg"
+  },
+  {
+    "producto": "TUBO PVC 30000\" X 6\" MTO",
+    "codigo": "ARI02724",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02724.jpg"
+  },
+  {
+    "producto": "TUBO PVC 40000\" X 6\" MTO",
+    "codigo": "ARI02725",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02725.jpg"
+  },
+  {
+    "producto": "TUBO PVC 50000\" X 6\" MTO",
+    "codigo": "ARI02726",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02726.jpg"
+  },
+  {
+    "producto": "TUBO PVC 60000\" X 6\" MTO",
+    "codigo": "ARI02727",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02727.jpg"
+  },
+  {
+    "producto": "TUBO PVC 70000\" X 6\" MTO",
+    "codigo": "ARI02728",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02728.jpg"
+  },
+  {
+    "producto": "TUBO PVC 80000\" X 6\" MTO",
+    "codigo": "ARI02729",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02729.jpg"
+  },
+  {
+    "producto": "TUBO PVC 100000\" X 6\" MTO",
+    "codigo": "ARI02730",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02730.jpg"
+  },
+  {
+    "producto": "TUBO PVC 120000\" X 6\" MTO",
+    "codigo": "ARI02731",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02731.jpg"
+  },
+  {
+    "producto": "TUBO PVC 150000\" X 6\" MTO",
+    "codigo": "ARI02732",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02732.jpg"
+  },
+  {
+    "producto": "TUBO PVC 200000\" X 6\" MTO",
+    "codigo": "ARI02733",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02733.jpg"
+  },
+  {
+    "producto": "TUBO PVC 250000\" X 6\" MTO",
+    "codigo": "ARI02734",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02734.jpg"
+  },
+  {
+    "producto": "TUBO PVC 300000\" X 6\" MTO",
+    "codigo": "ARI02735",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02735.jpg"
+  },
+  {
+    "producto": "TUBO PVC 400000\" X 6\" MTO",
+    "codigo": "ARI02736",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02736.jpg"
+  },
+  {
+    "producto": "TUBO PVC 500000\" X 6\" MTO",
+    "codigo": "ARI02737",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02737.jpg"
+  },
+  {
+    "producto": "TUBO PVC 600000\" X 6\" MTO",
+    "codigo": "ARI02738",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02738.jpg"
+  },
+  {
+    "producto": "TUBO PVC 700000\" X 6\" MTO",
+    "codigo": "ARI02739",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02739.jpg"
+  },
+  {
+    "producto": "TUBO PVC 800000\" X 6\" MTO",
+    "codigo": "ARI02740",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02740.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1000000\" X 6\" MTO",
+    "codigo": "ARI02741",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02741.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1200000\" X 6\" MTO",
+    "codigo": "ARI02742",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02742.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1500000\" X 6\" MTO",
+    "codigo": "ARI02743",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02743.jpg"
+  },
+  {
+    "producto": "TUBO PVC 2000000\" X 6\" MTO",
+    "codigo": "ARI02744",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02744.jpg"
+  },
+  {
+    "producto": "TUBO PVC 2500000\" X 6\" MTO",
+    "codigo": "ARI02745",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02745.jpg"
+  },
+  {
+    "producto": "TUBO PVC 3000000\" X 6\" MTO",
+    "codigo": "ARI02746",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02746.jpg"
+  },
+    {
+    "producto": "TUBO CONDUIT P/DELGADA 1/2\"",
+    "codigo": "ARI02671",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02671.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA  1\"",
+    "codigo": "ARI02672",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02672.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA  1/2\"",
+    "codigo": "ARI02673",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02673.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA  3/4\"",
+    "codigo": "ARI02674",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02674.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA 1 1/2\"",
+    "codigo": "ARI02675",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02675.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA 2\"",
+    "codigo": "ARI02676",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02676.jpg"
+  },
+  {
+    "producto": "TUBO GALV  1 1/4\"",
+    "codigo": "ARI02677",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02677.jpg"
+  },
+  {
+    "producto": "TUBO GALV 1 1/2\"",
+    "codigo": "ARI02678",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02678.jpg"
+  },
+  {
+    "producto": "TUBO GALV 1\"",
+    "codigo": "ARI02679",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02679.jpg"
+  },
+  {
+    "producto": "TUBO GALV 1/2\"",
+    "codigo": "ARI02680",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02680.jpg"
+  },
+  {
+    "producto": "TUBO GALV 2\"",
+    "codigo": "ARI02681",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02681.jpg"
+  },
+  {
+    "producto": "TUBO GALV 3/4\"",
+    "codigo": "ARI02682",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02682.jpg"
+  },
+  {
+    "producto": "TUBO GALV 3/8\"",
+    "codigo": "ARI02683",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02683.jpg"
+  },
+  {
+    "producto": "TUBO INOX CED. 10 3\" X 6 MTO",
+    "codigo": "ARI02684",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02684.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 1\" X 6\" MTO",
+    "codigo": "ARI02685",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02685.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 1/2\" X 6\" MTO",
+    "codigo": "ARI02686",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02686.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 2\" X 6\" MTO",
+    "codigo": "ARI02687",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02687.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 3\" X 6\" MTO",
+    "codigo": "ARI02688",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02688.jpg"
+  },
+  {
+    "producto": "TUBO LATEX 2050 SEGÚN MUESTRA",
+    "codigo": "ARI02689",
+    "categoria": "TUBO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02689.jpg"
+  },
+  {
+    "producto": "TUBO LED THISMAN",
+    "codigo": "ARI02690",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02690.jpg"
+  },
+  {
+    "producto": "TUBO PVC  2 1/ 2\"",
+    "codigo": "ARI02691",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02691.jpg"
+  },
+  {
+    "producto": "TUBO PVC  3\"",
+    "codigo": "ARI02692",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02692.jpg"
+  },
+  {
+    "producto": "TUBO PVC  3/4\"",
+    "codigo": "ARI02693",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02693.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1 1/ 2\"",
+    "codigo": "ARI02695",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02695.jpg"
+  },
+   {
+            "producto": "TUBO CONDUIT P/DELGADA 1/2\"",
+            "codigo": "ARI02671",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02671.jpg"
+        },
+        {
+            "producto": "TUBO CONDUIT P/GRUESA 1\"",
+            "codigo": "ARI02672",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02672.jpg"
+        },
+        {
+            "producto": "TUBO CONDUIT P/GRUESA 1/2\"",
+            "codigo": "ARI02673",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02673.jpg"
+        },
+        {
+            "producto": "TUBO CONDUIT P/GRUESA 3/4\"",
+            "codigo": "ARI02674",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02674.jpg"
+        },
+        {
+            "producto": "TUBO CONDUIT P/GRUESA 1 1/2\"",
+            "codigo": "ARI02675",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02675.jpg"
+        },
+        {
+            "producto": "TUBO CONDUIT P/GRUESA 2\"",
+            "codigo": "ARI02676",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02676.jpg"
+        },
+        {
+            "producto": "TUBO GALV 1 1/4\"",
+            "codigo": "ARI02677",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02677.jpg"
+        },
+        {
+            "producto": "TUBO GALV 1 1/2\"",
+            "codigo": "ARI02678",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02678.jpg"
+        },
+        {
+            "producto": "TUBO GALV 1\"",
+            "codigo": "ARI02679",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02679.jpg"
+        },
+        {
+            "producto": "TUBO GALV 1/2\"",
+            "codigo": "ARI02680",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02680.jpg"
+        },
+        {
+            "producto": "TUBO GALV 2\"",
+            "codigo": "ARI02681",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02681.jpg"
+        },
+        {
+            "producto": "TUBO GALV 3/4\"",
+            "codigo": "ARI02682",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02682.jpg"
+        },
+        {
+            "producto": "TUBO GALV 3/8\"",
+            "codigo": "ARI02683",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02683.jpg"
+        },
+        {
+            "producto": "TUBO INOX CED. 10 3\" X 6 MTO",
+            "codigo": "ARI02684",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02684.jpg"
+        },
+        {
+            "producto": "TUBO INOX. CED.40 1\" X 6\" MTO",
+            "codigo": "ARI02685",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02685.jpg"
+        },
+        {
+            "producto": "TUBO INOX. CED.40 1/2\" X 6\" MTO",
+            "codigo": "ARI02686",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02686.jpg"
+        },
+        {
+            "producto": "TUBO INOX. CED.40 2\" X 6\" MTO",
+            "codigo": "ARI02687",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02687.jpg"
+        },
+        {
+            "producto": "TUBO INOX. CED.40 3\" X 6\" MTO",
+            "codigo": "ARI02688",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02688.jpg"
+        },
+        {
+            "producto": "TUBO LATEX 2050 SEGÚN MUESTRA",
+            "codigo": "ARI02689",
+            "categoria": "TUBO",
+            "unidad": "MTR",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02689.jpg"
+        },
+        {
+            "producto": "TUBO LED THISMAN",
+            "codigo": "ARI02690",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02690.jpg"
+        },
+        {
+            "producto": "TUBO PVC 2 1/2\"",
+            "codigo": "ARI02691",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02691.jpg"
+        },
+        {
+            "producto": "TUBO PVC 3\"",
+            "codigo": "ARI02692",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02692.jpg"
+        },
+        {
+            "producto": "TUBO PVC 3/4\"",
+            "codigo": "ARI02693",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02693.jpg"
+        },
+        {
+            "producto": "TUBO PVC 1 1/2\"",
+            "codigo": "ARI02695",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02695.jpg"
+        },
+        {
+            "producto": "TUBO PVC 1 1/4\"",
+            "codigo": "ARI02696",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02696.jpg"
+        },
+        {
+            "producto": "TUBO PVC 1\"",
+            "codigo": "ARI02697",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02697.jpg"
+        },
+        {
+            "producto": "TUBO PVC 1/2\"",
+            "codigo": "ARI02698",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02698.jpg"
+        },
+        {
+            "producto": "TUBO PVC 2\"",
+            "codigo": "ARI02699",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02699.jpg"
+        },
+        {
+            "producto": "TUBO PVC 4\"",
+            "codigo": "ARI02700",
+            "categoria": "TUBO",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02700.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 5/16\"",
+            "codigo": "ARI02709",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02709.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 5/8\"",
+            "codigo": "ARI02710",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02710.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 1 1/2\"",
+            "codigo": "ARI02711",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02711.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 1\"",
+            "codigo": "ARI02712",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02712.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 1/2\"",
+            "codigo": "ARI02713",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02713.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 1/4\"",
+            "codigo": "ARI02714",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02714.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 1/8",
+            "codigo": "ARI02715",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02715.jpg"
+        },
+        {
+            "producto": "TUERCA HEX A.C. 10 MM",
+            "codigo": "ARI02716",
+            "categoria": "TORNILLERIA",
+            "unidad": "PCE",
+            "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02716.jpg"
+        },
+   {
+    "producto": "TUBO CONDUIT P/DELGADA 1/2\"",
+    "codigo": "ARI02671",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02671.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA 1\"",
+    "codigo": "ARI02672",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02672.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA 1/2\"",
+    "codigo": "ARI02673",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02673.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA 3/4\"",
+    "codigo": "ARI02674",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02674.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA 1 1/2\"",
+    "codigo": "ARI02675",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02675.jpg"
+  },
+  {
+    "producto": "TUBO CONDUIT P/GRUESA 2\"",
+    "codigo": "ARI02676",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02676.jpg"
+  },
+  {
+    "producto": "TUBO GALV 1 1/4\"",
+    "codigo": "ARI02677",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02677.jpg"
+  },
+  {
+    "producto": "TUBO GALV 1 1/2\"",
+    "codigo": "ARI02678",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02678.jpg"
+  },
+  {
+    "producto": "TUBO GALV 1\"",
+    "codigo": "ARI02679",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02679.jpg"
+  },
+  {
+    "producto": "TUBO GALV 1/2\"",
+    "codigo": "ARI02680",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02680.jpg"
+  },
+  {
+    "producto": "TUBO GALV 2\"",
+    "codigo": "ARI02681",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02681.jpg"
+  },
+  {
+    "producto": "TUBO GALV 3/4\"",
+    "codigo": "ARI02682",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02682.jpg"
+  },
+  {
+    "producto": "TUBO GALV 3/8\"",
+    "codigo": "ARI02683",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02683.jpg"
+  },
+  {
+    "producto": "TUBO INOX CED. 10 3\" X 6 MTO",
+    "codigo": "ARI02684",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02684.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 1\" X 6\" MTO",
+    "codigo": "ARI02685",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02685.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 1/2\" X 6\" MTO",
+    "codigo": "ARI02686",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02686.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 2\" X 6\" MTO",
+    "codigo": "ARI02687",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02687.jpg"
+  },
+  {
+    "producto": "TUBO INOX. CED.40 3\" X 6\" MTO",
+    "codigo": "ARI02688",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02688.jpg"
+  },
+  {
+    "producto": "TUBO LATEX 2050 SEGÚN MUESTRA",
+    "codigo": "ARI02689",
+    "categoria": "TUBO",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02689.jpg"
+  },
+  {
+    "producto": "TUBO LED THISMAN",
+    "codigo": "ARI02690",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02690.jpg"
+  },
+  {
+    "producto": "TUBO PVC 2 1/2\"",
+    "codigo": "ARI02691",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02691.jpg"
+  },
+  {
+    "producto": "TUBO PVC 3\"",
+    "codigo": "ARI02692",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02692.jpg"
+  },
+  {
+    "producto": "TUBO PVC 3/4\"",
+    "codigo": "ARI02693",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02693.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1 1/2\"",
+    "codigo": "ARI02695",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02695.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1 1/4\"",
+    "codigo": "ARI02696",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02696.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1\"",
+    "codigo": "ARI02697",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02697.jpg"
+  },
+  {
+    "producto": "TUBO PVC 1/2\"",
+    "codigo": "ARI02698",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02698.jpg"
+  },
+  {
+    "producto": "TUBO PVC 2\"",
+    "codigo": "ARI02699",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02699.jpg"
+  },
+  {
+    "producto": "TUBO PVC 4\"",
+    "codigo": "ARI02700",
+    "categoria": "TUBO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02700.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 5/16\"",
+    "codigo": "ARI02709",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02709.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 5/8\"",
+    "codigo": "ARI02710",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02710.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 1 1/2\"",
+    "codigo": "ARI02711",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02711.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 1\"",
+    "codigo": "ARI02712",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02712.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 1/2\"",
+    "codigo": "ARI02713",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02713.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 1/4\"",
+    "codigo": "ARI02714",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02714.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 1/8\"",
+    "codigo": "ARI02715",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02715.jpg"
+  },
+    {
+    "producto": "TUERCA HEX A.C. 10 MM",
+    "codigo": "ARI02716",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02716.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 12 MM",
+    "codigo": "ARI02717",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02717.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 24 MM",
+    "codigo": "ARI02718",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02718.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 3/16\"",
+    "codigo": "ARI02719",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02719.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 3/4\"",
+    "codigo": "ARI02720",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02720.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 3/8\"",
+    "codigo": "ARI02721",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02721.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 4 MM",
+    "codigo": "ARI02722",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02722.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 5 MM",
+    "codigo": "ARI02723",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02723.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 5/32\"",
+    "codigo": "ARI02724",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02724.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 6 MM",
+    "codigo": "ARI02725",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02725.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 7/16\"",
+    "codigo": "ARI02726",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02726.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 7/8\"",
+    "codigo": "ARI02727",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02727.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 8 MM",
+    "codigo": "ARI02728",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02728.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 12 MM",
+    "codigo": "ARI02729",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02729.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 19 MM",
+    "codigo": "ARI02730",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02730.jpg"
+  },
+  {
+    "producto": "TUERCA HEX A.C. 20 MM",
+    "codigo": "ARI02731",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02731.jpg"
+  },
+    {
+    "producto": "TUERCA UNION PVC CEM 1\"",
+    "codigo": "ARI02791",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02791.jpg"
+  },
+  {
+    "producto": "TUERCA UNION PVC CEM 2\"",
+    "codigo": "ARI02794",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02794.jpg"
+  },
+  {
+    "producto": "TUERCA UNION PVC CEM 3\"",
+    "codigo": "ARI02795",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02795.jpg"
+  },
+  {
+    "producto": "TUERCA UNION PVC ROSC 3\"",
+    "codigo": "ARI02799",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02799.jpg"
+  },
+  {
+    "producto": "TUERCA UNION PVC ROSC 4",
+    "codigo": "ARI02800",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02800.jpg"
+  },
+  {
+    "producto": "UNICANAL 1/2\"",
+    "codigo": "ARI02801",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02801.jpg"
+  },
+  {
+    "producto": "UNICANAL 4 X 4 PERFORADO 3 MTS",
+    "codigo": "ARI02802",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02802.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK COLUMPIO 1",
+    "codigo": "ARI02804",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02804.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK COLUMPIO 1 1/2",
+    "codigo": "ARI02805",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02805.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK COLUMPIO 1/2",
+    "codigo": "ARI02806",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02806.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK COLUMPIO 2",
+    "codigo": "ARI02807",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02807.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK COLUMPIO 2 1/2",
+    "codigo": "ARI02808",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02808.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK COLUMPIO 3/4",
+    "codigo": "ARI02809",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02809.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK HORIZONTAL BRONCE 1\"  79 H",
+    "codigo": "ARI02810",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02810.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK HORIZONTAL BRONCE 1/2\"",
+    "codigo": "ARI02811",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02811.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK VERTICAL BRONCE 1\"",
+    "codigo": "ARI02812",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02812.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK VERTICAL BRONCE 1/2\"",
+    "codigo": "ARI02813",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02813.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK VERTICAL BRONCE 2\"",
+    "codigo": "ARI02814",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02814.jpg"
+  },
+  {
+    "producto": "VALVULA CHECK VERTICAL BRONCE 3/4\"",
+    "codigo": "ARI02815",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02815.jpg"
+  },
+  {
+    "producto": "VALVULA COMP 150 LBS BRIDADA FUNDIDO 3\" WALWORTH",
+    "codigo": "ARI02816",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02816.jpg"
+  },
+  {
+    "producto": "VALVULA COMP 150 LBS BRIDADA FUNDIDO 4\" WALWORTH",
+    "codigo": "ARI02817",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02817.jpg"
+  },
+    {
+    "producto": "VALVULA ESFERA  4\"",
+    "codigo": "ARI02819",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02819.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 1  1/2\"",
+    "codigo": "ARI02820",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02820.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 1  1/4\"",
+    "codigo": "ARI02821",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02821.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 1\"",
+    "codigo": "ARI02822",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02822.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 1/2 \"",
+    "codigo": "ARI02823",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02823.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 1/4\"",
+    "codigo": "ARI02824",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02824.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 2 1/2\"",
+    "codigo": "ARI02825",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02825.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 2\"",
+    "codigo": "ARI02826",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02826.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 3\"",
+    "codigo": "ARI02827",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02827.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 3/4\"",
+    "codigo": "ARI02828",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02828.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA 3/8\"",
+    "codigo": "ARI02829",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02829.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA PVC CEM 1”",
+    "codigo": "ARI02833",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02833.jpg"
+  },
+  {
+    "producto": "VALVULA ESFERA PVC CEM 2”",
+    "codigo": "ARI02834",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02834.jpg"
+  },
+  {
+    "producto": "VALVULA MARIPOSA INTERIOR INOX  2\"",
+    "codigo": "ARI02842",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02842.jpg"
+  },
+  {
+    "producto": "VALVULA MARIPOSA INTERIOR INOX  3\"",
+    "codigo": "ARI02843",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02843.jpg"
+  },
+  {
+    "producto": "VALVULA MARIPOSA INTERIOR INOX  4\"",
+    "codigo": "ARI02844",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02844.jpg"
+  },
+  {
+    "producto": "VALVULA MARIPOSA INTERIOR INOX  6\"",
+    "codigo": "ARI02845",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02845.jpg"
+  },
+    {
+    "producto": "VALVULA PICHANCHA 1 1/2\"",
+    "codigo": "ARI02848",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02848.jpg"
+  },
+  {
+    "producto": "VALVULA PICHANCHA 1\"",
+    "codigo": "ARI02849",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02849.jpg"
+  },
+  {
+    "producto": "VALVULA PICHANCHA 1/2\"",
+    "codigo": "ARI02850",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02850.jpg"
+  },
+  {
+    "producto": "VALVULA PICHANCHA 2 1/2\"",
+    "codigo": "ARI02851",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02851.jpg"
+  },
+  {
+    "producto": "VALVULA PICHANCHA 2\"",
+    "codigo": "ARI02852",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02852.jpg"
+  },
+  {
+    "producto": "VALVULA PICHANCHA 3/4\"",
+    "codigo": "ARI02853",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02853.jpg"
+  },
+  {
+    "producto": "VALVULA RETENCION HORIZ 125 LB SWP 200 LBS WOG 2\" F-03T",
+    "codigo": "ARI02856",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02856.jpg"
+  },
+  {
+    "producto": "VALVULA RETENCION VERTICAL 125 LBS SWP 200LBS WOG 2\" 44T",
+    "codigo": "ARI02857",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02857.jpg"
+  },
+  {
+    "producto": "VALVULA SOLENOIDE ASCO NPT 1/2\"",
+    "codigo": "ARI02858",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02858.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER AC 1\"",
+    "codigo": "ARI02859",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02859.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER AC 1/2\"",
+    "codigo": "ARI02860",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02860.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER AC 1/4\"",
+    "codigo": "ARI02861",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02861.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER AC 2´´",
+    "codigo": "ARI02862",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02862.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER AC 3/4\"",
+    "codigo": "ARI02863",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02863.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER AC 3/8\"",
+    "codigo": "ARI02864",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02864.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER BRIDADA 150L  AC3\"",
+    "codigo": "ARI02865",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02865.jpg"
+  },
+    {
+    "producto": "VALVULA WORCESTER INOX  1\"",
+    "codigo": "ARI02866",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02866.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER INOX 1 1/2\"",
+    "codigo": "ARI02867",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02867.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER INOX 1/2",
+    "codigo": "ARI02868",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02868.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER INOX 2\"",
+    "codigo": "ARI02869",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02869.jpg"
+  },
+  {
+    "producto": "VALVULA WORCESTER INOX 3/4",
+    "codigo": "ARI02870",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02870.jpg"
+  },
+  {
+    "producto": "VARILLIN 3/16\"",
+    "codigo": "ARI02882",
+    "categoria": "ACERO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02882.jpg"
+  },
+  {
+    "producto": "VASO CONICO DE PAPEL ( P/AGUA CON 250 PZAS)",
+    "codigo": "ARI02883",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02883.jpg"
+  },
+  {
+    "producto": "VASO DEL NO.0 (PAK 100 PZ)",
+    "codigo": "ARI02884",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02884.jpg"
+  },
+  {
+    "producto": "VASOS DESECHABLES 50 PZA",
+    "codigo": "ARI02885",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02885.jpg"
+  },
+  {
+    "producto": "VENTILADOR ADIR  2074 18\" METAL VELOCIDADES 3 EN 1",
+    "codigo": "ARI02888",
+    "categoria": "VENTILADOR",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02888.jpg"
+  },
+  {
+    "producto": "VENTILADOR DE TECHO TIPO INDUSTRIAL 56\"",
+    "codigo": "ARI02889",
+    "categoria": "VENTILADOR",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02889.jpg"
+  },
+  {
+    "producto": "VENTILADOR DE TECHO MYTEK 360°",
+    "codigo": "ARI02891",
+    "categoria": "VENTILADOR",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02891.jpg"
+  },
+  {
+    "producto": "Y GRIEGA GALV 1/2",
+    "codigo": "ARI02897",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes3/ARI02897.jpg"
   }
 ]
 
