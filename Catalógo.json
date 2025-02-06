@@ -12073,7 +12073,14 @@
     "codigo": "ARI02913",
     "categoria": "SEGURIDAD",
     "unidad": "PCE",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02897.jpg"
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02913.jpg"
+  },
+  {
+    "producto": "PILA PARA LINTERNA 180 LUMENES",
+    "codigo": "ARI02914",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02914.jpg"
   }
 ]
 
