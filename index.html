@@ -3,162 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo de Productos</title>
+    <title>Mantenimiento</title>
     <style>
-        /* Estilos Generales */
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f1f1f1;
-            margin: 0;
-            padding: 0;
-        }
-
-        /* Encabezado */
-        header {
-            background-color: #003366; /* Azul oscuro */
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-
-        header h1 {
-            margin: 0;
-            font-size: 2rem;
-        }
-
-        /* Sub-encabezado */
-        .search-bar {
-            background-color: #e0e0e0;
-            padding: 10px;
             display: flex;
-            justify-content: space-between;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .search-bar input, .search-bar select, .search-bar button {
-            padding: 10px;
-            font-size: 1rem;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-
-        .search-bar button {
-            background-color: #003366;
-            color: white;
-            cursor: pointer;
-        }
-
-        /* Cuadrícula de Productos */
-        .products {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 20px;
-            padding: 20px;
-        }
-
-        .product-card {
-            background-color: white;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-            cursor: pointer;
-        }
-
-        .product-card img {
-            max-width: 100%;
-            height: auto;
-            margin-bottom: 10px;
-        }
-
-        .product-card h3 {
-            color: #003366;
-            font-weight: bold;
-        }
-
-        .product-card p {
-            color: #555;
-            margin: 5px 0;
-        }
-
-        /* Modal */
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.7);
             justify-content: center;
             align-items: center;
+            height: 100vh;
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .mensaje {
             padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-
-        .modal-content {
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            width: 80%;
-            max-width: 600px;
-        }
-
-        .modal-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
-        }
-
-        .modal-header h2 {
-            margin: 0;
-        }
-
-        .close {
-            font-size: 1.5rem;
-            cursor: pointer;
-        }
-
-        .modal-footer {
-            display: flex;
-            justify-content: flex-end;
-        }
-
     </style>
 </head>
 <body>
-    <header>
-        <h1>Bridacero Del Centro</h1>
-        <p>Catálogo de Productos</p>
-    </header>
-
-    <div class="search-bar">
-        <input type="text" id="searchInput" placeholder="Buscar por nombre, código o categoría">
-        <select id="categoryFilter">
-            <option value="">Selecciona una categoría</option>
-        </select>
-        <button onclick="searchProducts()">Buscar</button>
+    <div class="mensaje">
+        <h1>🚧 Página en Mantenimiento 🚧</h1>
+        <p>Estamos realizando mejoras. Vuelve pronto.</p>
     </div>
-
-    <div class="products" id="productGrid">
-        <!-- Los productos se cargarán aquí dinámicamente -->
-    </div>
-
-    <!-- Ventana Modal -->
-    <div id="productModal" class="modal">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2 id="modalProductName"></h2>
-                <span class="close" onclick="closeModal()">&times;</span>
-            </div>
-            <p><strong>Código:</strong> <span id="modalProductCode"></span></p>
-            <p><strong>Categoría:</strong> <span id="modalProductCategory"></span></p>
-            <p><strong>Unidad:</strong> <span id="modalProductUnit"></span></p>
-            <img id="modalProductImage" src="" alt="" style="max-width: 100%; height: auto;">
-        </div>
-    </div>
-
-    <script src="app.js"></script>
 </body>
 </html>
+
