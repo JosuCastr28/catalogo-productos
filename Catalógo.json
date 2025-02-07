@@ -12642,5 +12642,236 @@
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03050.jpg"
   },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-2KG",
+    "codigo": "ARI03051",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03051.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-4KG",
+    "codigo": "ARI03052",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03052.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-5000PSI",
+    "codigo": "ARI03053",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03053.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-7KG",
+    "codigo": "ARI03054",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03054.jpg"
+  },
+{
+    "producto": "OPRESOR ALLEN 1/4 X 1",
+    "codigo": "ARI03055",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03055.jpg"
+  },
+{
+    "producto": "OPRESOR ALLEN 1/4 X 1/2",
+    "codigo": "ARI03056",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03056.jpg"
+  },
+{
+    "producto": "OPRESOR ALLEN 3/16 X 1/2",
+    "codigo": "ARI03058",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03058.jpg"
+  },
+{
+    "producto": "OPRESOR ALLEN 3/8 X 1",
+    "codigo": "ARI03059",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03059.jpg"
+  },
+{
+    "producto": "OPRESOR ALLEN 5/16X 1/2",
+    "codigo": "ARI03060",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03060.jpg"
+  },
+{
+    "producto": "OPRESOR ALLEN 5/16X 1",
+    "codigo": "ARI03061",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03061.jpg"
+  },
+{
+    "producto": "PIJA PUNTA DE BROCA 1/4X1 1/2",
+    "codigo": "ARI03065",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03065.jpg"
+  },
+{
+    "producto": "PINZA DE 1000 V MOD. 269GHLV",
+    "codigo": "ARI03066",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03066.jpg"
+  },
+{
+    "producto": "PLASTILOCA EN JERINGA R2-42 MCA. EVCON",
+    "codigo": "ARI03069",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03069.jpg"
+  },
+{
+    "producto": "RESISTOL 5000 CUBETA 19 LTS MCA. RESISTOL",
+    "codigo": "ARI03073",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03073.jpg"
+  },
+{
+    "producto": "RETENEDOR MOD.  609 MCA. LOCTITE",
+    "codigo": "ARI03075",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03075.jpg"
+  },
+{
+    "producto": "ROLLO MALLA PLÁSTICA GRIS 138117 ",
+    "codigo": "ARI03076",
+    "categoria": "PLASTICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03076.jpg"
+  },
+{
+    "producto": "SEGUETA PARA CALADORA MOD. T144D",
+    "codigo": "ARI03078",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03078.jpg"
+  },
+{
+    "producto": "SELLADOR CUERDA PERMATEX 3-H",
+    "codigo": "ARI03079",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03079.jpg"
+  },
+{
+    "producto": "BOQUILLA SOPLETE PARA  GAS BUTANO",
+    "codigo": "ARI03080",
+    "categoria": "GAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03080.jpg"
+  },
+{
+    "producto": "TOR HEX 3/16 X 2NC",
+    "codigo": "ARI03081",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03081.jpg"
+  },
+{
+    "producto": "TOR HEX 3/16 X 4NC",
+    "codigo": "ARI03082",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03082.jpg"
+  },
+{
+    "producto": "TOR HEX 3/8 X21/2NC",
+    "codigo": "ARI03083",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03083.jpg"
+  },
+{
+    "producto": "TORNIILLO CABEZA PLANA ALLEN DE 1/4 X 2",
+    "codigo": "ARI03084",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03084.jpg"
+  },
+{
+    "producto": "TORNILLO ALLEN DE 5/16X3",
+    "codigo": "ARI03085",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03085.jpg"
+  },
+{
+    "producto": "TORNILLO CABEZA HEX. M12X 1.75X60 mm",
+    "codigo": "ARI03086",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03086.jpg"
+  },
+{
+    "producto": "TORNILLO DE 3/8 X 2 1/2  GRADO 5",
+    "codigo": "ARI03087",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03087.jpg"
+  },
+{
+    "producto": "TORNILLO HEX 3/16X1",
+    "codigo": "ARI03088",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03088.jpg"
+  },
+{
+    "producto": "TORNILLO HEX 3/16X1 1/2",
+    "codigo": "ARI03089",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03089.jpg"
+  },
+{
+    "producto": "TORNILLO HEX 3/16X2 1/2",
+    "codigo": "ARI03090",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03090.jpg"
+  },
+{
+    "producto": "TORNILLO HEX 3/16X3",
+    "codigo": "ARI03091",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03091.jpg"
+  },
+{
+    "producto": "TORNILLO HEX 5/16X1",
+    "codigo": "ARI03093",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03093.jpg"
+  },
+{
+    "producto": "TORNILLO HEX 5/8X4 1/2",
+    "codigo": "ARI03096",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03096.jpg"
+  },
+{
+    "producto": "TORNILLO HEX 5/8X4 1/2",
+    "codigo": "ARI03096",
+    "categoria": "VENTILADOR",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03096.jpg"
+  },
 ]
 
