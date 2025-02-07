@@ -12998,6 +12998,1251 @@
     "categoria": "PLACA/ LAMINAS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03118.jpg"
+  },
+{
+    "producto": "MANOPLA",
+    "codigo": "ARI03119",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03119.jpg"
+  },
+{
+    "producto": "PLACA HULE POLIESTIRENO DE 38 MM DE 50CMX1M",
+    "codigo": "ARI03120",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03120.jpg"
+  },
+{
+    "producto": "CONEXION ALUMINIO F 3",
+    "codigo": "ARI03121",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03121.jpg"
+  },
+{
+    "producto": "CABLE DE ACER0 CON FORRO DE 1/8",
+    "codigo": "ARI03122",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03122.jpg"
+  },
+{
+    "producto": "CABLE DE ACER0 CON FORRO DE 1/4",
+    "codigo": "ARI03123",
+    "categoria": "CABLE",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03123.jpg"
+  },
+{
+    "producto": "BALERO 6204 2RS C3",
+    "codigo": "ARI03124",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03124.jpg"
+  },
+{
+    "producto": "ARANDELA MB 5/50P",
+    "codigo": "ARI03125",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03125.jpg"
+  },
+{
+    "producto": "RUEDAS DIRECCIONALES NYLON 7 X 2 (2PZA) PARA PATIN MCLINE",
+    "codigo": "ARI03126",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03126.jpg"
+  },
+{
+    "producto": "RUEDAS DE CARGA BOGGIE (4PZA) PARA PATIN MCLINE",
+    "codigo": "ARI03127",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03127.jpg"
+  },
+{
+    "producto": "BALERO PARA RUEDAS DE PATÍN HIDRÁULICO (12PZA) PARA PATIN MCLINE",
+    "codigo": "ARI03128",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03128.jpg"
+  },
+{
+    "producto": "KIT DE SELLOS  PARA GATO HIDRÁULICO MC LINE",
+    "codigo": "ARI03129",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03129.jpg"
+  },
+{
+    "producto": "PTR CAL.14 2X1",
+    "codigo": "ARI03130",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03130.jpg"
+  },
+{
+    "producto": "TORNILLO DE 1X3 1/2 CUERDA MILIMETRICA",
+    "codigo": "ARI03131",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03131.jpg"
+  },
+{
+    "producto": "TUERCA DE SEGURIDAD DE 1 CUERDA MILIMETRICA",
+    "codigo": "ARI03132",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03132.jpg"
+  },
+{
+    "producto": "AZUL VEGETAL (100 G)",
+    "codigo": "ARI03133",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03133.jpg"
+  },
+{
+    "producto": "CUADRO DE MANTA",
+    "codigo": "ARI03134",
+    "categoria": "TRAPO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03134.jpg"
+  },
+{
+    "producto": "PINTURA EPOXICA CON CATALIZADOR GALON  COMEX",
+    "codigo": "ARI03135",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03135.jpg"
+  },
+{
+    "producto": "PINTURA EPOXICA CON CATALIZADOR CUBETA 19 LITROS  COMEX",
+    "codigo": "ARI03136",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03136.jpg"
+  },
+{
+    "producto": "MANDIL DE LONA CRUDA DE 90X60 CON BOLSA",
+    "codigo": "ARI03137",
+    "categoria": "SEGURIDAD",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03137.jpg"
+  },
+{
+    "producto": "MAMILAS DE PLASTICO TIPO CATSUP 250ml",
+    "codigo": "ARI03138",
+    "categoria": "SEGURIDAD",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03138.jpg"
+  },
+{
+    "producto": "HOJA DE TABLAROCA DE 1.22X2.44 MTS",
+    "codigo": "ARI03139",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03139.jpg"
+  },
+{
+    "producto": "CANAL DE AMARRE PARA TABLAROCA 6.35",
+    "codigo": "ARI03140",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03140.jpg"
+  },
+{
+    "producto": "POSTE METALICO PARA TABLAROCA CAL.26 DE 6.35CM X 3.05M ",
+    "codigo": "ARI03141",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03141.jpg"
+  },
+{
+    "producto": "CUBETA DE 19L DE REDIMIX",
+    "codigo": "ARI03142",
+    "categoria": "LIMPEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03142.jpg"
+  },
+{
+    "producto": "CINTA UNION FIBRA DE VIDRIO PARA TABLAROCA",
+    "codigo": "ARI03143",
+    "categoria": "CINTAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03143.jpg"
+  },
+{
+    "producto": "JUEGO DE CARBONES P/ESMERILADORA GWS24-230",
+    "codigo": "ARI03144",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03144.jpg"
+  },
+{
+    "producto": "PILA AA DE 3.6VCD DE LITHIUM",
+    "codigo": "ARI03145",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03145.jpg"
+  },
+{
+    "producto": "CUBETA DE PINTURA DE 19 LTS ALUMINIO ALTA TEMPERATURA",
+    "codigo": "ARI03146",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03146.jpg"
+  },
+{
+    "producto": "PATIN LARGO 27 X 96",
+    "codigo": "ARI03147",
+    "categoria": "PATIN",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03147.jpg"
+  },
+{
+    "producto": "MANDIL DE MEZCLILLA DE 90X60 CON BOLSA",
+    "codigo": "ARI03148",
+    "categoria": "SEGURIDAD",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03148.jpg"
+  },
+{
+    "producto": "MANGUERA DE CRISTAL DE 1 1/2 ROLLO  DE 30 MTS",
+    "codigo": "ARI03149",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03149.jpg"
+  },
+{
+    "producto": "PLUMON DE AGUA BRIDACERO",
+    "codigo": "ARI03150",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03150.jpg"
+  },
+{
+    "producto": "SUJETADOR CON MATRACA (CINTA COLORES)",
+    "codigo": "ARI03151",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03151.jpg"
+  },
+{
+    "producto": "HULE EVA LAVABOS 17 X2.30 X 1",
+    "codigo": "ARI03154",
+    "categoria": "PLOMERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03154.jpg"
+  },
+{
+    "producto": "HULE EVA CUADRO  32 X 10 X 1",
+    "codigo": "ARI03155",
+    "categoria": "PLOMERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03155.jpg"
+  },
+{
+    "producto": "HULE EVA CUADRO 15 X 10 X 1",
+    "codigo": "ARI03156",
+    "categoria": "PLOMERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03156.jpg"
+  },
+{
+    "producto": "ABRAZADERA SIN FIN ML-04",
+    "codigo": "ARI03157",
+    "categoria": "ABRAZADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03157.jpg"
+  },
+{
+    "producto": "MANGUERA DE AIRE AZUL DE RETROCESO DE 1/4 X15ML",
+    "codigo": "ARI03158",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03158.jpg"
+  },
+{
+    "producto": "MANGUERA TRANSPARENTE MOLDES YESO 4.5X1.25 X100M",
+    "codigo": "ARI03159",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03159.jpg"
+  },
+{
+    "producto": "PIJA NEGRA 8X1",
+    "codigo": "ARI03160",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03160.jpg"
+  },
+{
+    "producto": "PIJA NEGRA 8X1/2",
+    "codigo": "ARI03161",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03161.jpg"
+  },
+{
+    "producto": "MANGUERA DE  VACIADO IND TRANS DE 1 100 MTS",
+    "codigo": "ARI03162",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03162.jpg"
+  },
+{
+    "producto": "TOALLA AZUL",
+    "codigo": "ARI03163",
+    "categoria": "TRAPO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03163.jpg"
+  },
+{
+    "producto": "BARNIZ POLICROMO A-B SECADO 6 HORAS SET (1+1) KG",
+    "codigo": "ARI03164",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03164.jpg"
+  },
+{
+    "producto": "FIBRA PARA REFUERZO DE MATRICES",
+    "codigo": "ARI03165",
+    "categoria": "ABRASIVO",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03165.jpg"
+  },
+{
+    "producto": "MANGUERA 3/16 PARA DOBLE ESPIGA (4.5X1.1) ROLLO 100 M",
+    "codigo": "ARI03166",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03166.jpg"
+  },
+{
+    "producto": "MANGUERA 3/16 FABRICACION ESPECIAL PARA LATON (3/16X1.37) R100 M",
+    "codigo": "ARI03167",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03167.jpg"
+  },
+{
+    "producto": "FILTRO METALICO MANT AGS",
+    "codigo": "ARI03168",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03168.jpg"
+  },
+{
+    "producto": "ABRAZADERA TORNILLO 2",
+    "codigo": "ARI03169",
+    "categoria": "ABRAZADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03169.jpg"
+  },
+{
+    "producto": "ACERO CUADRADO 1018 5/16",
+    "codigo": "ARI03170",
+    "categoria": "COLD ROLLED",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03170.jpg"
+  },
+{
+    "producto": "ACERO CUADRADO 1018 de 1/2",
+    "codigo": "ARI03171",
+    "categoria": "COLD ROLLED",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03171.jpg"
+  },
+{
+    "producto": "ACERO CUADRADO 1018 DE 1/4",
+    "codigo": "ARI03172",
+    "categoria": "COLD ROLLED",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03172.jpg"
+  },
+{
+    "producto": "ACERO CUADRADO 1018 DE 3/16",
+    "codigo": "ARI03173",
+    "categoria": "COLD ROLLED",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03173.jpg"
+  },
+{
+    "producto": "ACERO CUADRADO 1018 DE 3/8",
+    "codigo": "ARI03174",
+    "categoria": "COLD ROLLED",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03174.jpg"
+  },
+{
+    "producto": "ACERO CUADRADO 1018 DE 5/8",
+    "codigo": "ARI03175",
+    "categoria": "COLD ROLLED",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03175.jpg"
+  },
+{
+    "producto": "ANGULO DE 1 1/2  X 1/8",
+    "codigo": "ARI03176",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03176.jpg"
+  },
+{
+    "producto": "BOLSA DE PLASTICO DE 25X35 CM ROLLO",
+    "codigo": "ARI03177",
+    "categoria": "BOLSA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03177.jpg"
+  },
+{
+    "producto": "CADENA TIPO VICTOR  2.5 MM 150837 SURTEKHC74420",
+    "codigo": "ARI03178",
+    "categoria": "CADENA",
+    "unidad": "MTR",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03178.jpg"
+  },
+{
+    "producto": "CANASTILLA METALICA P/ EXPRENCION 136097 SURTEK",
+    "codigo": "ARI03179",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03179.jpg"
+  },
+{
+    "producto": "CANASTILLA PLASTICO P/ EXTENCION 136095 SURTEK",
+    "codigo": "ARI03180",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03179.jpg"
+  },
+{
+    "producto": "CONECTOR ESPIGA 2 CUERDA EXT. 2 GALV.",
+    "codigo": "ARI03181",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03181.jpg"
+  },
+{
+    "producto": "CONEXIÓN RAPIDA DE 2 PVC",
+    "codigo": "ARI03182",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03182.jpg"
+  },
+{
+    "producto": "CONEXIÓN RECTAPC 10-3/8 NPT",
+    "codigo": "ARI03183",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03183.jpg"
+  },
+{
+    "producto": "CONEXIÓN RECTAPC 3/8-1/4 NPT",
+    "codigo": "ARI03184",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03184.jpg"
+  },
+{
+    "producto": "COPLE GALV DE 3",
+    "codigo": "ARI03185",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03185.jpg"
+  },
+{
+    "producto": "COPLE HEMBRA 14001-214 115453",
+    "codigo": "ARI03186",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03186.jpg"
+  },
+{
+    "producto": "COPLE HEMBRA 14001-214 115453",
+    "codigo": "ARI03187",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03187.jpg"
+  },
+{
+    "producto": "COPLE MACHO 14001-114 115456",
+    "codigo": "ARI03188",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03188.jpg"
+  },
+{
+    "producto": "COPLE MACHO 38001-138  115457",
+    "codigo": "ARI03188",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03188.jpg"
+  },
+{
+    "producto": "COSMETICO BARRA TFHC78783",
+    "codigo": "ARI03189",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03189.jpg"
+  },
+{
+    "producto": "ENVASE DE PLASTICO DE 1/2 LT. HC125676",
+    "codigo": "ARI03190",
+    "categoria": "PLASTICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03190.jpg"
+  },
+{
+    "producto": "FLEJE METALICO GALV. 3/4",
+    "codigo": "ARI03191",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03191.jpg"
+  },
+{
+    "producto": "FLOTADOR DE CONTRAPESO O PERA",
+    "codigo": "ARI03192",
+    "categoria": "PLOMERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03192.jpg"
+  },
+{
+    "producto": "GARRUCHA PARA NORIA MOD GANO 2",
+    "codigo": "ARI03193",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03193.jpg"
+  },
+{
+    "producto": "INYECTOR DE GRASA MIKELS",
+    "codigo": "ARI03194",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03194.jpg"
+  },
+{
+    "producto": "MANGUERA TRASPARENTE DE 2",
+    "codigo": "ARI03195",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03195.jpg"
+  },
+{
+    "producto": "NAVAJA AUTORETRACTIL SURTEK CUTTER",
+    "codigo": "ARI03196",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03196.jpg"
+  },
+{
+    "producto": "NIPLE GALV DE 3/4 X 1 1/2",
+    "codigo": "ARI03197",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03197.jpg"
+  },
+{
+    "producto": "NIPLE 3/4X2 GALV.",
+    "codigo": "ARI03198",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03198.jpg"
+  },
+{
+    "producto": "NIPLE DIENTE SIERRA 1401-338",
+    "codigo": "ARI03199",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03199.jpg"
+  },
+{
+    "producto": "NIPLE DIENTE SIERRA 3801-338",
+    "codigo": "ARI03200",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03200.jpg"
+  },
+{
+    "producto": "NIPLE GALV 1/4X2",
+    "codigo": "ARI03201",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03201.jpg"
+  },
+{
+    "producto": "NIPLE GALV 1/2",
+    "codigo": "ARI03202",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03202.jpg"
+  },
+{
+    "producto": "NIPLE GALV 3/4X2 1/2",
+    "codigo": "ARI03203",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03203.jpg"
+  },
+{
+    "producto": "PERFIL TUBULAR DE 1 1/2 CAL. 18",
+    "codigo": "ARI03204",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03204.jpg"
+  },
+{
+    "producto": "PILA ALCALIN A23 A23BPZ-2 127V",
+    "codigo": "ARI03205",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03205.jpg"
+  },
+{
+    "producto": "PLASTILOKA EN BARRA",
+    "codigo": "ARI03206",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03206.jpg"
+  },
+{
+    "producto": "REDUCCION BUSHING GALV DE 1 1/2 A 3/4",
+    "codigo": "ARI03207",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03207.jpg"
+  },
+{
+    "producto": "REDUCCION BUSHING GALV DE 2 A 3/4",
+    "codigo": "ARI03208",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03208.jpg"
+  },
+{
+    "producto": "REDUCCION BUSHING GALV DE 3/4 A 3/8",
+    "codigo": "ARI03209",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03209.jpg"
+  },
+{
+    "producto": "REDUCCION CAMPANA GALV DE 3 A 2",
+    "codigo": "ARI03210",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03210.jpg"
+  },
+{
+    "producto": "REDUCCION CAMPANA GALV DE 3/4 A 1/4",
+    "codigo": "ARI03211",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03211.jpg"
+  },
+{
+    "producto": "REPUESTO PARA NAVAJA REPNF6 SURTEK / CUTTER",
+    "codigo": "ARI03212",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03212.jpg"
+  },
+{
+    "producto": "RESISTOL 850 LTS MCA. RESISTOL",
+    "codigo": "ARI03213",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03213.jpg"
+  },
+{
+    "producto": "ROLLO MALLA PLASTICA VERDE  138110",
+    "codigo": "ARI03214",
+    "categoria": "PLASTICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03214.jpg"
+  },
+{
+    "producto": "RUEDA BLANCA 8X1X1 1/4 GRANO 60 CL206 AUSTROMEXHC68042",
+    "codigo": "ARI03215",
+    "categoria": "RUEDA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03215.jpg"
+  },
+{
+    "producto": "SEGUETA MECANICA DE 16 X 1 1/4 EN  6DP",
+    "codigo": "ARI03216",
+    "categoria": "SEGUETA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03216.jpg"
+  },
+{
+    "producto": "SILICON USO GRAL.TRANSPARENTE",
+    "codigo": "ARI03217",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03217.jpg"
+  },
+{
+    "producto": "SOLDADURA FIERRO COLADO DE 1/8",
+    "codigo": "ARI03218",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03218.jpg"
+  },
+{
+    "producto": "SOLERA DE 1/2 X 3",
+    "codigo": "ARI03219",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03219.jpg"
+  },
+{
+    "producto": "SOLERA DE 3/8 X 2",
+    "codigo": "ARI03220",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03220.jpg"
+  },
+{
+    "producto": "TORNILLO CABEZA ALLEN  5/ 16X2",
+    "codigo": "ARI03221",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03221.jpg"
+  },
+{
+    "producto": "TUERCA UNION GALV DE 1/4",
+    "codigo": "ARI03222",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03222.jpg"
+  },
+{
+    "producto": "UNIDOR MANG 338-338",
+    "codigo": "ARI03223",
+    "categoria": "HIDRAULICOS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03223.jpg"
+  },
+{
+    "producto": "VALVULA CHECK DE BRONCE TIPO Y DE 1",
+    "codigo": "ARI03224",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03224.jpg"
+  },
+{
+    "producto": "VALVULA CHECK DE BRONCE TIPO Y DE 1/2",
+    "codigo": "ARI03225",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03225.jpg"
+  },
+{
+    "producto": "VALVULA CHECK DE BRONCE TIPO Y DE 2",
+    "codigo": "ARI03226",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03226.jpg"
+  },
+{
+    "producto": "VALVULA CHECK DE BRONCE TIPO Y DE 3/4",
+    "codigo": "ARI03227",
+    "categoria": "VALVULAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03227.jpg"
+  },
+{
+    "producto": "KIT DE SELLADORA  20 PULGADAS H1042",
+    "codigo": "ARI03228",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03228.jpg"
+  },
+{
+    "producto": "HULE EVA  CUADRO 10 X 38 X 1",
+    "codigo": "ARI03229",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03229.jpg"
+  },
+{
+    "producto": " H PLACA HULE EVA 11/2 DE 47X50",
+    "codigo": "ARI03230",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03230.jpg"
+  },
+{
+    "producto": "CEMENTO BULTO 25 KILOS",
+    "codigo": "ARI03231",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03231.jpg"
+  },
+{
+    "producto": "ESTUCO BULTO",
+    "codigo": "ARI03232",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03232.jpg"
+  },
+{
+    "producto": "VASO PARA RESINA NO. 1",
+    "codigo": "ARI03233",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03233.jpg"
+  },
+{
+    "producto": "MANOMETRO DE 0-10 KG/CM  CARAT. 3 POST.1/4",
+    "codigo": "ARI03234",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03234.jpg"
+  },
+{
+    "producto": "MANOMETRO DE 0-14 KG/CM  CARAT. 2 POST.1/4",
+    "codigo": "ARI03235",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03235.jpg"
+  },
+{
+    "producto": "MANOMETRO DE 0-14 KG/CM  CARAT. 2 INF.1/4",
+    "codigo": "ARI03236",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03236.jpg"
+  },
+{
+    "producto": "GARRAFON Y AGUA EPURA",
+    "codigo": "ARI03237",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03237.jpg"
+  },
+{
+    "producto": "AGUA EPURA LIQUIDO",
+    "codigo": "ARI03238",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03238.jpg"
+  },
+{
+    "producto": "BOTELLA DE AGUA DE 500 ML  (MMKS,45 PZA)",
+    "codigo": "ARI03239",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03239.jpg"
+  },
+{
+    "producto": "COCA -COLA (32PZA  355 ML)",
+    "codigo": "ARI03240",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03240.jpg"
+  },
+{
+    "producto": "GALLETAS BOLSA 1KILO",
+    "codigo": "ARI03241",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03241.jpg"
+  },
+{
+    "producto": "GALLETAS FINA VARIEDAD 1.5 K",
+    "codigo": "ARI03242",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03242.jpg"
+  },
+{
+    "producto": "VASO TERMICO TERMO 10 OZ CON 105PZA",
+    "codigo": "ARI03243",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03243.jpg"
+  },
+{
+    "producto": "FILTRO PARA CAFETERA ESTÁNDAR PAQUETE",
+    "codigo": "ARI03244",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03244.jpg"
+  },
+{
+    "producto": "CAJA DE PAQUETES DE CUCHARAS (300 PZA)",
+    "codigo": "ARI03245",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03245.jpg"
+  },
+{
+    "producto": "CAJA DE SOBRES DE COFFE MATE (200 PZA) ",
+    "codigo": "ARI03246",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03246.jpg"
+  },
+{
+    "producto": "AZUCAR (MMKS, 1000 pzas de 5 g c/u)",
+    "codigo": "ARI03247",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03247.jpg"
+  },
+{
+    "producto": " SPLENDA (300 sobres de 1 g c/u)",
+    "codigo": "ARI03248",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03248.jpg"
+  },
+{
+    "producto": "PAQUETE DE AIR WICK REMPLAZO ELECTRICO (5PZA)",
+    "codigo": "ARI03249",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03249.jpg"
+  },
+{
+    "producto": "KLEENEX PAÑUELOS ( 12 CAJAS CON 90 PZA)",
+    "codigo": "ARI03250",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03250.jpg"
+  },
+{
+    "producto": "CAFÉ GARAT DORADO 1KILO",
+    "codigo": "ARI03251",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03251.jpg"
+  },
+{
+    "producto": "CAFÉ TRES REGIONES 1 KILO",
+    "codigo": "ARI03252",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03252.jpg"
+  },
+{
+    "producto": "AGUA MINERAL (6 BOTELLAS DE 355ML)",
+    "codigo": "ARI03253",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03253.jpg"
+  },
+{
+    "producto": "GATORADE (6 BOTELLAS DE 355ML)",
+    "codigo": "ARI03254",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03254.jpg"
+  },
+{
+    "producto": "COCA -COLA LIGT SIN AZUCAR (24 PZA DE  235ML)",
+    "codigo": "ARI03255",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03255.jpg"
+  },
+{
+    "producto": "TE SABORES SURTIDOS (120PZA)",
+    "codigo": "ARI03256",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03256.jpg"
+  },
+{
+    "producto": "LIJA MESCH MARRON P80",
+    "codigo": "ARI03257",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03257.jpg"
+  },
+{
+    "producto": " PLATO PASTELERO (100PZA)",
+    "codigo": "ARI03258",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03258.jpg"
+  },
+{
+    "producto": " FIBRA DE VIDRIO EN FILAMENTO DE 1/4",
+    "codigo": "ARI03259",
+    "categoria": "FIBRA",
+    "unidad": "KGM",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03259.jpg"
+  },
+{
+    "producto": " CANDADO DE COMBINACION MASTER L0CK",
+    "codigo": "ARI03260",
+    "categoria": "CERRADURA Y CANDADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03260.jpg"
+  },
+{
+    "producto": " PAR DE DONA PARA CARRITOS",
+    "codigo": "ARI03261",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03261.jpg"
+  },
+{
+    "producto": " PILA DE LITIO CR-P2",
+    "codigo": "ARI03262",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03262.jpg"
+  },
+{
+    "producto": "PUNTA MONTADA ESPECIAL 58X25X6.4",
+    "codigo": "ARI03263",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03263.jpg"
+  },
+{
+    "producto": "PILA 6V TERMINALES DE RESORTE",
+    "codigo": "ARI03264",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03264.jpg"
+  },
+{
+    "producto": "ESPIGA PVC NPT 3/4 ROSCADA DE 1/2 MACHO",
+    "codigo": "ARI03265",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03265.jpg"
+  },
+{
+    "producto": "DISCO SEMIFLEXIBLE 4 1/2",
+    "codigo": "ARI03266",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03266.jpg"
+  },
+{
+    "producto": "PISTOLA DE SUCCION HVHP P/PINTAR S300",
+    "codigo": "ARI03267",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03267.jpg"
+  },
+{
+    "producto": "RUEDA FELPA C2300",
+    "codigo": "ARI03268",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03268.jpg"
+  },
+{
+    "producto": "DISCO CORTE 14 X 1/8 X 1 OXIDO DE ALUMINIO",
+    "codigo": "ARI03269",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03269.jpg"
+  },
+{
+    "producto": "COPLE HEMBRA 38001-238 DIXON",
+    "codigo": "ARI03270",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03270.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-11KG",
+    "codigo": "ARI03271",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03271.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-2KG",
+    "codigo": "ARI03272",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03272.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-4KG ",
+    "codigo": "ARI03273",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03273.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-5000PSI",
+    "codigo": "ARI03274",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03274.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-7KG",
+    "codigo": "ARI03275",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03275.jpg"
+  },
+{
+    "producto": "ADAPTADOR HEMBRA PVC  CED. 80 DE 3",
+    "codigo": "ARI03276",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03276.jpg"
+  },
+{
+    "producto": "CRUZ DE PVC DE 2",
+    "codigo": "ARI03277",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03277.jpg"
+  },
+{
+    "producto": "NIPLE PVC DE 1/2 X 2",
+    "codigo": "ARI03278",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03278.jpg"
+  },
+{
+    "producto": "CRUZ PVC CED. 80 DE 1/2",
+    "codigo": "ARI03279",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03279.jpg"
+  },
+{
+    "producto": "VALVULA DE ESFERA PVC ROSCADA DE 1/2",
+    "codigo": "ARI03280",
+    "categoria": "PVC",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03280.jpg"
+  },
+{
+    "producto": "CRUZ GALVANIZADA DE 3/8",
+    "codigo": "ARI03281",
+    "categoria": "GALVANIZADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03281.jpg"
+  },
+{
+    "producto": "SOLDADURA TUBULAR Z-65140WEST 71T-1 0.45",
+    "codigo": "ARI03282",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03282.jpg"
+  },
+{
+    "producto": "VENTILADOR DE PARED NAVIA 18",
+    "codigo": "ARI03283",
+    "categoria": "VENTILADOR",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03283.jpg"
+  },
+{
+    "producto": "TUERCA HEX  A.C. 12 MM",
+    "codigo": "ARI03284",
+    "categoria": "TORNILLADOR",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03284.jpg"
+  },
+{
+    "producto": " TORNILLO ALLEN CABEZA PLANA DE 8X35MM",
+    "codigo": "ARI03285",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03285.jpg"
+  },
+{
+    "producto": "DESCANSO DE MADERA 50*70 SC",
+    "codigo": "ARI03286",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03286.jpg"
+  },
+{
+    "producto": " HULE EVA DE 10cm X 7.5 cm X 2.5 cm JESC",
+    "codigo": "ARI03287",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03287.jpg"
+  },
+{
+    "producto": " HULE EVA DE 70cm X 50 cm X 2.5 cm JESC",
+    "codigo": "ARI03288",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03288.jpg"
+  },
+{
+    "producto": "24 PZ REFRESCO VARIOS SABORES 235ML",
+    "codigo": "ARI03289",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03289.jpg"
+  },
+{
+    "producto": "LAVATRASTES LIQUIDO AXION BICARBONATO Y LIMON 1.4 L",
+    "codigo": "ARI03290",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03290.jpg"
+  },
+{
+    "producto": "CAJA DE TÉ DE LIMON (CAJA DE 25 PIEZAS)",
+    "codigo": "ARI03291",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03290.jpg"
+  },
+{
+    "producto": "CAJAS DE TÉ DE MANZANILLA (CAJA DE 25 PIEZAS)",
+    "codigo": "ARI03292",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03292.jpg"
+  },
+{
+    "producto": "DULCES SURTIDOS CANELS EL PIÑATERO 1.7 KG",
+    "codigo": "ARI03293",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03293.jpg"
+  },
+{
+    "producto": "SURT PALETAS VERO MIX BANDA FUEGO 65 PZ",
+    "codigo": "ARI03294",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03294.jpg"
+  },
+{
+    "producto": "PAPAS FRITAS BOTANAS LAS NORIAS TRADICIONALES 810 GR",
+    "codigo": "ARI03295",
+    "categoria": "CAFETERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03295.jpg"
+  },
+{
+    "producto": " JALADOR REFORZADO IND. DE 75 CM ",
+    "codigo": "ARI03152",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03152.jpg"
+  },
+{
+    "producto": " KIT DE TORNILLO Y REPUESTO DE GOMA P/JALADOR REF. 75 CM",
+    "codigo": "ARI03153",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03153.jpg"
   }
 ]
-
