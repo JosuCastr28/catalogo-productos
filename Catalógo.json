@@ -12081,6 +12081,111 @@
     "categoria": "ELECTRICO",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02914.jpg"
+  },
+   {
+    "producto": "ESLINGA DE 2 ANCHO X 9 MTS LONGITUD",
+    "codigo": "ARI02915",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02915.jpg"
+  },
+   {
+    "producto": "CRAYON AZUL PRENSADO CAJA",
+    "codigo": "ARI02923",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02923.jpg"
+  },
+  {
+    "producto": "CRAYON ROJO PRENSADO CAJA",
+    "codigo": "ARI02924",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02924.jpg"
+  },
+    {
+    "producto": "MARTILLO DE MADERA",
+    "codigo": "ARI02925",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02925.jpg"
+  },
+    {
+    "producto": "UÑAS PARA GUITARRA",
+    "codigo": "ARI02926",
+    "categoria": "UÑAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02926.jpg"
+  },
+   {
+    "producto": "CUÑA A.INOX 3/32",
+    "codigo": "ARI02933",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02933.jpg"
+  },
+   {
+    "producto": "CUÑA A.INOX 1/16",
+    "codigo": "ARI02934",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02934.jpg"
+  },
+   {
+    "producto": "CUÑA A.INOX 1/8",
+    "codigo": "ARI02935",
+    "categoria": "INOXIDABLE",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02935.jpg"
+  },
+   {
+    "producto": "BALERO  6204.2RS",
+    "codigo": "2954",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02954.jpg"
+  },
+ {
+    "producto": "BALERO  6205.2RS",
+    "codigo": "2955",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02955.jpg"
+  },
+ {
+    "producto": "BALERO  6005.2RS",
+    "codigo": "2956",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02956.jpg"
+  },
+ {
+    "producto": "BALERO  6304.2RS",
+    "codigo": "2957",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02957.jpg"
+  },
+  {
+    "producto": "BALERO  6206.2RS",
+    "codigo": "2958",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02958.jpg"
+  },
+ {
+    "producto": "BALERO  6006.2RS",
+    "codigo": "2959",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02959.jpg"
+  },
+{
+    "producto": "BALERO  6000.2RS",
+    "codigo": "2960",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02960.jpg"
   }
 ]
 
