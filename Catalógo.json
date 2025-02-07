@@ -12867,11 +12867,137 @@
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03096.jpg"
   },
 {
-    "producto": "TORNILLO HEX 5/8X4 1/2",
-    "codigo": "ARI03096",
+    "producto": "VENTILADOR VN6-117 115V 50-60Hz MCA.STEREN",
+    "codigo": "ARI03100",
     "categoria": "VENTILADOR",
     "unidad": "PCE",
-    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03096.jpg"
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03100.jpg"
   },
+{
+    "producto": "SOLERA DE TIVAR 2 X 1/2 X 20",
+    "codigo": "ARI03102",
+    "categoria": "PERFILES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03102.jpg"
+  },
+{
+    "producto": "LIJADORA ORBITAL 2023 TRUPER",
+    "codigo": "ARI03103",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03103.jpg"
+  },
+{
+    "producto": "LIJADORA ORBITAL 2023 TRUPER",
+    "codigo": "ARI03103",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03103.jpg"
+  },
+{
+    "producto": "VENTILADOR M016P",
+    "codigo": "ARI03104",
+    "categoria": "VENTILADOR",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03104.jpg"
+  },
+{
+    "producto": "DESCANSO DE MADERA MISELANEO CON VENTANA 50 X 70 PS",
+    "codigo": "ARI03105",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03105.jpg"
+  },
+{
+    "producto": "ESMALTE ACUARIO CUBETA 19 LITROS",
+    "codigo": "ARI03106",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03106.jpg"
+  },
+{
+    "producto": "PINTURA VINILICA ACUARIO CUBETA 19 LITROS",
+    "codigo": "ARI03107",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03107.jpg"
+  },
+{
+    "producto": "PINTURA EPOXICA CON CATALIZADOR CUBETA 19 LITROS ACUARIO",
+    "codigo": "ARI03108",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03108.jpg"
+  },
+{
+    "producto": "MANDIL PLASTICO B",
+    "codigo": "ARI03109",
+    "categoria": "SEGURIDAD",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03109.jpg"
+  },
+{
+    "producto": "MANTECA TOLTECA 24 KILOS",
+    "codigo": "ARI03110",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03110.jpg"
+  },
+{
+    "producto": "BALERO 6301 ECO",
+    "codigo": "ARI03111",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03111.jpg"
+  },
+{
+    "producto": "BALERO 6203 ECO",
+    "codigo": "ARI03112",
+    "categoria": "BALEROS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03112.jpg"
+  },
+{
+    "producto": "ESLINGA PARA MOLDES PARA FLEJADO",
+    "codigo": "ARI03113",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03113.jpg"
+  },
+{
+    "producto": "PLASTINUDO  2MM X 10 CM. AGS",
+    "codigo": "ARI03114",
+    "categoria": "PLASTICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03114.jpg"
+  },
+{
+    "producto": "MANGUERA ASPIRADO NEGRA 2 (ROLLO 30 MTS)",
+    "codigo": "ARI03115",
+    "categoria": "MANGUERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03115.jpg"
+  },
+{
+    "producto": "ESTOPA AGS -TLX",
+    "codigo": "ARI03116",
+    "categoria": "TRAPO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03116.jpg"
+  },
+{
+    "producto": "HULE EVA DE 10X17 CM X 1",
+    "codigo": "ARI03117",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03117.jpg"
+  },
+{
+    "producto": "HULE EVA DE 10X13 CM X 1",
+    "codigo": "ARI03118",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03118.jpg"
+  }
 ]
 
