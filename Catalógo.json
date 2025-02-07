@@ -12140,52 +12140,507 @@
   },
    {
     "producto": "BALERO  6204.2RS",
-    "codigo": "2954",
+    "codigo": "ARI02954",
     "categoria": "BALEROS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02954.jpg"
   },
  {
     "producto": "BALERO  6205.2RS",
-    "codigo": "2955",
+    "codigo": "ARI02955",
     "categoria": "BALEROS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02955.jpg"
   },
  {
     "producto": "BALERO  6005.2RS",
-    "codigo": "2956",
+    "codigo": "ARI02956",
     "categoria": "BALEROS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02956.jpg"
   },
  {
     "producto": "BALERO  6304.2RS",
-    "codigo": "2957",
+    "codigo": "ARI02957",
     "categoria": "BALEROS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02957.jpg"
   },
   {
     "producto": "BALERO  6206.2RS",
-    "codigo": "2958",
+    "codigo": "ARI02958",
     "categoria": "BALEROS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02958.jpg"
   },
  {
     "producto": "BALERO  6006.2RS",
-    "codigo": "2959",
+    "codigo": "ARI02959",
     "categoria": "BALEROS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02959.jpg"
   },
 {
     "producto": "BALERO  6000.2RS",
-    "codigo": "2960",
+    "codigo": "ARI02960",
     "categoria": "BALEROS",
     "unidad": "PCE",
     "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02960.jpg"
+  },
+{
+    "producto": "REFLECTOR LED 100W LUZ BLANCA",
+    "codigo": "ARI02962",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02962.jpg"
+  },
+{
+    "producto": "ADHESIVO INSTANTANEO 725 20 GRS",
+    "codigo": "ARI02963",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02963.jpg"
+  },
+{
+    "producto": "ADHESIVO INSTANTANEO 793 20 GRS",
+    "codigo": "ARI02964",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02964.jpg"
+  },
+{
+    "producto": "RECTANGULO DE TELA",
+    "codigo": "ARI02966",
+    "categoria": "TRAPO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02966.jpg"
+  },
+{
+    "producto": "ANTIFAZ DE TELA",
+    "codigo": "ARI02967",
+    "categoria": "TRAPO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02967.jpg"
+  },
+{
+    "producto": "KIT PARA REPARACIONES EN CONCRETO",
+    "codigo": "ARI02968",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02968.jpg"
+  },
+{
+    "producto": "CUÑA PARA MONTAJE 5X1/2X3/4 MDY004",
+    "codigo": "ARI02969",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02969.jpg"
+  },
+{
+    "producto": "TABLAS PARA TANQUE 80 CM X 35 CM X 3 CM",
+    "codigo": "ARI02970",
+    "categoria": "MADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02970.jpg"
+  },
+{
+    "producto": "DESCANSO MADERA VENTANA TAZA",
+    "codigo": "ARI02974",
+    "categoria": "MADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02974.jpg"
+  },
+{
+    "producto": "POLIN DE 1.20 X 2-3/4 X 1-3/4",
+    "codigo": "ARI02975",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02975.jpg"
+  },
+{
+    "producto": "CUÑA PARA FLEJAR 2X2X6 MDY003",
+    "codigo": "ARI02976",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02976.jpg"
+  },
+{
+    "producto": "DESCANSOS DE MADERA CON REFUERZO MISELANEOS largo 92 X 28 X 3.8 cm",
+    "codigo": "ARI02977",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02977.jpg"
+  },
+{
+    "producto": "TABLA DE MADERA TQ DE 28 X 55 X 2 CM",
+    "codigo": "ARI02978",
+    "categoria": "MADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02978.jpg"
+  },
+{
+    "producto": "COSTAL DE ASERRIN",
+    "codigo": "ARI02979",
+    "categoria": "MADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02979.jpg"
+  },
+{
+    "producto": "KIT DE GRAPAS PARA BANDA ALIGUEYTOR",
+    "codigo": "ARI02980",
+    "categoria": "TORNILLERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02980.jpg"
+  },
+{
+    "producto": "RAFIA BLANCA",
+    "codigo": "ARI02987",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02987.jpg"
+  },
+{
+    "producto": "DESCANSO DE MADERA CON FIELTRO EN LA PARTE SUPERIOR DE 3",
+    "codigo": "2988",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02988.jpg"
+  },
+{
+    "producto": "ESMALTE COMEX 19 LITROS ",
+    "codigo": "ARI02989",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02989.jpg"
+  },
+{
+    "producto": "ESMALTE COMEX GALON",
+    "codigo": "ARI02990",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02990.jpg"
+  },
+{
+    "producto": "ESMALTE COMEX LITRO",
+    "codigo": "ARI02991",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02991.jpg"
+  },
+{
+    "producto": "PINTURA VINILICA  19 LITROS",
+    "codigo": "ARI02992",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02992.jpg"
+  },
+{
+    "producto": "PINTURA VINILICA  GALON",
+    "codigo": "ARI02993",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02993.jpg"
+  },
+{
+    "producto": "PINTURA VINILICA  LITRO",
+    "codigo": "ARI02994",
+    "categoria": "PINTURA Y ESMALTES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI02994.jpg"
+  },
+{
+    "producto": "FIBRA VERDE EQUIVALENTE P96",
+    "codigo": "ARI03004",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03004.jpg"
+  },
+{
+    "producto": "DESCANSO MADERA  CON VENTANA Y REFUERZO  DE 50X70",
+    "codigo": "ARI03005",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03005.jpg"
+  },
+{
+    "producto": "MARCADOR CERA PHANO CAFÉ",
+    "codigo": "ARI03008",
+    "categoria": "PAPELERIA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03008.jpg"
+  },
+{
+    "producto": "LIJA MESCH P80",
+    "codigo": "ARI03009",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03009.jpg"
+  },
+{
+    "producto": "ABRAZADERA TIPO PERRO 1/4 PER-3",
+    "codigo": "ARI03011",
+    "categoria": "ABRAZADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03011.jpg"
+  },
+{
+    "producto": "ABRAZADERA TIPO PERRO 3/8 PER-5",
+    "codigo": "ARI03012",
+    "categoria": "ABRAZADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03012.jpg"
+  },
+{
+    "producto": "ABRAZADERA TIPO PERRO 5/16 PER-4",
+    "codigo": "ARI03013",
+    "categoria": "ABRAZADERA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03013.jpg"
+  },
+{
+    "producto": "ADHESIVO  P/TORNILLO 51H PERMATEX",
+    "codigo": "ARI03015",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03015.jpg"
+  },
+{
+    "producto": "AFLOJATODO EN GALON WD-40  3.785 LTS",
+    "codigo": "ARI03016",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03016.jpg"
+  },
+{
+    "producto": "BISAGRA TIPO LIBRO  DE 4",
+    "codigo": "ARI03017",
+    "categoria": "CERRADURA Y CANDADO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03017.jpg"
+  },
+{
+    "producto": "BROCA DE 11/32 A.V",
+    "codigo": "ARI03018",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03018.jpg"
+  },
+{
+    "producto": "BROCA DE 13/32  A.V",
+    "codigo": "ARI03019",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03019.jpg"
+  },
+{
+    "producto": "BROCA DE 15/32",
+    "codigo": "ARI03020",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03020.jpg"
+  },
+{
+    "producto": "BROCA DE 15/64",
+    "codigo": "ARI03021",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03021.jpg"
+  },
+{
+    "producto": "BROCA DE 19/64",
+    "codigo": "ARI03022",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03022.jpg"
+  },
+{
+    "producto": "BROCA DE 21/64",
+    "codigo": "ARI03023",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03023.jpg"
+  },
+{
+    "producto": "BROCA DE 23/64",
+    "codigo": "ARI03024",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03024.jpg"
+  },
+{
+    "producto": "BROCA DE 27/64",
+    "codigo": "ARI03025",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03025.jpg"
+  },
+{
+    "producto": "BROCA DE 29/64",
+    "codigo": "ARI03026",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03026.jpg"
+  },
+{
+    "producto": "BROCA DE 31/64",
+    "codigo": "ARI03027",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03027.jpg"
+  },
+{
+    "producto": "BROCA DE 7/32",
+    "codigo": "ARI03028",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03028.jpg"
+  },
+{
+    "producto": "BROCA DE 9/32",
+    "codigo": "ARI03029",
+    "categoria": "BROCAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03029.jpg"
+  },
+{
+    "producto": "CABEZA PARA MARTILLO NO. 15 CABEL",
+    "codigo": "ARI03030",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03030.jpg"
+  },
+{
+    "producto": "CABEZA PARA MARTILLO NO. 20 CABEL",
+    "codigo": "ARI03031",
+    "categoria": "HERRAMIENTA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03031.jpg"
+  },
+{
+    "producto": "CINTA ROJA DE 4 ( PELIGRO )",
+    "codigo": "ARI03032",
+    "categoria": "CINTAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03032.jpg"
+  },
+{
+    "producto": "CONECTOR RAPIDO HEMBRA 3/8  (CUERDA INTERIOR)",
+    "codigo": "ARI03033",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03033.jpg"
+  },
+{
+    "producto": "CONECTOR RAPIDO HEMBRA 3/8  (CUERDA EXTERIOR)",
+    "codigo": "ARI03034",
+    "categoria": "CONEXIONES",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03034.jpg"
+  },
+{
+    "producto": "DISCO DE DESBASTE CLAVE  381 ",
+    "codigo": "ARI03035",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03035.jpg"
+  },
+{
+    "producto": "DISCO DE DESBASTE  4 1/2 CL. 372",
+    "codigo": "ARI03036",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03036.jpg"
+  },
+{
+    "producto": "DISCO DIAMANTE AZUL MOD.  818",
+    "codigo": "ARI03037",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03037.jpg"
+  },
+{
+    "producto": "ESLINGA MOD. EP222",
+    "codigo": "ARI03038",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03038.jpg"
+  },
+{
+    "producto": "ESLINGA REDONDA MOD ER11 ",
+    "codigo": "ARI03039",
+    "categoria": "MANEJO Y SUJECION DE CARGA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03039.jpg"
+  },
+{
+    "producto": "FIJADOR DE ROSCAS 242-31 LOCTITE ",
+    "codigo": "ARI03040",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03040.jpg"
+  },
+{
+    "producto": "FIJADOR DE ROSCAS 271-31 LOCTITE",
+    "codigo": "ARI03041",
+    "categoria": "ADHESIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03041.jpg"
+  },
+{
+    "producto": "HOJA DE NEOPRENO NEGRO DE 1/4 X 1 MT",
+    "codigo": "ARI03043",
+    "categoria": "PLACA/ LAMINAS",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03043.jpg"
+  },
+{
+    "producto": "LIJA P/METAL GRADO 120",
+    "codigo": "ARI03044",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03044.jpg"
+  },
+{
+    "producto": "JABÓN EN POLVO   BOLSA 1 KGS MCA. ROMA",
+    "codigo": "ARI03045",
+    "categoria": "LIMPIEZA",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03045.jpg"
+  },
+{
+    "producto": "LIJA PARA METAL GRANO 100",
+    "codigo": "ARI03046",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03046.jpg"
+  },
+{
+    "producto": "LIMA ROTATIVA SL130  2288 austro",
+    "codigo": "ARI03047",
+    "categoria": "ABRASIVO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03047.jpg"
+  },
+{
+    "producto": "LINTERNA RECARGABLE PRETUL LED26102",
+    "codigo": "ARI03048",
+    "categoria": "ELECTRICO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03048.jpg"
+  },
+{
+    "producto": "MANOMETRO 0-600 MBAR  4 INOX. CONEX INF 1/4 DE WIT",
+    "codigo": "ARI03049",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03049.jpg"
+  },
+{
+    "producto": "MANÓMETRO C/GLICERINA ENT 1/4 INF. CART 2 1/2 0-11KG",
+    "codigo": "ARI03050",
+    "categoria": "MANOMETRO",
+    "unidad": "PCE",
+    "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI03050.jpg"
   }
 ]
 
