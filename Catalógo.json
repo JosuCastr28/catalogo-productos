@@ -3364,7 +3364,7 @@
   "categoria": "ELECTRICO",
   "producto": "CONTACTO 3/POLOS 3/4/VUELTA",
   "unidad": "PCE",
-  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes/ARI00741.jpg"
+  "imagen": "https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes4/ARI00741.png"
 },
 {
   "codigo": "ARI00742",
@@ -4457,7 +4457,7 @@
     "codigo": "ARI01018",
     "categoria": "CONEXIONES",
     "unidad": "PCE",
-     "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01018.jpg"
+     "imagen":"https://raw.githubusercontent.com/JosuCastr28/catalogo-productos/main/imagenes2/ARI01019.jpg"
   },
   {
     "producto": "ESPIGA 3/4 X 3/4\" NPT",
